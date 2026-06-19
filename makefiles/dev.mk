@@ -27,9 +27,9 @@ dev_lint_fix: ## Auto-fix lint issues and format code
 dev_format: dev_lint_fix ## Alias for dev_lint_fix (backwards compatible)
 
 .PHONY: dev_test_feed
-dev_test_feed: ## Run a test feed generator (ollama)
-	$(call print_info,Running ollama_blog.py as test feed)
-	$(Q)uv run feed_generators/ollama_blog.py
+dev_test_feed: ## Run a test feed generator (claude)
+	$(call print_info,Running claude_blog.py as test feed)
+	$(Q)uv run feed_generators/claude_blog.py
 	$(call print_success,Test feed completed)
 
 .PHONY: dev_test_all
