@@ -258,7 +258,7 @@ def setup_feed_links(fg: FeedGenerator, blog_url: str, feed_name: str) -> None:
 
     The repo slug is configurable via the RSS_REPO_SLUG environment variable,
     defaulting to "Olshansk/rss-feeds". Fork users can override it:
-        RSS_REPO_SLUG=oborchers/rss-feeds uv run feed_generators/ollama_blog.py
+        RSS_REPO_SLUG=oborchers/rss-feeds uv run feed_generators/claude_blog.py
 
     Args:
         fg: FeedGenerator instance

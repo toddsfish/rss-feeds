@@ -102,30 +102,6 @@ generate_anthropic_engineering_feed: feeds_anthropic_engineering ## (Legacy) Gen
 .PHONY: generate_anthropic_research_feed
 generate_anthropic_research_feed: feeds_anthropic_research ## (Legacy) Generate Anthropic Research feed
 
-.PHONY: generate_anthropic_changelog_claude_code_feed
-generate_anthropic_changelog_claude_code_feed: feeds_anthropic_changelog_claude_code ## (Legacy) Generate Claude Code changelog feed
-
-.PHONY: generate_google_ai_feed
-generate_google_ai_feed: feeds_google_ai ## (Legacy) Generate Google AI feed
-
-.PHONY: generate_openai_research_feed
-generate_openai_research_feed: feeds_openai_research ## (Legacy) Generate OpenAI Research feed
-
-.PHONY: generate_ollama_feed
-generate_ollama_feed: feeds_ollama ## (Legacy) Generate Ollama feed
-
-.PHONY: generate_paulgraham_feed
-generate_paulgraham_feed: feeds_paulgraham ## (Legacy) Generate Paul Graham feed
-
-.PHONY: generate_blogsurgeai_feed
-generate_blogsurgeai_feed: feeds_blogsurgeai ## (Legacy) Generate Surge AI Blog feed
-
-.PHONY: generate_xainews_feed
-generate_xainews_feed: feeds_xainews ## (Legacy) Generate xAI News feed
-
-.PHONY: generate_thinkingmachines_feed
-generate_thinkingmachines_feed: feeds_thinkingmachines ## (Legacy) Generate Thinking Machines Lab feed
-
 .PHONY: test_feed_workflow
 test_feed_workflow: ci_test_workflow_local ## (Legacy) Test feed workflow locally
 
@@ -137,6 +113,3 @@ act_run_feeds_workflow: ci_run_feeds_workflow_local ## (Legacy) Run feeds workfl
 
 .PHONY: gh_run_feeds_workflow
 gh_run_feeds_workflow: ci_trigger_feeds_workflow ## (Legacy) Trigger feeds workflow on GitHub
-
-.PHONY: generate_the_batch_feed
-generate_the_batch_feed: feeds_the_batch ## (Legacy) Generate The Batch feed
