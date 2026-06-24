@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Google Cloud Blog</title>
+    <link>https://cloud.google.com/blog</link>
+    <description>Latest posts from the Google Cloud Blog</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_googlecloud.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jun 2026 10:43:01 +0000</lastBuildDate>
+    <item>
+      <title>Boost BigQuery with Python: Managed Python UDFs now generally available</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available</link>
+      <description>By Sandeep Karmarkar • 4-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/python-udf-in-bigquery-now-generally-available</guid>
+      <category>Data Analytics</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Log Analytics is now Observability Analytics: Query logs and traces with SQL</title>
+      <link>https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics</link>
+      <description>By Joy Wang • 5-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics</guid>
+      <category>Management Tools</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open models, global networks: How AT&amp;T and GSMA are accelerating telecom innovation with Gemma</title>
+      <link>https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma</link>
+      <description>By Sridhar Gollapudi • 4-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/topics/telecommunications/open-models-global-networks-how-att-and-gsma-are-accelerating-innovation-with-gemma</guid>
+      <category>Telecommunications</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verifiable, private AI: Google Cloud expands Confidential Computing frontiers</title>
+      <link>https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing</link>
+      <description>Verifiable, private AI: Google Cloud expands Confidential Computing frontiers</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/verifiable-trust-in-the-ai-era-whats-new-in-confidential-computing</guid>
+      <category>Identity Security</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Starter Tier for Google AI Studio explained</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained</link>
+      <description>By Karl Weinmeister • 13-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/the-starter-tier-for-google-ai-studio-explained</guid>
+      <category>Developers Practitioners</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Choice, compliance, and collaboration: Europe’s path to open digital sovereignty</title>
+      <link>https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty</link>
+      <description>By Giorgia Abeltino • 5-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty</guid>
+      <category>Identity Security</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud Network Insights: end-to-end observability for the Cross-Cloud Network</title>
+      <link>https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability</link>
+      <description>By Poonam Yadav • 7-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/networking/cloud-network-insights-end-to-end-cross-cloud-observability</guid>
+      <category>Networking</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Ray Serve LLM on GKE: Performance without losing the developer experience</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency</link>
+      <description>By Spencer Peterson • 3-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/containers-kubernetes/improving-ray-serve-llm-on-gke-throughput-latency</guid>
+      <category>Containers Kubernetes</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google named a Leader in IDC MarketScape SIEM 2026 Vendor Assessment</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment</link>
+      <description>By Jon Ramsey • 4-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-idc-marketscape-siem-2026-vendor-assessment</guid>
+      <category>Identity Security</category>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Brazos: Bringing liquid cooling to air-cooled data centers</title>
+      <link>https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers</link>
+      <description>By Jorge Padilla • 2-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/topics/systems/brazos-liquid-cooling-system-for-air-cooled-data-centers</guid>
+      <category>Systems</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s new in data agents: Supercharging your AI workflows</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud</link>
+      <description>By Sean Rhee • 7-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud</guid>
+      <category>Data Analytics</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing new Explores and Merge Queries in Looker</title>
+      <link>https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates</link>
+      <description>By Dharini Ramakrishnan • 3-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/business-intelligence/looker-explore-ai-and-interface-updates</guid>
+      <category>Business Intelligence</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research</link>
+      <description>By Google Threat Intelligence Group • 21-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research</guid>
+      <category>Threat Intelligence</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I learned Go in a Day with Antigravity 2.0 and How You Can Do the Same</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same</link>
+      <description>By Alex "Sandu" Astrum • 10-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/topics/developers-practitioners/how-i-learned-go-in-a-day-with-antigravity-20-and-how-you-can-do-the-same</guid>
+      <category>Developers Practitioners</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Open Knowledge Format</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing</link>
+      <description>By Sam McVeety • 8-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing</guid>
+      <category>Data Analytics</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5: Available on Google Cloud</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud</link>
+      <description>By Michael Gerstenhaber • 1-minute read</description>
+      <guid isPermaLink="false">https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud</guid>
+      <category>Ai Machine Learning</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

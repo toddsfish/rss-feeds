@@ -39,3 +39,8 @@ feeds:
     script: claude_blog.py
     type: requests
     blog_url: https://claude.com/blog
+
+  googlecloud:
+    script: googlecloud_blog.py
+    type: requests
+    blog_url: https://cloud.google.com/blog
