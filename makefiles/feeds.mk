@@ -58,6 +58,20 @@ feeds_claude_full: ## Generate RSS feed for Claude Blog (full reset)
 	$(Q)uv run feed_generators/claude_blog.py --full
 	$(call print_success,Claude Blog feed generated - full reset)
 
+.PHONY: feeds_pulumi
+feeds_pulumi: ## Generate RSS feed for Pulumi Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Pulumi Blog feed)
+	$(Q)uv run feed_generators/pulumi_blog.py
+	$(call print_success,Pulumi Blog feed generated)
+
+.PHONY: feeds_pulumi_full
+feeds_pulumi_full: ## Generate RSS feed for Pulumi Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Pulumi Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/pulumi_blog.py --full
+	$(call print_success,Pulumi Blog feed generated - full reset)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
