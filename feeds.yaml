@@ -39,3 +39,8 @@ feeds:
     script: claude_blog.py
     type: requests
     blog_url: https://claude.com/blog
+
+  pulumi:
+    script: pulumi_blog.py
+    type: requests
+    blog_url: https://www.pulumi.com/blog/
