@@ -28,6 +28,7 @@ Scraped feeds are generated hourly. "Official RSS" rows point to native feeds th
 | [Simon Willison's Blog (Tools)](https://simonwillison.net/)                                       | [Official RSS](https://simonwillison.net/atom/beats/tool/)                                                                           |
 | [Supabase Blog](https://supabase.com/blog)                                                        | [Official RSS](https://supabase.com/rss.xml)                                                                                         |
 | [Thinking Machines Lab](https://thinkingmachines.ai/blog/)                                        | [Official RSS](https://thinkingmachines.ai/blog/index.xml)                                                                           |
+| [TLDR](https://tldr.tech)                                                                          | [Official RSS](https://tldr.tech/rss)                                                                                                |
 
 ### Planned <!-- omit in toc -->
 
