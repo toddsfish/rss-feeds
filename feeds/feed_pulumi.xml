@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 18:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:04:31 +0000</lastBuildDate>
+    <item>
+      <title>Sign in to Pulumi Cloud with Passkeys</title>
+      <link>https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</link>
+      <description>Pulumi Cloud now supports passkeys: a phishing-resistant alternative to typing your password, for users who sign in with email and password.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New: Versioned CLI and SDK Docs</title>
       <link>https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</link>
-      <description>The Pulumi CLI command reference and SDK API docs now include a version selector, so you can browse the docs that match the release you're running.</description>
+      <description>New: Versioned CLI and SDK Docs</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enforce ISO 27001 Across Your AWS Infrastructure</title>
-      <link>https://www.pulumi.com/blog/iso-27001-policy-pack-for-aws</link>
-      <description>Enforce ISO 27001 Across Your AWS Infrastructure</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/iso-27001-policy-pack-for-aws</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fully Automated AI Inference on AWS, Azure, and Google Cloud with Pulumi</title>
