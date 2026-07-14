@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:45:01 +0000</lastBuildDate>
+    <item>
+      <title>Knowledge as Code: The Memory File Just Got a Spec</title>
+      <link>https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</link>
+      <description>Google's Open Knowledge Format: a one-page spec for the LLM wiki. Markdown, one required field, git. Why knowledge as code is your agent loop's missing layer.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sign in to Pulumi Cloud with Passkeys</title>
       <link>https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</link>
-      <description>Pulumi Cloud now supports passkeys: a phishing-resistant alternative to typing your password, for users who sign in with email and password.</description>
+      <description>Sign in to Pulumi Cloud with Passkeys</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -22,13 +29,6 @@
       <description>New: Versioned CLI and SDK Docs</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fully Automated AI Inference on AWS, Azure, and Google Cloud with Pulumi</title>
-      <link>https://www.pulumi.com/blog/fully-automated-ai-inference-aws-azure-gcp-pulumi</link>
-      <description>Fully Automated AI Inference on AWS, Azure, and Google Cloud with Pulumi</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/fully-automated-ai-inference-aws-azure-gcp-pulumi</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Test Infrastructure as Code</title>
