@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:39:13 +0000</lastBuildDate>
     <item>
       <title>Knowledge as Code: The Memory File Just Got a Spec</title>
       <link>https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</link>
-      <description>Google's Open Knowledge Format: a one-page spec for the LLM wiki. Markdown, one required field, git. Why knowledge as code is your agent loop's missing layer.</description>
+      <description>Knowledge as Code: The Memory File Just Got a Spec</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Usage Limits for Pulumi Neo</title>
+      <link>https://www.pulumi.com/blog/neo-usage-limits</link>
+      <description>Set monthly organization or per-member Pulumi Neo dollar limits and get alerts via email.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/neo-usage-limits</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -29,13 +36,6 @@
       <description>New: Versioned CLI and SDK Docs</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Test Infrastructure as Code</title>
-      <link>https://www.pulumi.com/blog/how-to-test-infrastructure-as-code</link>
-      <description>How to Test Infrastructure as Code</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/how-to-test-infrastructure-as-code</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
