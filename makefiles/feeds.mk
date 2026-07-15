@@ -58,6 +58,20 @@ feeds_claude_full: ## Generate RSS feed for Claude Blog (full reset)
 	$(Q)uv run feed_generators/claude_blog.py --full
 	$(call print_success,Claude Blog feed generated - full reset)
 
+.PHONY: feeds_jamiehurst
+feeds_jamiehurst: ## Generate RSS feed for Jamie Hurst's Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Jamie Hurst's Blog feed)
+	$(Q)uv run feed_generators/jamiehurst_blog.py
+	$(call print_success,Jamie Hurst's Blog feed generated)
+
+.PHONY: feeds_jamiehurst_full
+feeds_jamiehurst_full: ## Generate RSS feed for Jamie Hurst's Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Jamie Hurst's Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/jamiehurst_blog.py --full
+	$(call print_success,Jamie Hurst's Blog feed generated - full reset)
+
 .PHONY: feeds_pulumi
 feeds_pulumi: ## Generate RSS feed for Pulumi Blog (incremental)
 	$(call check_venv)

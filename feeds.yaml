@@ -40,6 +40,11 @@ feeds:
     type: requests
     blog_url: https://claude.com/blog
 
+  jamiehurst:
+    script: jamiehurst_blog.py
+    type: requests
+    blog_url: https://jamiehurst.co.uk
+
   pulumi:
     script: pulumi_blog.py
     type: requests
