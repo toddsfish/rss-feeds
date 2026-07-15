@@ -51,6 +51,7 @@ def fetch_page(url: str) -> str:
     response.encoding = "utf-8"
     return response.text
 
+
 # Listing dates look like "Posted on Sunday May 24, 2026".
 DATE_PREFIX_RE = re.compile(r"^Posted on\s+", re.IGNORECASE)
 DATE_FORMATS = [
