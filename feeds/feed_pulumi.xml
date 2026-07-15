@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 04:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:03:22 +0000</lastBuildDate>
+    <item>
+      <title>Connect Your Cloud Accounts to Pulumi in Minutes</title>
+      <link>https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</link>
+      <description>Onboard your AWS, Azure, and Google Cloud accounts to Pulumi Insights in bulk with the new Connect cloud accounts wizard. OIDC-based, no long-lived secrets.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Knowledge as Code: The Memory File Just Got a Spec</title>
       <link>https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Introducing Usage Limits for Pulumi Neo</title>
       <link>https://www.pulumi.com/blog/neo-usage-limits</link>
-      <description>Set monthly organization or per-member Pulumi Neo dollar limits and get alerts via email.</description>
+      <description>Introducing Usage Limits for Pulumi Neo</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/neo-usage-limits</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -29,13 +36,6 @@
       <description>Sign in to Pulumi Cloud with Passkeys</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: Versioned CLI and SDK Docs</title>
-      <link>https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</link>
-      <description>New: Versioned CLI and SDK Docs</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
