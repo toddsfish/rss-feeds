@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Jamie Hurst's Blog</title>
+    <link>https://jamiehurst.co.uk</link>
+    <description>Latest posts from Jamie Hurst's Blog</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_jamiehurst.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jul 2026 06:07:46 +0000</lastBuildDate>
+    <item>
+      <title>Is this sustainable?</title>
+      <link>https://jamiehurst.co.uk/2026-05-24_ai-sustainable</link>
+      <description>I've been a principal engineer at the same company for three years now. The job I do today and the job I started in 2023 share a title and a level, and not much else. AI has reshaped both what I do and how I do it, and I've been meaning to write down what that actually looks like from inside the role rather than the version you read about in productivity reports.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2026-05-24_ai-sustainable</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journal v1.0: A Simple Go Project That Grew Up</title>
+      <link>https://jamiehurst.co.uk/2026-04-29_journal-v1</link>
+      <description>I've been working on a little side project called Journal for several years - a simple web-based journalling application written in Go. After a long time in pre-release, I recently shipped v1.0, and wanted to write about what it is, what changed, and why I still think it's worth maintaining and growing.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2026-04-29_journal-v1</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Hype: Lessons from Pragmatic Summit</title>
+      <link>https://jamiehurst.co.uk/2026-02-16_pragmatic-summit</link>
+      <description>I flew to San Francisco for the Pragmatic Summit, leaving my family behind for a few days to discuss AI with some of the industry's most thoughtful voices on software engineering. With a young son at home, I found myself questioning whether it was worth it. Spoiler: it absolutely was.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2026-02-16_pragmatic-summit</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Dangers of Hype</title>
+      <link>https://jamiehurst.co.uk/2025-05-19_dangers-of-hype</link>
+      <description>The last few months have seen a huge shift in the developer community: the advent of generative AI and the huge focus it now has within the technology industry. Everything now has "AI" in the title, and there are wild claims about agents replacing developers and performing the same tasks. But what is some of the reality behind it, and is it all just a load of hype?</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2025-05-19_dangers-of-hype</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nostalgia on Retro Programming</title>
+      <link>https://jamiehurst.co.uk/2025-05-11_nostalgia-on-retro-programming</link>
+      <description>Remember the days of table-based layouts, FTP deployments, and coding PHP in Notepad++? Before Git workflows, containerization, and AI-assisted coding, there was a simpler era of web development that shaped many of us. I've been a developer now for almost 20 years, but back when I was learning and practising my new skills, I was coding things in PHP on Windows machines—something I haven't done for a very long time, but remember very fondly. Given how dramatically the developer experience has transformed over the last few months with generative AI tools, never mind the past two decades, I wanted to revisit a slightly simpler time and see what development was really like back in 2005.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2025-05-11_nostalgia-on-retro-programming</guid>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Returning to Work</title>
+      <link>https://jamiehurst.co.uk/2025-01-28_returning-to-work</link>
+      <description>2024 was a year where a lot changed - we welcomed our son into the world in June, and that brought an amazing and privileged opportunity to take the rest of the year off and spend it getting to know my son and looking after him until the New Year. Now that I've returned to work for almost 4 weeks, how am I feeling and how have my views on my day job changed?</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2025-01-28_returning-to-work</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PKM Update and Obsidian Plugins</title>
+      <link>https://jamiehurst.co.uk/2024-12-31_pkm-update-plugins</link>
+      <description>After demonstrating last year how I use Obsidian to manage my day-to-day activities and longer term professional learnings, I wanted to take a step back while I was away from work and see what I could improve in my workflow. What resulted was a side project that produced 3 Obsidian plugins that help to orchestrate the workflow, and are available for everyone to use in a similar way.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-12-31_pkm-update-plugins</guid>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My MacBook Pro Setup</title>
+      <link>https://jamiehurst.co.uk/2024-12-21_mac-setup</link>
+      <description>In an effort to prolong the life of my current home machine, I recently formatted it and set things up from the ground up, thinking carefully about what I needed to build some projects in the background. This documents exactly what I have in place, and why.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-12-21_mac-setup</guid>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating a Static Site Generator</title>
+      <link>https://jamiehurst.co.uk/2024-11-12_static-site-generator</link>
+      <description>Most of the world runs on one CMS (content management system) platform, Wordpress. It is convenient for those of us who don't know how to build a site from scratch, but for those who want a small, lightweight and simple-to-use blog or static website, there are a few other options out there. Rather than using Hugo, Next.js or a pre-packaged option, it's very easy to build a Markdown-to-HTML generator in Python and get it ready to deploy to a static site server or even AWS S3.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-11-12_static-site-generator</guid>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moving from Terraform to CDK</title>
+      <link>https://jamiehurst.co.uk/2024-08-30_terraform-cdk</link>
+      <description>After using Terraform to build my AWS infrastructure almost since I first started, for the last year ot so I've been trying my hand with AWS CDK instead, a different approach that has some interesting advantages over the traditional Terraform state model, not least by missing out the TF AWS provider!</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-08-30_terraform-cdk</guid>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Losing the Discovery</title>
+      <link>https://jamiehurst.co.uk/2024-08-10_losing-discovery</link>
+      <description>Earlier this year, after spending quite a bit of time (and money!) getting the Discovery into a very usable and stable condition, there was an unfortunate incident that put the majority of that to waste. Here's a bit of a story about all the effort I put into the car since the first year, and where I ended up.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-08-10_losing-discovery</guid>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing Golang and AWS DynamoDB with TestContainers</title>
+      <link>https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontainers</link>
+      <description>While trying out a refactor for my Journal and a move towards more native AWS services with Lambda and DynamoDB, trying to fully test the application without using an AWS account itself started to become challenging. This article gives an overview of how you can use DynamoDB with Golang, and how to use TestContainers, something I've used extensively with Java, in place of a docker compose setup to wrap your Go tests.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontainers</guid>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Year (Almost) in Developer Experience</title>
+      <link>https://jamiehurst.co.uk/2023-12-29_a-year-in-developer-experience</link>
+      <description>Almost a year ago, I started a new role as a Principal Software Engineer in Developer Experience, a role that while I'm passionate about, definitely started with some misconceptions. This is a short article about some of my initial experiences over the last year and the important takeaways I have, and how I'm going to use this to go forward in 2024.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2023-12-29_a-year-in-developer-experience</guid>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PKM: How I Organise Myself</title>
+      <link>https://jamiehurst.co.uk/2023-09-17_pkm</link>
+      <description>PKM (personal knowledge management) is something I started in my last position and have continued at my latest job. I use it to track everything I'm learning and doing, reviewing how my personal growth is being impacted on a frequent basis too so I can make changes that improve my performance day-to-day. It sounds extreme, but it doesn't take too much time.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2023-09-17_pkm</guid>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saving Money With AWS Lambdas</title>
+      <link>https://jamiehurst.co.uk/2023-07-23_saving-money-with-lambdas</link>
+      <description>I host this website and my Jenkins setup on AWS, and have detailed in the past how I automate the setup of this . However, running an EC2 24/7 to handle occasional CI builds for personal projects didn't seem like the best idea, and I wanted to see if I could save money by thinking the process through a bit. This explains how I used AWS lambdas to automate the started of an EC2 through the AWS CLI, and how to set this up within GitHub and Jenkins to drop your single EC2 instance bill by around 90-95%.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2023-07-23_saving-money-with-lambdas</guid>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevHub North - Tesco Bank Technology</title>
+      <link>https://jamiehurst.co.uk/2022-11-18_devhub-north</link>
+      <description>A few weeks ago, I had the opportunity to speak at the first DevHub North post-pandemic about the journey so far at Tesco Bank Technology, and how far we've come in a few years.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-11-18_devhub-north</guid>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Car History - Part 3</title>
+      <link>https://jamiehurst.co.uk/2022-08-22_car-history-part-3</link>
+      <description>Or the tale of two Land Rover Discoverys... The final part of my car history, including what I'm driving around in today (correct as of August 2022).</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-08-22_car-history-part-3</guid>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Car History - Part 2</title>
+      <link>https://jamiehurst.co.uk/2022-08-15_car-history-part-2</link>
+      <description>Continuing the last post, part 2 details some newer cars when I was having a little more of a "sensible" period, but that didn't last long...</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-08-15_car-history-part-2</guid>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Car History</title>
+      <link>https://jamiehurst.co.uk/2022-08-07_car-history</link>
+      <description>Since I started driving in 2007 I seem to have run through quite a few cars, and more than anything I wanted to get a little bit written on them in one place. I've had 14 cars over the years, 2 of which I still have. I tend to change them fairly often, but some I keep longer than others if I form a bit more of an affinity with them. Anyway, I thought a run through what I've had might be interesting for someone at the very least.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-08-07_car-history</guid>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated Version Releases</title>
+      <link>https://jamiehurst.co.uk/2022-06-02_automated-version-releases</link>
+      <description>Choosing the next version for your application or side-project can be a tricky process - when you do increase your major version, and what if your patch number is getting a little high? v1.0.0 looks a lot better than v0.1.567 but what's the best approach? I wanted a way of calculating the version automatically using commit messages and built some generic Groovy scripts that can be used in Jenkins builds to increment a version automatically when I merge a PR or push straight to main. This shows the code samples I've put together and how I've been using this privately up until now.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-06-02_automated-version-releases</guid>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Zero to Production in Azure with Terraform</title>
+      <link>https://jamiehurst.co.uk/2022-03-13_from-zero-to-production-in-azure-with-terraform</link>
+      <description>After recent adventures in tackling Azure from the ground up with only AWS experience on hand, it's time to walk through some of the pros, some of the gotchas, and how to practically build a production-ready Kubernetes stack in Azure using Terraform.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-03-13_from-zero-to-production-in-azure-with-terraform</guid>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go With Docker</title>
+      <link>https://jamiehurst.co.uk/2022-02-06_go_with_docker</link>
+      <description>I explain how to use Docker with my a simple web server in Go, how that can be integrated that into a build pipeline in Jenkins to illustrate test results and code coverage.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-02-06_go_with_docker</guid>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Terraform and Ansible</title>
+      <link>https://jamiehurst.co.uk/2022-01-15_terraform-and-ansible</link>
+      <description>A guide to coupling a few using infrastructure as code and configuaration tools together to provide an effective, repeatable pattern for building instances both locally and remotely.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-01-15_terraform-and-ansible</guid>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motivation for Side Projects</title>
+      <link>https://jamiehurst.co.uk/2022-01-08_motivation-for-side-projects</link>
+      <description>A few ideas I've used over the years when working on projects outside of the day job, and how I try and stay motivated as I build them.</description>
+      <guid isPermaLink="false">https://jamiehurst.co.uk/2022-01-08_motivation-for-side-projects</guid>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
