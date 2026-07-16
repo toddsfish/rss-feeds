@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Brettski's Blog</title>
+    <link>https://brettski.net</link>
+    <description>Latest posts from Brettski's Blog</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_brettski.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jul 2026 00:24:48 +0000</lastBuildDate>
+    <item>
+      <title>AWS Engineering is Amazing but Could Be (a little) Better</title>
+      <link>https://brettski.net/blog/aws-engineering.html</link>
+      <description>One of the things I loved about working at AWS was seeing how the services were built. All of the services teams are super-committed to building incredibly scalable technology that is highly resilient and "just works".</description>
+      <guid isPermaLink="false">https://brettski.net/blog/aws-engineering.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CloudFormation is Sometimes Very Slow</title>
+      <link>https://brettski.net/blog/cloudformation-s3-bucket-policy.html</link>
+      <description>I made a mistake today - I updated a CloudFormation template and accidentally did not put quite the right thing into a S3 bucket policy:</description>
+      <guid isPermaLink="false">https://brettski.net/blog/cloudformation-s3-bucket-policy.html</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Lambda and ECR Cross-Account Access</title>
+      <link>https://brettski.net/blog/aws-ecr-lambda-cross-account.html</link>
+      <description>I've just spent a day and a bit banging my head against a brick wall.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/aws-ecr-lambda-cross-account.html</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Random Memory #1</title>
+      <link>https://brettski.net/blog/random-memory-01.html</link>
+      <description>I came across this photo while scrolling through my phone the other day and had to have a laugh about it.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/random-memory-01.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - June 2026</title>
+      <link>https://brettski.net/blog/reading-june-2026.html</link>
+      <description>I chose this book because it was free from Kindle; I was in an airport and needed something to read; and it said "sci-fi/fantasy/romance". So why not? It absolutely covers those topics and a few others - magic, music - it's quite extensive. The prose around the music and magic part of the book is excellent but the story itself is very simple with the heroine escaping from drastic situations time and time again with effort that is written as difficult but is them pretty much dismissed right after that. Lots of incredible coincidences (but then again, there is some time travel involved so that's to be expected) which require the reader to suspend belief a lot. All up, not a bad story and I'm probably being too critical - for young adults it may be just the thing on a rainy winter afternoon. But it does end rather abruptly - perhaps there is a sequel in the works?</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-june-2026.html</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern Frameworks are a Bit Annoying</title>
+      <link>https://brettski.net/blog/modern-frameworks.html</link>
+      <description>TL;DR: Frameworks within frameworks within frameworks are driving me a bit crazy.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/modern-frameworks.html</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - May 2026</title>
+      <link>https://brettski.net/blog/reading-may-2026.html</link>
+      <description>I really like the way Mandel writes - such (mostly!) simple sentences that convey so much. There are exceptions - she does long, unbroken passages too - and they are just as easy to read, flowing into my imagination naturally, without having to expend too much effort to bring the scene to life. I think her other books I've read (Station Elevn and Sea of Tranquility) are a bit better but this is still a good read.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-may-2026.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - April 2026</title>
+      <link>https://brettski.net/blog/reading-april-2026.html</link>
+      <description>I bought this book because I like Fry's writing style and he does not disappoint. The text is charming, amusing, entertaining...the list goes on. But there's a problem. The book starts with 150-odd pages of exposition and scene-setting of what the gods and ancient players in the story are all doing and how they relate to each other. Fry warns the reader of this (several times) and thanks you for sticking with it (several times) but it's still a lot to go through to get to the actual topic of the book which is The Trojan War. It's all very interesting but it's like trying to read a very entertaining version of the Bible - so many characters (most of which don't really matter) in order make a point. Needless to say I found this really difficult to read despite the most excellent style it was written in.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-april-2026.html</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stop Moving UI Elements</title>
+      <link>https://brettski.net/blog/stop-moving-ui-elements.html</link>
+      <description>I've noticed a lot of apps and web pages recently where (after the page/screen has been rendered) addtional UI elements are added.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/stop-moving-ui-elements.html</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Today's Life Advice</title>
+      <link>https://brettski.net/blog/human-advice.html</link>
+      <description>I put off writing this (and then posting it) for a long time mainly because I don't like giving people advice unless they're actually asking me for advice. But I've had a bunch of conversations with people lately where the same themes have been wandering around so here we are. I'm going to try and not write too long a story here but there are lots of things to say...</description>
+      <guid isPermaLink="false">https://brettski.net/blog/human-advice.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perth is not Pedestrian Friendly</title>
+      <link>https://brettski.net/blog/perth-traffic-lights.html</link>
+      <description>Perth likes to think it is a pedestrian friendly city and for the most part it is - except when it isn't. The problem for me are traffic lights and how long pedestrians generally have to wait before getting a green signal.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/perth-traffic-lights.html</guid>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - March 2026</title>
+      <link>https://brettski.net/blog/reading-march-2026.html</link>
+      <description>This is an interecting concept and a well-written story. The main character is telling the story first-person from when she's in a coma and the events leading up to that. I haven't done the book much justice because I've been reading it on-and-off on my Kindle for the last several months but it wa still pretty good. Without spoiling the story I was expecting the reveals at the end to be a bit more substantial. Worth it as a holiday read.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-march-2026.html</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Desktop - Git Issue</title>
+      <link>https://brettski.net/blog/linux-git.html</link>
+      <description>A long time ago GitHub stopped using passwords to authenticate people using the CLI. I use a personal token which is rotated on whatever schedule the site tells me to.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/linux-git.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - February 2026</title>
+      <link>https://brettski.net/blog/reading-february-2026.html</link>
+      <description>The (very long!) subtitle to this book is "and other true tales of madness, love and the history of the world from the periodic table of the elements". That's a huge topic and the book does it justice. It's a very interesting albeit difficult read even though Kean does an amazing job of entertaining the reader and bringing forth all sorts of amusing anecdotes from science through the ages. A minor annoyance of the book is that despite it being written about science, all the temperature measurements (because science experiments) are in Fahrenheit and that's just a bit jarring. I get that this was written for an American audience (maybe there is an international edition where the temperatures are written in Celsius) but to write about science it feels wrong not to use the scale that scientists use around the world.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-february-2026.html</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Desktop - Video Fix</title>
+      <link>https://brettski.net/blog/linux-video.html</link>
+      <description>This isn't purely a Linux thing, I started having this problem when I "upgraded" from Windows 10 to Windows 11.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/linux-video.html</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Network Latency</title>
+      <link>https://brettski.net/blog/latency.html</link>
+      <description>Or to put it another way: Why does a small change in network latency have such a large effect on how long it takes to do things?</description>
+      <guid isPermaLink="false">https://brettski.net/blog/latency.html</guid>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - January 2026</title>
+      <link>https://brettski.net/blog/reading-january-2026.html</link>
+      <description>Definitely not the type of book that I would have picked up at random but it is an easy read and well written (especially considering it is a first novel from Honeyman). I found it a little uncomfortable to read in places as I could see some of myself in the titular character. A good exploration of loneliness and tragedy. You need to keep reading to the end to find out what has actually happened with enough hints dropped along the way to keep things interesting and entertaining. A few laugh-out-loud moments and some funny (humorous!) writing made it an easy book to finish.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-january-2026.html</guid>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux Desktop Followup</title>
+      <link>https://brettski.net/blog/linux-followup.html</link>
+      <description>Even though I've been using Linux as a server operating system for years I did not expect the desktop experience to be so smooth - especially migrating from Windows. But it has been just about seamless.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/linux-followup.html</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Word About Documentation</title>
+      <link>https://brettski.net/blog/markdown-documentation.html</link>
+      <description>Writing good documentation is hard. Almost no-one likes doing it and even less people like updating it. But having good documentation makes it easy for people to find things - or even (in this modern world) for AI to summarise what is in the documentation.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/markdown-documentation.html</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Linux in earnest - Online account access</title>
+      <link>https://brettski.net/blog/linux-online-accounts.html</link>
+      <description>See this previous post for the "why" about what I'm doing. This post are some impressions that I'm getting along the way.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/linux-online-accounts.html</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moving from Windows to Linux</title>
+      <link>https://brettski.net/blog/windows-to-linux.html</link>
+      <description>I don't know what it was about today but the general Windows bloat got to me so I deleted it.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/windows-to-linux.html</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - December 2025</title>
+      <link>https://brettski.net/blog/reading-december-2025.html</link>
+      <description>This is a heavy book to read because of the subject matter: German citizens living through the Nazi regime in World War 2 who are opposed to the National Socialist Party and to Hitler. It's really interesting and you get a huge sense of the tragedy going on in Germany at that time. I find the writing style a little repetitive (sometimes necessarily so because there are many threads being brought together) and also a little annoying because each chapter seems to end with "and you won't believe what happens next". But outside of that, I enjoyed the book.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-december-2025.html</guid>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reading List - November 2025</title>
+      <link>https://brettski.net/blog/reading-november-2025.html</link>
+      <description>This is quite a funny book and I mostly enjoyed it. There are a few things left to the reader's imagination/extrapolation which is ok except when those things are semi-interesting plot points. Nicely wrapped up in the end and it's a pretty good read overall. The "mostly enjoyed" part is because it spends a lot of time giving the reader background in places where I feel it's unnecessary and that process slows the story down. Probably would not read again.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-november-2025.html</guid>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copying files to S3 using Python</title>
+      <link>https://brettski.net/gumbyadventures/copying-files-to-s3.html</link>
+      <description>If you want to host a simple website in S3 (like this one!) it's really easy to upload your content - either use the AWS S3 console or do something like:</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/copying-files-to-s3.html</guid>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python memory usage in Lambda</title>
+      <link>https://brettski.net/gumbyadventures/lambda-memory-usage.html</link>
+      <description>As a favour to a good friend who needed a really simple thing done I decided to write this Lambda function. Basically: load a file, search through it for a particular string and return a flag indicating if it was found or not. Simple, right?</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/lambda-memory-usage.html</guid>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Messing with MP3 metadata via PowerShell and Python to no particular end</title>
+      <link>https://brettski.net/gumbyadventures/powershell-python-metadata.html</link>
+      <description>I have a reasonable old but still kind of current Denon HEOS amplifier which sounds great; fits neatly into a cupboard and it turns out has some surprising features for something which was released more than a decade ago.</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/powershell-python-metadata.html</guid>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find an optimal way to run things in parallel</title>
+      <link>https://brettski.net/gumbyadventures/parallelism.html</link>
+      <description>In the interests of being frugal (ok, being a complete cheapskate) I wanted to build a full text index of around 115,000 documents. Sure, I could just punt them all into something like Amazon Elasticsearch but that costs money - and seeing as I'm running this in my personal account and there will be (maybe) one or two searches a day it didn't seem like the way to go. So let's do this the hard way, then!</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/parallelism.html</guid>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python, object creation, memory handling and some unexpected behaviour</title>
+      <link>https://brettski.net/gumbyadventures/python-object-creation.html</link>
+      <description>It's well known that Python (and other languages too) do some smart things when it comes to handling memory. For example, if you create a variable and then assign it to another variable the language generally only keeps one copy of the data. This can cause some interesting challenges...</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/python-object-creation.html</guid>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
