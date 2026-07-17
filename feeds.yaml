@@ -40,6 +40,11 @@ feeds:
     type: requests
     blog_url: https://claude.com/blog
 
+  itopfield:
+    script: itopfield_blog.py
+    type: requests
+    blog_url: https://itopfield.com.au
+
   jamiehurst:
     script: jamiehurst_blog.py
     type: requests

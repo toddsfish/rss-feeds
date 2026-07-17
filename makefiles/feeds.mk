@@ -58,6 +58,20 @@ feeds_claude_full: ## Generate RSS feed for Claude Blog (full reset)
 	$(Q)uv run feed_generators/claude_blog.py --full
 	$(call print_success,Claude Blog feed generated - full reset)
 
+.PHONY: feeds_itopfield
+feeds_itopfield: ## Generate RSS feed for ITop Field News (incremental)
+	$(call check_venv)
+	$(call print_info,Generating ITop Field News feed)
+	$(Q)uv run feed_generators/itopfield_blog.py
+	$(call print_success,ITop Field News feed generated)
+
+.PHONY: feeds_itopfield_full
+feeds_itopfield_full: ## Generate RSS feed for ITop Field News (full reset)
+	$(call check_venv)
+	$(call print_info,Generating ITop Field News feed - FULL RESET)
+	$(Q)uv run feed_generators/itopfield_blog.py --full
+	$(call print_success,ITop Field News feed generated - full reset)
+
 .PHONY: feeds_jamiehurst
 feeds_jamiehurst: ## Generate RSS feed for Jamie Hurst's Blog (incremental)
 	$(call check_venv)
