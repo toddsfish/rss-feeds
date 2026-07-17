@@ -35,6 +35,11 @@ feeds:
     type: selenium
     blog_url: https://www.anthropic.com/research
 
+  brettski:
+    script: brettski_blog.py
+    type: requests
+    blog_url: https://brettski.net
+
   claude:
     script: claude_blog.py
     type: requests
