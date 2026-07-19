@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 18:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:59:47 +0000</lastBuildDate>
     <item>
       <title>AWS Engineering is Amazing but Could Be (a little) Better</title>
       <link>https://brettski.net/blog/aws-engineering.html</link>
@@ -171,39 +171,39 @@
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Find an optimal way to run things in parallel</title>
-      <link>https://brettski.net/gumbyadventures/parallelism.html</link>
-      <description>In the interests of being frugal (ok, being a complete cheapskate) I wanted to build a full text index of around 115,000 documents. Sure, I could just punt them all into something like Amazon Elasticsearch but that costs money - and seeing as I'm running this in my personal account and there will be (maybe) one or two searches a day it didn't seem like the way to go. So let's do this the hard way, then!</description>
-      <guid isPermaLink="false">https://brettski.net/gumbyadventures/parallelism.html</guid>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Messing with MP3 metadata via PowerShell and Python to no particular end</title>
       <link>https://brettski.net/gumbyadventures/powershell-python-metadata.html</link>
       <description>I have a reasonable old but still kind of current Denon HEOS amplifier which sounds great; fits neatly into a cupboard and it turns out has some surprising features for something which was released more than a decade ago.</description>
       <guid isPermaLink="false">https://brettski.net/gumbyadventures/powershell-python-metadata.html</guid>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copying files to S3 using Python</title>
-      <link>https://brettski.net/gumbyadventures/copying-files-to-s3.html</link>
-      <description>If you want to host a simple website in S3 (like this one!) it's really easy to upload your content - either use the AWS S3 console or do something like:</description>
-      <guid isPermaLink="false">https://brettski.net/gumbyadventures/copying-files-to-s3.html</guid>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Python memory usage in Lambda</title>
       <link>https://brettski.net/gumbyadventures/lambda-memory-usage.html</link>
       <description>As a favour to a good friend who needed a really simple thing done I decided to write this Lambda function. Basically: load a file, search through it for a particular string and return a flag indicating if it was found or not. Simple, right?</description>
       <guid isPermaLink="false">https://brettski.net/gumbyadventures/lambda-memory-usage.html</guid>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copying files to S3 using Python</title>
+      <link>https://brettski.net/gumbyadventures/copying-files-to-s3.html</link>
+      <description>If you want to host a simple website in S3 (like this one!) it's really easy to upload your content - either use the AWS S3 console or do something like:</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/copying-files-to-s3.html</guid>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find an optimal way to run things in parallel</title>
+      <link>https://brettski.net/gumbyadventures/parallelism.html</link>
+      <description>In the interests of being frugal (ok, being a complete cheapskate) I wanted to build a full text index of around 115,000 documents. Sure, I could just punt them all into something like Amazon Elasticsearch but that costs money - and seeing as I'm running this in my personal account and there will be (maybe) one or two searches a day it didn't seem like the way to go. So let's do this the hard way, then!</description>
+      <guid isPermaLink="false">https://brettski.net/gumbyadventures/parallelism.html</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Python, object creation, memory handling and some unexpected behaviour</title>
       <link>https://brettski.net/gumbyadventures/python-object-creation.html</link>
       <description>It's well known that Python (and other languages too) do some smart things when it comes to handling memory. For example, if you create a variable and then assign it to another variable the language generally only keeps one copy of the data. This can cause some interesting challenges...</description>
       <guid isPermaLink="false">https://brettski.net/gumbyadventures/python-object-creation.html</guid>
-      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
