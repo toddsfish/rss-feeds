@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:13:33 +0000</lastBuildDate>
     <item>
       <title>Incident Response as Code: Managing PagerDuty with Pulumi</title>
       <link>https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</link>
