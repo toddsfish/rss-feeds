@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:40:44 +0000</lastBuildDate>
+    <item>
+      <title>Incident Response as Code: Managing PagerDuty with Pulumi</title>
+      <link>https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</link>
+      <description>Manage PagerDuty teams, schedules, escalation policies, and services with Pulumi, and wire alerting to the AWS infrastructure in the same program.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Connect Your Cloud Accounts to Pulumi in Minutes</title>
       <link>https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</link>
-      <description>Onboard your AWS, Azure, and Google Cloud accounts to Pulumi Insights in bulk with the new Connect cloud accounts wizard. OIDC-based, no long-lived secrets.</description>
+      <description>Connect Your Cloud Accounts to Pulumi in Minutes</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -29,13 +36,6 @@
       <description>Introducing Usage Limits for Pulumi Neo</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/neo-usage-limits</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sign in to Pulumi Cloud with Passkeys</title>
-      <link>https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</link>
-      <description>Sign in to Pulumi Cloud with Passkeys</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
