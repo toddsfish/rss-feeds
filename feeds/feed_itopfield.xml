@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:46:10 +0000</lastBuildDate>
     <item>
       <title>Megaport: how Australia's network-as-a-service pioneer stays relevant</title>
       <link>https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</link>
@@ -23,6 +23,14 @@
       <description>Vulnerability disclosure in Australia sits in a legal and ethical grey zone. Here is how responsible disclosure actually works and what IT teams must do.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/vulnerability-disclosure-australia-how-responsible-disclosure-works</guid>
       <category>Cybersecurity</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private cloud vs public cloud: how to choose for your workload</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/private-cloud-vs-public-cloud-how-to-choose</link>
+      <description>Private cloud vs public cloud is one of the most consequential infrastructure decisions Australian IT teams face. Here is how to choose based on workload needs.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/private-cloud-vs-public-cloud-how-to-choose</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
