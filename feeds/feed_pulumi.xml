@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:17:42 +0000</lastBuildDate>
+    <item>
+      <title>Kubernetes Agent Sandbox: What It Is and How to Deploy It with Pulumi</title>
+      <link>https://www.pulumi.com/blog/kubernetes-agent-sandbox</link>
+      <description>Agent Sandbox gives AI agents kernel-isolated, disposable environments as Kubernetes resources. Here's what it is and how to deploy it on GKE with Pulumi.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-agent-sandbox</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Incident Response as Code: Managing PagerDuty with Pulumi</title>
       <link>https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</link>
-      <description>Manage PagerDuty teams, schedules, escalation policies, and services with Pulumi, and wire alerting to the AWS infrastructure in the same program.</description>
+      <description>Incident Response as Code: Managing PagerDuty with Pulumi</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -22,13 +29,6 @@
       <description>Connect Your Cloud Accounts to Pulumi in Minutes</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Knowledge as Code: The Memory File Just Got a Spec</title>
-      <link>https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</link>
-      <description>Knowledge as Code: The Memory File Just Got a Spec</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/knowledge-as-code-the-memory-file-just-got-a-spec</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Usage Limits for Pulumi Neo</title>
