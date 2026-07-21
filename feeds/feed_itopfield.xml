@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:12:30 +0000</lastBuildDate>
     <item>
       <title>Megaport: how Australia's network-as-a-service pioneer stays relevant</title>
       <link>https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</link>
       <description>Megaport built a global software-defined networking business from Brisbane. Here is how it keeps its edge as cloud giants and rivals close in.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</guid>
       <category>Australian companies</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vulnerability disclosure in Australia: how responsible disclosure actually works</title>
+      <link>https://itopfield.com.au/cybersecurity/vulnerability-disclosure-australia-how-responsible-disclosure-works</link>
+      <description>Vulnerability disclosure in Australia sits in a legal and ethical grey zone. Here is how responsible disclosure actually works and what IT teams must do.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/vulnerability-disclosure-australia-how-responsible-disclosure-works</guid>
+      <category>Cybersecurity</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
