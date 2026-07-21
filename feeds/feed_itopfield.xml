@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 04:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:34:03 +0000</lastBuildDate>
+    <item>
+      <title>Megaport: how Australia's network-as-a-service pioneer stays relevant</title>
+      <link>https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</link>
+      <description>Megaport built a global software-defined networking business from Brisbane. Here is how it keeps its edge as cloud giants and rivals close in.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</guid>
+      <category>Australian companies</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Business laptop display refresh rate: does it matter for work?</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-display-refresh-rate-does-it-matter</link>
@@ -100,7 +108,7 @@
     <item>
       <title>Canva for Teams vs enterprise: what Australian IT buyers need to know</title>
       <link>https://itopfield.com.au/enterprise-software-saas/canva-for-teams-vs-enterprise-australian-it-buyers-guide</link>
-      <description>Canva for Teams and Canva Enterprise solve different problems. Here is what Australian IT buyers need to know before choosing a plan or scaling up.</description>
+      <description>Canva for Teams vs enterprise: what Australian IT buyers need to know</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/canva-for-teams-vs-enterprise-australian-it-buyers-guide</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
