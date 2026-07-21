@@ -8,13 +8,101 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 04:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:56:03 +0000</lastBuildDate>
+    <item>
+      <title>Business laptop display refresh rate: does it matter for work?</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-display-refresh-rate-does-it-matter</link>
+      <description>Business laptop display refresh rate is a spec that often goes unexamined in procurement. Here is what it actually means for productivity, eye strain, and value.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-display-refresh-rate-does-it-matter</guid>
+      <category>Hardware &amp; devices</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlassian for Australian enterprises: is it still the right fit?</title>
+      <link>https://itopfield.com.au/enterprise-software-saas/atlassian-enterprise-australia-right-fit-2</link>
+      <description>Atlassian remains a dominant enterprise software choice in Australia, but rising costs, cloud migration pressure, and AI competition are prompting fresh scrutiny from IT buyers.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/atlassian-enterprise-australia-right-fit-2</guid>
+      <category>Enterprise software &amp; SaaS</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How government IT procurement works in Australia</title>
+      <link>https://itopfield.com.au/government-public-sector-it/government-it-procurement-australia-how-it-works-2</link>
+      <description>Government IT procurement in Australia is shaped by panels, standing offers, and policy mandates. Here is how the system works and what vendors need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/government-it-procurement-australia-how-it-works-2</guid>
+      <category>Government &amp; public sector IT</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian data residency: a complete guide for 2026</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/australian-data-residency-complete-guide-2026-2</link>
+      <description>Australian data residency rules are evolving fast in 2026, driven by Privacy Act reform and rising sovereign cloud demand. Here is what IT leaders need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/australian-data-residency-complete-guide-2026-2</guid>
+      <category>Cloud &amp; infrastructure</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI bias in enterprise systems: what Australian teams need to fix</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-bias-enterprise-systems-what-australian-teams-need-to-fix</link>
+      <description>AI bias in enterprise systems is a growing liability for Australian organisations. Here is a practical breakdown of where it comes from and what to do about it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-bias-enterprise-systems-what-australian-teams-need-to-fix</guid>
+      <category>AI &amp; machine learning</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DevSecOps explained: what it is and why it matters</title>
+      <link>https://itopfield.com.au/software-development/devsecops-explained-what-it-is-and-why-it-matters</link>
+      <description>DevSecOps embeds security into every stage of the software delivery pipeline. Here is what it means in practice and why Australian dev teams are adopting it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/devsecops-explained-what-it-is-and-why-it-matters</guid>
+      <category>Software development</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>myGov and the ATO digital experience: how Australia's tax portal actually works</title>
+      <link>https://itopfield.com.au/government-public-sector-it/mygov-ato-digital-experience-how-australias-tax-portal-works-2</link>
+      <description>myGov and the ATO's online services handle tens of millions of Australians every year. Here is how the platform works, where it struggles, and what IT teams need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/mygov-ato-digital-experience-how-australias-tax-portal-works-2</guid>
+      <category>Government &amp; public sector IT</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freelancer.com: can Australia's gig economy pioneer hold its ground?</title>
+      <link>https://itopfield.com.au/australian-companies/freelancer-com-gig-economy-strategy-australia</link>
+      <description>Freelancer.com is facing its toughest competitive test yet. Here is a clear look at the platform's strategy, AI bets, and what the future holds for Australia's ASX-listed gig marketplace.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/freelancer-com-gig-economy-strategy-australia</guid>
+      <category>Australian companies</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Network segmentation: why it matters for Australian cyber defence</title>
+      <link>https://itopfield.com.au/cybersecurity/network-segmentation-australian-cyber-defence</link>
+      <description>Network segmentation limits lateral movement after a breach and is central to Australia's Essential Eight framework. Here is what IT teams need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/network-segmentation-australian-cyber-defence</guid>
+      <category>Cybersecurity</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Python vs Go: choosing the right language for backend services</title>
       <link>https://itopfield.com.au/software-development/python-vs-go-choosing-right-language-backend-services</link>
       <description>Python vs Go for backend services: a practical breakdown of performance, concurrency, ecosystem, and when each language actually makes sense for your team.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/python-vs-go-choosing-right-language-backend-services</guid>
       <category>Software development</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop keyboard and trackpad: what actually matters</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-keyboard-trackpad-what-actually-matters</link>
+      <description>Business laptop keyboards and trackpads vary far more than specs suggest. Here is what Australian IT buyers should test before committing to a fleet purchase.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-keyboard-trackpad-what-actually-matters</guid>
+      <category>Hardware &amp; devices</category>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canva for Teams vs enterprise: what Australian IT buyers need to know</title>
+      <link>https://itopfield.com.au/enterprise-software-saas/canva-for-teams-vs-enterprise-australian-it-buyers-guide</link>
+      <description>Canva for Teams and Canva Enterprise solve different problems. Here is what Australian IT buyers need to know before choosing a plan or scaling up.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/canva-for-teams-vs-enterprise-australian-it-buyers-guide</guid>
+      <category>Enterprise software &amp; SaaS</category>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
