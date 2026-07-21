@@ -44,6 +44,20 @@ feeds_anthropic_red: ## Generate RSS feed for Anthropic Frontier Red Team
 	$(Q)uv run feed_generators/anthropic_red_blog.py
 	$(call print_success,Anthropic Red Team feed generated)
 
+.PHONY: feeds_brettski
+feeds_brettski: ## Generate RSS feed for Brettski's Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating Brettski's Blog feed)
+	$(Q)uv run feed_generators/brettski_blog.py
+	$(call print_success,Brettski's Blog feed generated)
+
+.PHONY: feeds_brettski_full
+feeds_brettski_full: ## Generate RSS feed for Brettski's Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating Brettski's Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/brettski_blog.py --full
+	$(call print_success,Brettski's Blog feed generated - full reset)
+
 .PHONY: feeds_claude
 feeds_claude: ## Generate RSS feed for Claude Blog (incremental)
 	$(call check_venv)
