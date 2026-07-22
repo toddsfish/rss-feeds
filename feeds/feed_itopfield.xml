@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:12:18 +0000</lastBuildDate>
     <item>
       <title>AI regulation in Australia: what the emerging rules mean for 2026</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-regulation-australia-emerging-rules-2026-2</link>
       <description>AI regulation in Australia is shifting from voluntary guidelines to enforceable obligations in 2026. Here is what the emerging framework means for your organisation.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-regulation-australia-emerging-rules-2026-2</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Event-driven architecture: when it fits and when it doesn't</title>
+      <link>https://itopfield.com.au/software-development/event-driven-architecture-when-it-fits-and-when-it-doesnt</link>
+      <description>Event-driven architecture can transform how your systems communicate, but it is not always the right call. Here is a practical breakdown of when it helps and when it adds friction.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/event-driven-architecture-when-it-fits-and-when-it-doesnt</guid>
+      <category>Software development</category>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
