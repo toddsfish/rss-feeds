@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:06:31 +0000</lastBuildDate>
+    <item>
+      <title>Preview ESC Changes with Environment Overrides</title>
+      <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</link>
+      <description>Preview a proposed ESC environment change against your stack before you promote it, using draft references and the new --override-env flag.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Standalone ESC CLI Retired: Use pulumi env</title>
       <link>https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</link>
-      <description>The standalone esc CLI is archived as of v0.26.0. Every ESC command is available in the Pulumi CLI under pulumi env: one binary to install and upgrade.</description>
+      <description>The Standalone ESC CLI Retired: Use pulumi env</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -29,13 +36,6 @@
       <description>Incident Response as Code: Managing PagerDuty with Pulumi</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/incident-response-as-code-pagerduty-pulumi</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connect Your Cloud Accounts to Pulumi in Minutes</title>
-      <link>https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</link>
-      <description>Connect Your Cloud Accounts to Pulumi in Minutes</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/connect-your-cloud-accounts-to-pulumi-in-minutes</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
