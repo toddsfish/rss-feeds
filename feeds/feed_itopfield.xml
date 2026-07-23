@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:06:15 +0000</lastBuildDate>
     <item>
       <title>Business laptop processor: Intel vs AMD vs Apple Silicon</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-processor-intel-vs-amd-vs-apple-silicon</link>
@@ -23,6 +23,14 @@
       <description>Power BI, Tableau, and Looker are the three dominant BI tools in Australian enterprises. Here is a clear, practical comparison to help you choose the right one.</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/power-bi-vs-tableau-vs-looker-bi-tool-comparison</guid>
       <category>Enterprise software &amp; SaaS</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whole-of-government data sharing in Australia: how it works</title>
+      <link>https://itopfield.com.au/government-public-sector-it/whole-of-government-data-sharing-australia-how-it-works</link>
+      <description>Whole-of-government data sharing in Australia is reshaping public services, but the rules, risks, and architecture are more complex than they appear. Here's what IT leaders need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/whole-of-government-data-sharing-australia-how-it-works</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

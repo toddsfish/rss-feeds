@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:06:17 +0000</lastBuildDate>
     <item>
       <title>Preview ESC Changes with Environment Overrides</title>
       <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</link>
