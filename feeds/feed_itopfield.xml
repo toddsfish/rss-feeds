@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:59:52 +0000</lastBuildDate>
     <item>
       <title>Technology One: the quiet giant reshaping enterprise SaaS</title>
       <link>https://itopfield.com.au/australian-companies/technology-one-enterprise-saas-australia-strategy</link>
@@ -972,7 +972,7 @@
     <item>
       <title>AWS outages and your business: how to stay resilient</title>
       <link>https://itopfield.com.au/cloud-infrastructure/aws-outages-business-resilience-guide</link>
-      <description>AWS outages can hit Australian businesses hard. Here is a practical guide to understanding regional failures, reducing downtime risk, and building lasting cloud resilience.</description>
+      <description>AWS outages and your business: how to stay resilient</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/aws-outages-business-resilience-guide</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
