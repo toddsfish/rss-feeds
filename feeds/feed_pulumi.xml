@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:23:54 +0000</lastBuildDate>
+    <item>
+      <title>Discovered Stacks: One Place for All Your Infrastructure</title>
+      <link>https://www.pulumi.com/blog/discovered-stacks</link>
+      <description>Discovered Stacks: One Place for All Your Infrastructure</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/discovered-stacks</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migrate CloudFormation to Pulumi with Discovered Stacks</title>
+      <link>https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</link>
+      <description>Migrate a CloudFormation stack to Pulumi with Discovered Stacks: verify every resource, import with a zero-diff preview, and track it all in Pulumi Cloud.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to Run AI Agents on Kubernetes with Pulumi</title>
       <link>https://www.pulumi.com/blog/ai-agents-on-kubernetes</link>
@@ -19,7 +33,7 @@
     <item>
       <title>Enforce Access Token Expiry Policies in Pulumi Cloud</title>
       <link>https://www.pulumi.com/blog/access-token-expiry-policy</link>
-      <description>Organization admins can now cap the maximum expiry of personal, organization, and team access tokens, so no credential outlives your rotation policy.</description>
+      <description>Enforce Access Token Expiry Policies in Pulumi Cloud</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/access-token-expiry-policy</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -33,14 +47,14 @@
     <item>
       <title>The Standalone ESC CLI Retired: Use pulumi env</title>
       <link>https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</link>
-      <description>The Standalone ESC CLI Retired: Use pulumi env</description>
+      <description>The standalone esc CLI is archived as of v0.26.0. Every ESC command is available in the Pulumi CLI under pulumi env: one binary to install and upgrade.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kubernetes Agent Sandbox: What It Is and How to Deploy It with Pulumi</title>
       <link>https://www.pulumi.com/blog/kubernetes-agent-sandbox</link>
-      <description>Kubernetes Agent Sandbox: What It Is and How to Deploy It with Pulumi</description>
+      <description>Agent Sandbox gives AI agents kernel-isolated, disposable environments as Kubernetes resources. Here's what it is and how to deploy it on GKE with Pulumi.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-agent-sandbox</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,20 +106,6 @@
       <description>The Pulumi CLI command reference and SDK API docs now include a version selector, so you can browse the docs that match the release you're running.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Effective Infrastructure as Code (IaC) Tools</title>
-      <link>https://www.pulumi.com/blog/infrastructure-as-code-tools</link>
-      <description>Complete guide to the most effective IaC tools. Compare Pulumi, Terraform, OpenTofu, AWS CDK, and more to find the perfect solution.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/infrastructure-as-code-tools</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Test Infrastructure as Code</title>
-      <link>https://www.pulumi.com/blog/how-to-test-infrastructure-as-code</link>
-      <description>Learn how to test infrastructure as code with Pulumi—unit tests, integration tests, and policy checks in Python, TypeScript, Go, C#, and Java.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/how-to-test-infrastructure-as-code</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
