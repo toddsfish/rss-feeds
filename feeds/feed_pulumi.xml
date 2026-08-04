@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:15:18 +0000</lastBuildDate>
+    <item>
+      <title>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</title>
+      <link>https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</link>
+      <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Discovered Stacks: One Place for All Your Infrastructure</title>
       <link>https://www.pulumi.com/blog/discovered-stacks</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Migrate CloudFormation to Pulumi with Discovered Stacks</title>
       <link>https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</link>
-      <description>Migrate a CloudFormation stack to Pulumi with Discovered Stacks: verify every resource, import with a zero-diff preview, and track it all in Pulumi Cloud.</description>
+      <description>Migrate CloudFormation to Pulumi with Discovered Stacks</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>Preview ESC Changes with Environment Overrides</title>
       <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</link>
-      <description>Preview ESC Changes with Environment Overrides</description>
+      <description>Preview a proposed ESC environment change against your stack before you promote it, using draft references and the new --override-env flag.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Pulumi Cloud now supports passkeys: a phishing-resistant alternative to typing your password, for users who sign in with email and password.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/passkey-support-in-pulumi-cloud</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: Versioned CLI and SDK Docs</title>
-      <link>https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</link>
-      <description>The Pulumi CLI command reference and SDK API docs now include a version selector, so you can browse the docs that match the release you're running.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/previous-cli-and-sdk-version-docs</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
