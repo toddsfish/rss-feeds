@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 04:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:29:37 +0000</lastBuildDate>
+    <item>
+      <title>AI model evaluation: how to choose before you commit</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</link>
+      <description>AI model evaluation is the step most Australian teams skip. Here is a practical framework for comparing models on cost, accuracy, latency, and risk before you commit.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</guid>
+      <category>AI &amp; machine learning</category>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zero-day vulnerabilities: what Australian IT teams must do first</title>
       <link>https://itopfield.com.au/cybersecurity/zero-day-vulnerabilities-australian-it-teams-response</link>
