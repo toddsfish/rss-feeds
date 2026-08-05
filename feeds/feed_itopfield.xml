@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:31:18 +0000</lastBuildDate>
     <item>
       <title>AI model evaluation: how to choose before you commit</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</link>
@@ -66,14 +66,6 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI regulation in Australia: what the emerging rules mean for 2026</title>
-      <link>https://itopfield.com.au/ai-machine-learning/ai-regulation-australia-emerging-rules-2026-2</link>
-      <description>AI regulation in Australia is shifting from voluntary guidelines to enforceable obligations in 2026. Here is what the emerging framework means for your organisation.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-regulation-australia-emerging-rules-2026-2</guid>
-      <category>AI &amp; machine learning</category>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Event-driven architecture: when it fits and when it doesn't</title>
       <link>https://itopfield.com.au/software-development/event-driven-architecture-when-it-fits-and-when-it-doesnt</link>
       <description>Event-driven architecture can transform how your systems communicate, but it is not always the right call. Here is a practical breakdown of when it helps and when it adds friction.</description>
@@ -114,30 +106,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Atlassian for Australian enterprises: is it still the right fit?</title>
-      <link>https://itopfield.com.au/enterprise-software-saas/atlassian-enterprise-australia-right-fit-2</link>
-      <description>Atlassian remains a dominant enterprise software choice in Australia, but rising costs, cloud migration pressure, and AI competition are prompting fresh scrutiny from IT buyers.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/atlassian-enterprise-australia-right-fit-2</guid>
-      <category>Enterprise software &amp; SaaS</category>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How government IT procurement works in Australia</title>
-      <link>https://itopfield.com.au/government-public-sector-it/government-it-procurement-australia-how-it-works-2</link>
-      <description>Government IT procurement in Australia is shaped by panels, standing offers, and policy mandates. Here is how the system works and what vendors need to know.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/government-it-procurement-australia-how-it-works-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian data residency: a complete guide for 2026</title>
-      <link>https://itopfield.com.au/cloud-infrastructure/australian-data-residency-complete-guide-2026-2</link>
-      <description>Australian data residency rules are evolving fast in 2026, driven by Privacy Act reform and rising sovereign cloud demand. Here is what IT leaders need to know.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/australian-data-residency-complete-guide-2026-2</guid>
-      <category>Cloud &amp; infrastructure</category>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI bias in enterprise systems: what Australian teams need to fix</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-bias-enterprise-systems-what-australian-teams-need-to-fix</link>
       <description>AI bias in enterprise systems is a growing liability for Australian organisations. Here is a practical breakdown of where it comes from and what to do about it.</description>
@@ -152,14 +120,6 @@
       <guid isPermaLink="false">https://itopfield.com.au/software-development/devsecops-explained-what-it-is-and-why-it-matters</guid>
       <category>Software development</category>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>myGov and the ATO digital experience: how Australia's tax portal actually works</title>
-      <link>https://itopfield.com.au/government-public-sector-it/mygov-ato-digital-experience-how-australias-tax-portal-works-2</link>
-      <description>myGov and the ATO's online services handle tens of millions of Australians every year. Here is how the platform works, where it struggles, and what IT teams need to know.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/mygov-ato-digital-experience-how-australias-tax-portal-works-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Freelancer.com: can Australia's gig economy pioneer hold its ground?</title>
@@ -218,27 +178,11 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Australia's Privacy Act reforms: what government IT teams must prepare for</title>
-      <link>https://itopfield.com.au/government-public-sector-it/privacy-act-reforms-australia-government-it-teams-2</link>
-      <description>Australia's Privacy Act reforms are moving toward enforceable law. Here is what government IT teams need to prepare for, and what the changes mean in practice.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/privacy-act-reforms-australia-government-it-teams-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Nearmap: how Australia's aerial intelligence company is reinventing itself</title>
       <link>https://itopfield.com.au/australian-companies/nearmap-aerial-intelligence-strategy-australia</link>
       <description>Nearmap built a strong niche in aerial imagery, but AI, global ambitions, and a private equity pivot are reshaping what the company actually is. Here's where it stands.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/nearmap-aerial-intelligence-strategy-australia</guid>
       <category>Australian companies</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Essential Eight maturity model: a practical guide for 2026</title>
-      <link>https://itopfield.com.au/cybersecurity/essential-eight-maturity-model-practical-guide-2026-2</link>
-      <description>The Essential Eight maturity model is Australia's baseline cyber framework. Here is what organisations need to know to assess, improve, and report on their maturity in 2026.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/essential-eight-maturity-model-practical-guide-2026-2</guid>
-      <category>Cybersecurity</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -298,14 +242,6 @@
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>DTA strategy in 2026: what it means for government IT</title>
-      <link>https://itopfield.com.au/government-public-sector-it/dta-strategy-2026-what-it-means-government-it-2</link>
-      <description>The Digital Transformation Agency is pushing a more assertive agenda in 2026. Here is what its platform mandates and procurement reforms mean for government IT teams.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/dta-strategy-2026-what-it-means-government-it-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Zip Co: can Australia's BNPL survivor find a new growth story?</title>
       <link>https://itopfield.com.au/australian-companies/zip-co-bnpl-strategy-australia</link>
       <description>Zip Co has outlasted many BNPL rivals, but profitability pressure and AI-driven competition are forcing a harder question: what does growth look like now?</description>
@@ -338,14 +274,6 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cloud cost optimisation: where Australian bills usually go wrong</title>
-      <link>https://itopfield.com.au/cloud-infrastructure/cloud-cost-optimisation-australian-businesses-where-bills-go-wrong-2</link>
-      <description>Cloud cost optimisation in Australia is where many IT budgets quietly bleed out. Here is a practical look at the most common overspend patterns and how to fix them.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-cost-optimisation-australian-businesses-where-bills-go-wrong-2</guid>
-      <category>Cloud &amp; infrastructure</category>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Agentic AI in the enterprise: what Australian IT leaders need to know</title>
       <link>https://itopfield.com.au/ai-machine-learning/agentic-ai-enterprise-australian-it-leaders</link>
       <description>Agentic AI is moving from experiment to enterprise deployment across Australia. Here is what IT leaders need to know before committing to the technology.</description>
@@ -367,14 +295,6 @@
       <description>Government IT procurement in Australia follows distinct rules, panels, and policy mandates. Here is a practical guide to how agencies buy technology and what vendors need to know.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/government-it-procurement-australia-how-it-works</guid>
       <category>Government &amp; public sector IT</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlassian's road ahead: growth, AI, and the enterprise bet</title>
-      <link>https://itopfield.com.au/australian-companies/atlassian-growth-ai-enterprise-strategy-2-2</link>
-      <description>Atlassian is repositioning itself as a serious enterprise platform in 2026, leaning into AI and cloud migration. Here is what the strategy means for Australian IT teams.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/atlassian-growth-ai-enterprise-strategy-2-2</guid>
-      <category>Australian companies</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -538,14 +458,6 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Services Australia digital transformation: where the reforms are headed</title>
-      <link>https://itopfield.com.au/government-public-sector-it/services-australia-digital-transformation-reforms-2</link>
-      <description>Services Australia is reshaping how millions of Australians access welfare and payments through a sweeping digital transformation. Here is what IT professionals need to know.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/services-australia-digital-transformation-reforms-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tyro Payments: can Australia's SME fintech find its next gear?</title>
       <link>https://itopfield.com.au/australian-companies/tyro-payments-sme-fintech-strategy-australia</link>
       <description>Tyro Payments built its name on SME banking and EFTPOS, but competition is intensifying. Here is where Australia's fintech challenger stands now.</description>
@@ -560,14 +472,6 @@
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/data-breach-response-australia-first-72-hours</guid>
       <category>Cybersecurity</category>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business laptop RAM: how much does your team actually need?</title>
-      <link>https://itopfield.com.au/hardware-devices/business-laptop-ram-how-much-does-your-team-actually-need-2</link>
-      <description>Business laptop RAM decisions affect productivity and procurement costs. Here is a practical guide to how much RAM your Australian team actually needs in 2026.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-ram-how-much-does-your-team-actually-need-2</guid>
-      <category>Hardware &amp; devices</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ServiceNow pricing in Australia: what to budget and where to negotiate</title>
@@ -607,14 +511,6 @@
       <description>Australia's digital identity framework is taking shape under the DTA and Services Australia. Here is what government IT teams need to know about where it is headed.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/digital-identity-australia-national-framework-where-its-headed</guid>
       <category>Government &amp; public sector IT</category>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Afterpay's evolution: what the buy now, pay later pioneer is doing next</title>
-      <link>https://itopfield.com.au/australian-companies/afterpay-evolution-buy-now-pay-later-strategy-2</link>
-      <description>Afterpay helped invent buy now, pay later, but the landscape it created has grown far more competitive. Here is where the company stands and what comes next.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/afterpay-evolution-buy-now-pay-later-strategy-2</guid>
-      <category>Australian companies</category>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -706,14 +602,6 @@
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Business laptop displays explained: what the specs actually mean</title>
-      <link>https://itopfield.com.au/hardware-devices/business-laptop-displays-explained-what-specs-mean-2</link>
-      <description>Business laptop display specs can look impressive on a product sheet while telling you almost nothing useful. Here is what the numbers actually mean for IT buyers.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-displays-explained-what-specs-mean-2</guid>
-      <category>Hardware &amp; devices</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Kubernetes on AWS vs Azure vs GCP: how to choose for Australian teams</title>
       <link>https://itopfield.com.au/cloud-infrastructure/kubernetes-aws-azure-gcp-australian-teams-comparison</link>
       <description>Kubernetes on AWS, Azure, and GCP all looks similar on paper but differ significantly for Australian workloads. Here is what to weigh before you commit.</description>
@@ -728,22 +616,6 @@
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/natural-language-processing-australian-teams-practical-guide</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital government in Australia: key projects to watch in 2026</title>
-      <link>https://itopfield.com.au/government-public-sector-it/digital-government-australia-key-projects-2026-2</link>
-      <description>Australia's digital government agenda is accelerating in 2026, with major projects across the DTA, ATO, Services Australia, and state governments. Here's what to watch.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/digital-government-australia-key-projects-2026-2</guid>
-      <category>Government &amp; public sector IT</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xero's next chapter: profitability, AI, and the global push</title>
-      <link>https://itopfield.com.au/australian-companies/xero-profitability-ai-global-strategy-2</link>
-      <description>Xero has quietly become one of the ASX's most interesting turnaround stories, pivoting from aggressive expansion to disciplined profitability. Here's what comes next.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/xero-profitability-ai-global-strategy-2</guid>
-      <category>Australian companies</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ACSC advisories explained: how to act on them before the window closes</title>
@@ -786,14 +658,6 @@
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AWS vs Azure vs GCP: which cloud suits Australian workloads?</title>
-      <link>https://itopfield.com.au/cloud-infrastructure/aws-vs-azure-vs-gcp-australian-workloads-comparison-2</link>
-      <description>AWS, Azure, and GCP all operate Australian regions, but picking the right cloud for local workloads involves far more than geography. Here is what to know.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/aws-vs-azure-vs-gcp-australian-workloads-comparison-2</guid>
-      <category>Cloud &amp; infrastructure</category>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI ethics in Australia: what enterprises actually need to do</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-ethics-australia-what-enterprises-need-to-do</link>
       <description>AI ethics in Australia is shifting from voluntary principle to boardroom obligation. Here is what enterprises need to do to stay ahead of the emerging rules.</description>
@@ -807,14 +671,6 @@
       <description>Australian government cloud procurement has changed significantly. Here is how federal and state agencies select, assess, and buy cloud services today.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-cloud-procurement-how-agencies-buy</guid>
       <category>Government &amp; public sector IT</category>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canva at a crossroads: IPO pressure, AI bets, and what comes next</title>
-      <link>https://itopfield.com.au/australian-companies/canva-ipo-ai-strategy-what-comes-next-2</link>
-      <description>Canva remains Australia's most valuable private tech company, but questions about its IPO timeline, AI roadmap, and enterprise ambitions are growing harder to ignore.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/canva-ipo-ai-strategy-what-comes-next-2</guid>
-      <category>Australian companies</category>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -882,14 +738,6 @@
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Atlassian's road ahead: growth, AI, and the enterprise bet</title>
-      <link>https://itopfield.com.au/australian-companies/atlassian-growth-ai-enterprise-strategy-2</link>
-      <description>Atlassian is repositioning itself as a serious enterprise platform, leaning hard into AI and cloud migration. Here is what the strategy means for Australian IT teams.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/atlassian-growth-ai-enterprise-strategy-2</guid>
-      <category>Australian companies</category>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI agents explained: what they are and how enterprises use them</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-agents-explained-what-they-are-enterprise-use-cases</link>
       <description>AI agents are moving from research curiosity to enterprise reality. Here is what they are, how they work, and where Australian organisations are deploying them.</description>
@@ -919,14 +767,6 @@
       <description>Afterpay reshaped how Australians pay, but the buy now, pay later market has changed fast. Here is what the company is doing next and what it means for fintech.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/afterpay-evolution-buy-now-pay-later-strategy</guid>
       <category>Australian companies</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ransomware in Australia: what every IT team needs to know in 2026</title>
-      <link>https://itopfield.com.au/cybersecurity/ransomware-australia-what-every-it-team-needs-to-know-2026-2</link>
-      <description>Ransomware remains the top cyber threat for Australian organisations in 2026. Here is what IT teams need to know about attack trends, response, and prevention.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/ransomware-australia-what-every-it-team-needs-to-know-2026-2</guid>
-      <category>Cybersecurity</category>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1207,14 +1047,6 @@
       <description>Python vs JavaScript: a practical comparison for developers choosing between the two most popular languages in 2026, covering performance, ecosystems, and use cases.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/python-vs-javascript-which-language-suits-your-next-project</guid>
       <category>Software development</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best business laptops for Australian IT teams in 2026</title>
-      <link>https://itopfield.com.au/hardware-devices/best-business-laptops-australian-it-teams-2026-2</link>
-      <description>The best business laptops for Australian IT teams in 2026, compared on performance, security, local warranty support, and total cost of ownership.</description>
-      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/best-business-laptops-australian-it-teams-2026-2</guid>
-      <category>Hardware &amp; devices</category>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
