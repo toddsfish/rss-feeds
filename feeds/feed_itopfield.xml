@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 15:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:39:02 +0000</lastBuildDate>
     <item>
       <title>AI model evaluation: how to choose before you commit</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</link>
@@ -460,7 +460,7 @@
     <item>
       <title>Observability vs monitoring: what modern dev teams actually need</title>
       <link>https://itopfield.com.au/software-development/observability-vs-monitoring-what-modern-dev-teams-need</link>
-      <description>Observability and monitoring are not the same thing. Here is a practical breakdown of the difference and what Australian dev teams should be investing in now.</description>
+      <description>Observability vs monitoring: what modern dev teams actually need</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/observability-vs-monitoring-what-modern-dev-teams-need</guid>
       <category>Software development</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
