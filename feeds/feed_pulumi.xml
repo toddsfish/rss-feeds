@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:47:15 +0000</lastBuildDate>
+    <item>
+      <title>Automatic Logging for Faster, Secure Debugging</title>
+      <link>https://www.pulumi.com/blog/automatic-logging</link>
+      <description>Automatic Logging for Faster, Secure Debugging</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/automatic-logging</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</title>
       <link>https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</link>
-      <description>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</description>
+      <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>The best Terraform alternatives for 2026: Pulumi, OpenTofu, AWS CDK, Crossplane, and Bicep, compared on multi-cloud reach, governance, and AI-agent readiness.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/best-terraform-alternatives</guid>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automatic Logging for Faster, Secure Debugging</title>
-      <link>https://www.pulumi.com/blog/automatic-logging</link>
-      <description>Pulumi now writes encrypted logs for every operation automatically</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/automatic-logging</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
