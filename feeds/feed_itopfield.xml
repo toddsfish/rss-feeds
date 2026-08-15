@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 17:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:10:26 +0000</lastBuildDate>
     <item>
       <title>PS5 storage upgrades: what actually works and what doesn't</title>
       <link>https://itopfield.com.au/videogames/ps5-storage-upgrades-what-works-and-what-doesnt</link>
@@ -22,6 +22,14 @@
       <link>https://itopfield.com.au/videogames/ps5-controller-drift-why-it-happens-how-to-fix-it</link>
       <description>PS5 DualSense controller drift is more common than Sony admits. Here's what causes it, what fixes actually work, and when to replace the stick module.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-controller-drift-why-it-happens-how-to-fix-it</guid>
+      <category>videogames</category>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PS5 SSD speed: does it actually matter for gaming?</title>
+      <link>https://itopfield.com.au/videogames/ps5-ssd-speed-does-it-actually-matter-for-gaming</link>
+      <description>PS5's custom SSD runs at 5.5 GB/s, but does raw drive speed translate to better gaming? Here's what the specs actually mean for load times and performance.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-ssd-speed-does-it-actually-matter-for-gaming</guid>
       <category>videogames</category>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
