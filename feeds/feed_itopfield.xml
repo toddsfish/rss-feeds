@@ -8,12 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:14:49 +0000</lastBuildDate>
     <item>
       <title>PS5 storage upgrades: what actually works and what doesn't</title>
       <link>https://itopfield.com.au/videogames/ps5-storage-upgrades-what-works-and-what-doesnt</link>
       <description>Upgrading PS5 storage with an M.2 SSD isn't as simple as picking the fastest drive. Here's what Australian gamers need to know before buying.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-storage-upgrades-what-works-and-what-doesnt</guid>
+      <category>videogames</category>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PS5 controller drift: why it happens and how to fix it</title>
+      <link>https://itopfield.com.au/videogames/ps5-controller-drift-why-it-happens-how-to-fix-it</link>
+      <description>PS5 DualSense controller drift is more common than Sony admits. Here's what causes it, what fixes actually work, and when to replace the stick module.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-controller-drift-why-it-happens-how-to-fix-it</guid>
       <category>videogames</category>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
     </item>
