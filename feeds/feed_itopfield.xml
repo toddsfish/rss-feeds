@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 19:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:07:19 +0000</lastBuildDate>
     <item>
       <title>PS5 rest mode problems: what's actually going wrong</title>
       <link>https://itopfield.com.au/videogames/ps5-rest-mode-problems-whats-actually-going-wrong</link>
@@ -22,6 +22,14 @@
       <link>https://itopfield.com.au/videogames/ps5-haptic-feedback-adaptive-triggers-what-they-actually-do</link>
       <description>PS5 haptic feedback and adaptive triggers are the DualSense's standout features, but few games use them well. Here's what they actually do and which titles shine.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-haptic-feedback-adaptive-triggers-what-they-actually-do</guid>
+      <category>videogames</category>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PS5 update errors: what they mean and how to fix them</title>
+      <link>https://itopfield.com.au/videogames/ps5-update-errors-what-they-mean-and-how-to-fix-them</link>
+      <description>PS5 update errors are frustrating and often poorly explained. Here's a plain-language breakdown of the most common codes, their causes, and how to fix them fast.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-update-errors-what-they-mean-and-how-to-fix-them</guid>
       <category>videogames</category>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
