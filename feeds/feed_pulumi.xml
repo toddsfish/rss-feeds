@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:18:50 +0000</lastBuildDate>
     <item>
       <title>Compatibility Testing Pulumi HCL</title>
       <link>https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</link>
