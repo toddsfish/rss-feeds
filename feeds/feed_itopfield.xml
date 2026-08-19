@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:19:30 +0000</lastBuildDate>
     <item>
       <title>How Australian agencies measure digital service performance</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-digital-service-performance-measurement</link>
@@ -1012,7 +1012,7 @@
     <item>
       <title>Hybrid cloud architecture: how Australian IT teams are making it work</title>
       <link>https://itopfield.com.au/cloud-infrastructure/hybrid-cloud-architecture-australian-it-teams-guide</link>
-      <description>Hybrid cloud architecture: how Australian IT teams are making it work</description>
+      <description>Hybrid cloud architecture is reshaping how Australian IT teams manage workloads, data residency, and cost. Here is what the model actually looks like in practice.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/hybrid-cloud-architecture-australian-it-teams-guide</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
