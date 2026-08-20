@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:23:01 +0000</lastBuildDate>
     <item>
       <title>Airtasker: from local odd-jobs to platform business under pressure</title>
       <link>https://itopfield.com.au/australian-companies/airtasker-platform-business-strategy-australia</link>
@@ -23,6 +23,14 @@
       <description>PS5 accessibility settings cover far more than subtitles. Here's a practical breakdown of what each option actually does and who benefits most.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-accessibility-settings-what-they-do-who-they-help</guid>
       <category>videogames</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle legacy system decommissioning</title>
+      <link>https://itopfield.com.au/government-public-sector-it/legacy-system-decommissioning-australian-government-agencies</link>
+      <description>Legacy system decommissioning in Australian government agencies is costly, complex, and often delayed. Here is what the process actually involves and what goes wrong.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/legacy-system-decommissioning-australian-government-agencies</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
