@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:27:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:09:24 +0000</lastBuildDate>
+    <item>
+      <title>Best Kubernetes Infrastructure as Code Tools in 2026</title>
+      <link>https://www.pulumi.com/blog/best-kubernetes-iac-tools-2026</link>
+      <description>The best Kubernetes IaC tools in 2026: Pulumi, Terraform, Helm, Kustomize, Crossplane, Argo CD, Flux, cdk8s, and kro, compared honestly on fit.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/best-kubernetes-iac-tools-2026</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Compatibility Testing Pulumi HCL</title>
       <link>https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</link>
@@ -99,13 +106,6 @@
       <description>Preview a proposed ESC environment change against your stack before you promote it, using draft references and the new --override-env flag.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Standalone ESC CLI Retired: Use pulumi env</title>
-      <link>https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</link>
-      <description>The standalone esc CLI is archived as of v0.26.0. Every ESC command is available in the Pulumi CLI under pulumi env: one binary to install and upgrade.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-cli-retiring-use-pulumi-env</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
