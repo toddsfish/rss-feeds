@@ -15,6 +15,11 @@
 #     enabled: false
 
 feeds:
+  aaif:
+    script: aaif_blog.py
+    type: selenium
+    blog_url: https://aaif.io/blog
+
   anthropic_eng:
     script: anthropic_eng_blog.py
     type: requests

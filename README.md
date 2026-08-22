@@ -12,6 +12,7 @@ Scraped feeds are generated hourly. "Official RSS" rows point to native feeds th
 
 | Blog                                                    | Feed                                                                                                       |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [The AAIF Blog](https://aaif.io/blog)                   | [feed_aaif.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_aaif.xml)             |
 | [Bits Lovers](https://www.bitslovers.com/)              | [Official RSS](https://www.bitslovers.com/feed.xml)                                                        |
 | [Brettski's Blog](https://brettski.net)                 | [feed_brettski.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_brettski.xml)     |
 | [ITop Field News](https://itopfield.com.au)             | [feed_itopfield.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_itopfield.xml)   |
