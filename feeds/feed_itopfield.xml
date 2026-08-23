@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 17:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:11:01 +0000</lastBuildDate>
     <item>
       <title>PS5 DualSense Edge: is Sony's pro controller worth it?</title>
       <link>https://itopfield.com.au/videogames/ps5-dualsense-edge-pro-controller-review-worth-it</link>
@@ -23,6 +23,14 @@
       <description>Cloud egress costs are one of the biggest hidden drivers of Australian cloud bills. Here is what IT teams need to know about data transfer pricing and how to reduce it.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-egress-costs-australia-why-your-bill-keeps-climbing</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop wireless connectivity: what the specs actually mean</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-wireless-connectivity-what-specs-mean</link>
+      <description>Wi-Fi 6E, Bluetooth 5.3, LTE and 5G modules on business laptops explained. What the wireless specs actually mean for Australian enterprise buyers.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-wireless-connectivity-what-specs-mean</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
