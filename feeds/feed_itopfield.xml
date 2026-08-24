@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:20:51 +0000</lastBuildDate>
     <item>
       <title>How Australian agencies handle IT project post-implementation reviews</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-post-implementation-review</link>
       <description>Post-implementation reviews are where Australian government IT projects reveal what they actually delivered. Here is how agencies run them and what goes wrong.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-post-implementation-review</guid>
       <category>Government &amp; public sector IT</category>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iress: the ASX fintech quietly powering global financial markets</title>
+      <link>https://itopfield.com.au/australian-companies/iress-asx-fintech-financial-markets-technology</link>
+      <description>Iress powers trading, wealth management, and mortgage software across 10 markets. Here is what the ASX-listed fintech is actually building and where it is headed.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/iress-asx-fintech-financial-markets-technology</guid>
+      <category>Australian companies</category>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
