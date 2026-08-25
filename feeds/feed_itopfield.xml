@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:22:31 +0000</lastBuildDate>
+    <item>
+      <title>Cyber threat intelligence in Australia: how to actually use it</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-threat-intelligence-australia-how-to-use-it</link>
+      <description>Cyber threat intelligence is only as useful as the decisions it drives. Here is how Australian IT teams can turn feeds, advisories, and reports into action.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-threat-intelligence-australia-how-to-use-it</guid>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Australian agencies handle IT project post-implementation reviews</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-post-implementation-review</link>
