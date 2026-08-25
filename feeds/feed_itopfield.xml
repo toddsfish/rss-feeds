@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:15:42 +0000</lastBuildDate>
     <item>
       <title>Cyber threat intelligence in Australia: how to actually use it</title>
       <link>https://itopfield.com.au/cybersecurity/cyber-threat-intelligence-australia-how-to-use-it</link>
@@ -23,6 +23,14 @@
       <description>Cloud capacity planning is where Australian IT budgets quietly balloon. Here is a practical guide to rightsizing, forecasting, and cutting waste before it compounds.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-capacity-planning-how-to-stop-buying-compute-you-dont-need</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop docking stations: what actually matters</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-docking-stations-what-actually-matters</link>
+      <description>Business laptop docking stations are easy to get wrong. Here is a practical guide to the specs, standards, and pitfalls Australian IT buyers need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-docking-stations-what-actually-matters</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
