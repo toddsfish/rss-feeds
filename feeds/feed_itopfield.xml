@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:40:09 +0000</lastBuildDate>
     <item>
       <title>Cyber threat intelligence in Australia: how to actually use it</title>
       <link>https://itopfield.com.au/cybersecurity/cyber-threat-intelligence-australia-how-to-use-it</link>
       <description>Cyber threat intelligence is only as useful as the decisions it drives. Here is how Australian IT teams can turn feeds, advisories, and reports into action.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-threat-intelligence-australia-how-to-use-it</guid>
       <category>Cybersecurity</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud capacity planning: how to stop buying compute you don't need</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-capacity-planning-how-to-stop-buying-compute-you-dont-need</link>
+      <description>Cloud capacity planning is where Australian IT budgets quietly balloon. Here is a practical guide to rightsizing, forecasting, and cutting waste before it compounds.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-capacity-planning-how-to-stop-buying-compute-you-dont-need</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
