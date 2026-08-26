@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:32:43 +0000</lastBuildDate>
     <item>
       <title>Atlassian Rovo vs Microsoft 365 Copilot: which AI assistant fits your team?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/atlassian-rovo-vs-microsoft-365-copilot-ai-assistant-comparison</link>
       <description>Atlassian Rovo and Microsoft 365 Copilot both promise to transform how teams work, but they're built for different problems. Here's what Australian IT buyers need to know.</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/atlassian-rovo-vs-microsoft-365-copilot-ai-assistant-comparison</guid>
       <category>Enterprise software &amp; SaaS</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle IT project change control</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-change-control</link>
+      <description>Change control in Australian government IT projects is frequently mismanaged. Here is how agencies structure it, where it breaks down, and what good looks like.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-change-control</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
