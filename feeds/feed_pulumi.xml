@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 02:19:04 +0000</lastBuildDate>
+    <item>
+      <title>Pulumi Context API: One Graph for All Your Infrastructure</title>
+      <link>https://www.pulumi.com/blog/pulumi-context-api</link>
+      <description>The Pulumi Context API is now in preview: query IaC state, stack dependencies, and discovered cloud resources as one graph built for AI agents.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-context-api</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Best Kubernetes Infrastructure as Code Tools in 2026</title>
       <link>https://www.pulumi.com/blog/best-kubernetes-iac-tools-2026</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Compatibility Testing Pulumi HCL</title>
       <link>https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</link>
-      <description>How we test that Pulumi HCL is an OpenTofu compatible HCL runtime.</description>
+      <description>Compatibility Testing Pulumi HCL</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -68,7 +75,7 @@
     <item>
       <title>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</title>
       <link>https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</link>
-      <description>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</description>
+      <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Organization admins can now cap the maximum expiry of personal, organization, and team access tokens, so no credential outlives your rotation policy.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/access-token-expiry-policy</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preview ESC Changes with Environment Overrides</title>
-      <link>https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</link>
-      <description>Preview a proposed ESC environment change against your stack before you promote it, using draft references and the new --override-env flag.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/preview-esc-environment-changes-with-draft-references</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
