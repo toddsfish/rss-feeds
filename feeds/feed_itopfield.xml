@@ -8,13 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 23:17:30 +0000</lastBuildDate>
     <item>
       <title>PS5 5.1 surround sound: what it actually means for your setup</title>
       <link>https://itopfield.com.au/videogames/ps5-surround-sound-51-setup-guide</link>
       <description>PS5 surround sound settings can be confusing, especially 5.1 vs 3D Audio. Here's what each option actually does and how to get the best from your setup.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-surround-sound-51-setup-guide</guid>
       <category>videogames</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Third-party risk management: what Australian IT teams get wrong</title>
+      <link>https://itopfield.com.au/cybersecurity/third-party-risk-management-australia-what-it-teams-get-wrong</link>
+      <description>Third-party risk management is where many Australian IT teams have blind spots. Here is what the common mistakes look like and how to fix them before a vendor becomes a liability.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/third-party-risk-management-australia-what-it-teams-get-wrong</guid>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud tagging strategies: why most Australian teams get them wrong</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-tagging-strategies-why-most-australian-teams-get-them-wrong</link>
+      <description>Cloud tagging is one of the most overlooked controls in Australian IT. Here is why most teams get it wrong and how to build a tagging strategy that sticks.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-tagging-strategies-why-most-australian-teams-get-them-wrong</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
