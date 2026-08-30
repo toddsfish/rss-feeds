@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:42:12 +0000</lastBuildDate>
     <item>
       <title>Envato: the quiet marketplace giant rethinking its next act</title>
       <link>https://itopfield.com.au/australian-companies/envato-digital-marketplace-strategy-australia</link>
@@ -23,6 +23,14 @@
       <description>PS5 save data management is more complex than most players realise. Here's how cloud saves, USB backups, and PS4 transfers actually work on Sony's console.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-save-data-management-what-every-player-should-know</guid>
       <category>videogames</category>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security incident logging: what Australian IT teams get wrong</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-incident-logging-what-australian-it-teams-get-wrong</link>
+      <description>Cyber security incident logging is where many Australian IT teams quietly lose ground. Here's what proper log coverage looks like and how to fix the gaps.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-incident-logging-what-australian-it-teams-get-wrong</guid>
+      <category>Cybersecurity</category>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
