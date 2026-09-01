@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:51:25 +0000</lastBuildDate>
     <item>
       <title>Cloud IAM misconfigurations: why Australian teams keep getting them wrong</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-iam-misconfigurations-australian-teams</link>
@@ -23,6 +23,14 @@
       <description>AI model versioning is one of the most overlooked risks in enterprise deployments. Here is what Australian teams need to know before a silent update breaks production.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-model-versioning-what-breaks-when-you-update-quietly</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trunk-based development: why teams keep abandoning it</title>
+      <link>https://itopfield.com.au/software-development/trunk-based-development-why-teams-keep-abandoning-it</link>
+      <description>Trunk-based development promises faster delivery and fewer merge conflicts, but most Australian teams quietly drift back to long-lived branches. Here's why.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/trunk-based-development-why-teams-keep-abandoning-it</guid>
+      <category>Software development</category>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
