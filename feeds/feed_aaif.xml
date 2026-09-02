@@ -13,7 +13,31 @@
       <link>https://aaif.io/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:36:55 +0000</lastBuildDate>
+    <item>
+      <title>MCP Usage Surged as the Protocol Went Stateless</title>
+      <link>https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</link>
+      <description>MCP tool calls surged this summer. Learn how the stateless July release helped service providers scale to meet surging demand.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</guid>
+      <category>MCP</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Catch Them Early</title>
+      <link>https://aaif.io/blog/aaif-sandbox-phase</link>
+      <description>The Agentic AI Foundation adds a Sandbox phase to catch early-stage projects before governance becomes expensive to retrofit. Learn about the new lifecycle policy.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/aaif-sandbox-phase</guid>
+      <category>Emerging Tech</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A2A joins AAIF’s open agentic stack</title>
+      <link>https://aaif.io/blog/a2a-joins-aaif</link>
+      <description>Agent2Agent (A2A), the open standard for inter-agent communication, is joining the Agentic AI Foundation (AAIF) as a hosted project.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/a2a-joins-aaif</guid>
+      <category>Agent2Agent (A2A)</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The EU AI Act and the New Rules for Building AI Agents</title>
       <link>https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</link>
@@ -21,30 +45,6 @@
       <guid isPermaLink="false">https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</guid>
       <category>AI Safety &amp; Governance</category>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Just Handed You a Deprecation Policy. Steal It.</title>
-      <link>https://aaif.io/blog/mcp-just-handed-you-a-deprecation-policy-steal-it</link>
-      <description>The MCP 2026-07-28 release gives teams a template for addressing a production failure most people have not connected it to yet, and it is not the part of the spec anyone is talking about. It is a temp</description>
-      <guid isPermaLink="false">https://aaif.io/blog/mcp-just-handed-you-a-deprecation-policy-steal-it</guid>
-      <category>MCP</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>7-28 Hands MCP to Platform Teams</title>
-      <link>https://aaif.io/blog/7-28-hands-mcp-to-platform-teams</link>
-      <description>The 7-28 MCP spec revision includes a number of capabilities that will resonate with platform teams.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/7-28-hands-mcp-to-platform-teams</guid>
-      <category>AAIF</category>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP 2026-07-28: What's Changing and How to Migrate</title>
-      <link>https://aaif.io/blog/mcp-2026-07-28-whats-changing-and-how-to-migrate</link>
-      <description>Explore MCP's biggest update since launch. Learn how the protocol evolves from local tool to distributed, stateless architecture for enterprise scale.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/mcp-2026-07-28-whats-changing-and-how-to-migrate</guid>
-      <category>MCP</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
