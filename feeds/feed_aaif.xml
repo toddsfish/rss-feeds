@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The AAIF Blog</title>
+    <link>https://aaif.io/blog</link>
+    <description>Latest updates from the AAIF blog</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_aaif.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://cdn.sanity.io/images/4o10fa7h/production/cc9de238d88dab9eebd13cb1e1cfd858ba39509e-32x32.png</url>
+      <title>The AAIF Blog</title>
+      <link>https://aaif.io/blog</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Aug 2026 00:12:14 +0000</lastBuildDate>
+    <item>
+      <title>The EU AI Act and the New Rules for Building AI Agents</title>
+      <link>https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</link>
+      <description>What companies need to know about risk, transparency, oversight, and accountability across the agentic stack.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</guid>
+      <category>AI Safety &amp; Governance</category>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP Just Handed You a Deprecation Policy. Steal It.</title>
+      <link>https://aaif.io/blog/mcp-just-handed-you-a-deprecation-policy-steal-it</link>
+      <description>The MCP 2026-07-28 release gives teams a template for addressing a production failure most people have not connected it to yet, and it is not the part of the spec anyone is talking about. It is a temp</description>
+      <guid isPermaLink="false">https://aaif.io/blog/mcp-just-handed-you-a-deprecation-policy-steal-it</guid>
+      <category>MCP</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7-28 Hands MCP to Platform Teams</title>
+      <link>https://aaif.io/blog/7-28-hands-mcp-to-platform-teams</link>
+      <description>The 7-28 MCP spec revision includes a number of capabilities that will resonate with platform teams.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/7-28-hands-mcp-to-platform-teams</guid>
+      <category>AAIF</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP 2026-07-28: What's Changing and How to Migrate</title>
+      <link>https://aaif.io/blog/mcp-2026-07-28-whats-changing-and-how-to-migrate</link>
+      <description>Explore MCP's biggest update since launch. Learn how the protocol evolves from local tool to distributed, stateless architecture for enterprise scale.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/mcp-2026-07-28-whats-changing-and-how-to-migrate</guid>
+      <category>MCP</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

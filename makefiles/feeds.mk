@@ -9,6 +9,20 @@ feeds_generate_all: ## Generate all RSS feeds
 	$(Q)uv run feed_generators/run_all_feeds.py
 	$(call print_success,All feeds generated)
 
+.PHONY: feeds_aaif
+feeds_aaif: ## Generate RSS feed for The AAIF Blog (incremental)
+	$(call check_venv)
+	$(call print_info,Generating AAIF Blog feed)
+	$(Q)uv run feed_generators/aaif_blog.py
+	$(call print_success,AAIF Blog feed generated)
+
+.PHONY: feeds_aaif_full
+feeds_aaif_full: ## Generate RSS feed for The AAIF Blog (full reset)
+	$(call check_venv)
+	$(call print_info,Generating AAIF Blog feed - FULL RESET)
+	$(Q)uv run feed_generators/aaif_blog.py --full
+	$(call print_success,AAIF Blog feed generated - full reset)
+
 .PHONY: feeds_anthropic_news
 feeds_anthropic_news: ## Generate RSS feed for Anthropic News (incremental)
 	$(call check_venv)
