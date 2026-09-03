@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:48:37 +0000</lastBuildDate>
+    <item>
+      <title>Security awareness training in Australia: why most programs don't stick</title>
+      <link>https://itopfield.com.au/cybersecurity/security-awareness-training-australia-why-programs-dont-stick</link>
+      <description>Security awareness training in Australia is widespread but often ineffective. Here is why most programs fail to change behaviour and what actually works.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/security-awareness-training-australia-why-programs-dont-stick</guid>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Australian agencies handle IT project risk registers</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-risk-registers</link>
