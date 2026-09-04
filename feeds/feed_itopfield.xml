@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:36:22 +0000</lastBuildDate>
+    <item>
+      <title>Monorepo vs polyrepo: which structure fits your team?</title>
+      <link>https://itopfield.com.au/software-development/monorepo-vs-polyrepo-which-structure-fits-your-team</link>
+      <description>Monorepo vs polyrepo is one of the most consequential code organisation decisions a dev team makes. Here is what each approach actually costs and delivers.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/monorepo-vs-polyrepo-which-structure-fits-your-team</guid>
+      <category>Software development</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Security awareness training in Australia: why most programs don't stick</title>
       <link>https://itopfield.com.au/cybersecurity/security-awareness-training-australia-why-programs-dont-stick</link>
