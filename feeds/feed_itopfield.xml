@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:14:05 +0000</lastBuildDate>
     <item>
       <title>Monorepo vs polyrepo: which structure fits your team?</title>
       <link>https://itopfield.com.au/software-development/monorepo-vs-polyrepo-which-structure-fits-your-team</link>
       <description>Monorepo vs polyrepo is one of the most consequential code organisation decisions a dev team makes. Here is what each approach actually costs and delivers.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/monorepo-vs-polyrepo-which-structure-fits-your-team</guid>
       <category>Software development</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle IT project steering committees</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-steering-committees</link>
+      <description>Steering committees in Australian government IT projects are often poorly structured and underused. Here is how effective agencies set them up and run them.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-steering-committees</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
