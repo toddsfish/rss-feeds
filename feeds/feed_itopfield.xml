@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:06:23 +0000</lastBuildDate>
     <item>
       <title>Monorepo vs polyrepo: which structure fits your team?</title>
       <link>https://itopfield.com.au/software-development/monorepo-vs-polyrepo-which-structure-fits-your-team</link>
@@ -23,6 +23,14 @@
       <description>Steering committees in Australian government IT projects are often poorly structured and underused. Here is how effective agencies set them up and run them.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-steering-committees</guid>
       <category>Government &amp; public sector IT</category>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud cost showbacks vs chargebacks: which model fits your team?</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-cost-showbacks-vs-chargebacks-which-model-fits-your-team</link>
+      <description>Cloud cost showbacks and chargebacks solve the same visibility problem in very different ways. Here's how to pick the right model for your Australian organisation.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-cost-showbacks-vs-chargebacks-which-model-fits-your-team</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
