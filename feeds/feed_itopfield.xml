@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:42:02 +0000</lastBuildDate>
     <item>
       <title>PS5 Media Remote: is it worth adding to your setup?</title>
       <link>https://itopfield.com.au/videogames/ps5-media-remote-is-it-worth-it</link>
@@ -23,6 +23,14 @@
       <description>Aconex helped pioneer construction project management software from Melbourne. Here's how Oracle's acquisition shaped the platform and what Australian users face now.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/aconex-oracle-construction-tech-australia-strategy</guid>
       <category>Australian companies</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security tabletop exercises: how to run one that actually works</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-tabletop-exercises-how-to-run-one-that-works</link>
+      <description>Cyber security tabletop exercises are one of the most effective ways to test incident response, but most Australian organisations run them wrong. Here's how to do it right.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-tabletop-exercises-how-to-run-one-that-works</guid>
+      <category>Cybersecurity</category>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
