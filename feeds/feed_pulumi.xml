@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:20:10 +0000</lastBuildDate>
+    <item>
+      <title>Set Up Cloud OIDC From the Pulumi CLI</title>
+      <link>https://www.pulumi.com/blog/esc-oidc-setup-cli</link>
+      <description>Set Up Cloud OIDC From the Pulumi CLI</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-setup-cli</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</title>
       <link>https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</link>
@@ -40,7 +47,7 @@
     <item>
       <title>Compatibility Testing Pulumi HCL</title>
       <link>https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</link>
-      <description>Compatibility Testing Pulumi HCL</description>
+      <description>How we test that Pulumi HCL is an OpenTofu compatible HCL runtime.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,13 +99,6 @@
       <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discovered Stacks: One Place for All Your Infrastructure</title>
-      <link>https://www.pulumi.com/blog/discovered-stacks</link>
-      <description>Discovered Stacks: Pulumi Cloud now models your CloudFormation and ARM deployments as Pulumi IaC stacks, with a built-in migration path.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/discovered-stacks</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Migrate CloudFormation to Pulumi with Discovered Stacks</title>
