@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:51:13 +0000</lastBuildDate>
+    <item>
+      <title>Cloud logging costs: why your observability bill keeps growing</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-logging-costs-why-your-observability-bill-keeps-growing</link>
+      <description>Cloud logging costs are quietly inflating Australian IT budgets. Here's where the spend comes from, what teams routinely get wrong, and how to fix it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-logging-costs-why-your-observability-bill-keeps-growing</guid>
+      <category>Cloud &amp; infrastructure</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber deception technology: how honeypots fit modern Australian defence</title>
       <link>https://itopfield.com.au/cybersecurity/cyber-deception-technology-honeypots-australian-defence</link>
