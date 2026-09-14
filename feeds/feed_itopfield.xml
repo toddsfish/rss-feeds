@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:29:21 +0000</lastBuildDate>
     <item>
       <title>Cloud logging costs: why your observability bill keeps growing</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-logging-costs-why-your-observability-bill-keeps-growing</link>
       <description>Cloud logging costs are quietly inflating Australian IT budgets. Here's where the spend comes from, what teams routinely get wrong, and how to fix it.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-logging-costs-why-your-observability-bill-keeps-growing</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI prompt injection: what it is and how to defend against it</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-prompt-injection-what-it-is-how-to-defend</link>
+      <description>Prompt injection is one of the fastest-growing attack vectors in enterprise AI deployments. Here is what it is, how it works, and what Australian teams can do.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-prompt-injection-what-it-is-how-to-defend</guid>
+      <category>AI &amp; machine learning</category>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
