@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:32:04 +0000</lastBuildDate>
     <item>
       <title>Database migration strategies: how to move without breaking production</title>
       <link>https://itopfield.com.au/software-development/database-migration-strategies-how-to-move-without-breaking-production</link>
@@ -23,6 +23,14 @@
       <description>LPDDR and DDR memory behave very differently in business laptops. Here is what Australian IT buyers need to know before committing to a fleet purchase.</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-memory-types-lpddr-vs-ddr-explained</guid>
       <category>Hardware &amp; devices</category>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buildkite: the quiet Australian CI/CD company that went global</title>
+      <link>https://itopfield.com.au/australian-companies/buildkite-cicd-company-australia-global-strategy</link>
+      <description>Buildkite built a CI/CD platform that competes with the biggest names in DevOps, all from Melbourne. Here's how the company grew, and where it's heading.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/buildkite-cicd-company-australia-global-strategy</guid>
+      <category>Australian companies</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
