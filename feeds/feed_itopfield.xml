@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:31:20 +0000</lastBuildDate>
     <item>
       <title>PS5 HDR settings: what they actually do and how to set them up</title>
       <link>https://itopfield.com.au/videogames/ps5-hdr-settings-what-they-do-how-to-set-up</link>
@@ -23,6 +23,14 @@
       <description>DNS security is one of the most overlooked controls in Australian IT, yet DNS is the entry point for many breaches. Here's what to fix and where to start.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/dns-security-australia-what-most-it-teams-overlook</guid>
       <category>Cybersecurity</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle IT project handover to operations</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-handover-to-operations</link>
+      <description>IT project handover to operations is where Australian government projects most often fall apart. Here is how agencies can get the transition right.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-handover-to-operations</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
