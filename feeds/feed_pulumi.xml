@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:21:27 +0000</lastBuildDate>
+    <item>
+      <title>Beyond the Hyperscalers: What Actually Protects You</title>
+      <link>https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</link>
+      <description>Beyond the Hyperscalers: What Actually Protects You</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Set Up Cloud OIDC From the Pulumi CLI</title>
       <link>https://www.pulumi.com/blog/esc-oidc-setup-cli</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</title>
       <link>https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</link>
-      <description>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</description>
+      <description>Extend the Pulumi Kubernetes provider with any CustomResourceDefinition using the new --extension flag.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrate CloudFormation to Pulumi with Discovered Stacks</title>
-      <link>https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</link>
-      <description>Migrate a CloudFormation stack to Pulumi with Discovered Stacks: verify every resource, import with a zero-diff preview, and track it all in Pulumi Cloud.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/discovered-stacks-migrate-cloudformation-to-pulumi</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
