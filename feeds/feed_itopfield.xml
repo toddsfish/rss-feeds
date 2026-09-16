@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:54:53 +0000</lastBuildDate>
+    <item>
+      <title>PS5 HDR settings: what they actually do and how to set them up</title>
+      <link>https://itopfield.com.au/videogames/ps5-hdr-settings-what-they-do-how-to-set-up</link>
+      <description>PS5 HDR settings confuse most players into leaving them on defaults. Here's what each option actually does and how to calibrate them for your TV or monitor.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-hdr-settings-what-they-do-how-to-set-up</guid>
+      <category>videogames</category>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Database migration strategies: how to move without breaking production</title>
       <link>https://itopfield.com.au/software-development/database-migration-strategies-how-to-move-without-breaking-production</link>
