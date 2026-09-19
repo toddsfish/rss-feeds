@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:40:20 +0000</lastBuildDate>
     <item>
       <title>PS5 Pro upgrade checklist: what to do before you sell your old console</title>
       <link>https://itopfield.com.au/videogames/ps5-pro-upgrade-checklist-what-to-do-before-you-sell</link>
@@ -23,6 +23,14 @@
       <description>Culture Amp turned employee feedback software into a global people analytics platform. Here is how the Melbourne company built its edge and what comes next.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/culture-amp-hr-tech-australia-global-strategy</guid>
       <category>Australian companies</category>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security audit logs: what to keep and for how long</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-audit-logs-what-to-keep-how-long</link>
+      <description>Cyber security audit logs are a compliance and forensic necessity, but most Australian IT teams keep the wrong data for too long or delete the right data too soon.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-audit-logs-what-to-keep-how-long</guid>
+      <category>Cybersecurity</category>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
