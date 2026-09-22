@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:11:06 +0000</lastBuildDate>
     <item>
       <title>Graceful degradation in software: how to design for partial failure</title>
       <link>https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</link>
       <description>Graceful degradation lets systems keep serving users when components fail. Here's how Australian dev teams can design for partial failure without starting over.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</guid>
       <category>Software development</category>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop power management: what IT buyers miss</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-power-management-what-it-buyers-miss</link>
+      <description>Business laptop power management shapes battery life, performance, and longevity, yet most Australian IT buyers overlook it at procurement. Here's what to check.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-power-management-what-it-buyers-miss</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
