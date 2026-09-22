@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:33:35 +0000</lastBuildDate>
     <item>
       <title>Graceful degradation in software: how to design for partial failure</title>
       <link>https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</link>
@@ -23,6 +23,14 @@
       <description>Business laptop power management shapes battery life, performance, and longevity, yet most Australian IT buyers overlook it at procurement. Here's what to check.</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-power-management-what-it-buyers-miss</guid>
       <category>Hardware &amp; devices</category>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PS5 wishlist and library curation: how to manage what you actually want</title>
+      <link>https://itopfield.com.au/videogames/ps5-wishlist-library-curation-how-to-manage</link>
+      <description>PS5 wishlist and library curation tips for Australian players: how to track games you want, sort your collection, and stop buying titles you'll never finish.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-wishlist-library-curation-how-to-manage</guid>
+      <category>videogames</category>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
