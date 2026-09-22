@@ -13,7 +13,7 @@
       <link>https://www.anthropic.com/research</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:12:49 +0000</lastBuildDate>
     <item>
       <title>Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling</title>
       <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
@@ -87,9 +87,9 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.</title>
+      <title>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</title>
       <link>https://www.anthropic.com/research/riemann-zeta</link>
-      <description>ScienceAug 10, 2026Learning more about Claude's mathematical capabilitiesAn unreleased research version of Claude has made strides on a problem related to the Riemann hypothesis.</description>
+      <description>Aug 10, 2026ScienceLearning more about Claude's mathematical capabilities</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
       <category>Research</category>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
@@ -100,15 +100,7 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Economics</title>
-      <link>https://www.anthropic.com/research/team/economics</link>
-      <description>Economics</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
-      <category>Research</category>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Frontier Red Team</title>
@@ -116,15 +108,7 @@
       <description>Frontier Red Team</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/frontier-red-team</guid>
       <category>Research</category>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Societal Impacts</title>
-      <link>https://www.anthropic.com/research/team/societal-impacts</link>
-      <description>Societal Impacts</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
-      <category>Research</category>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Interpretability</title>
@@ -132,7 +116,23 @@
       <description>Interpretability</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
       <category>Research</category>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>https://www.anthropic.com/research/team/economics</link>
+      <description>Economics</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
+      <category>Research</category>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Societal Impacts</title>
+      <link>https://www.anthropic.com/research/team/societal-impacts</link>
+      <description>Societal Impacts</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
+      <category>Research</category>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
