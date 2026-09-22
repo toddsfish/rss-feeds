@@ -8,13 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 22:54:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:19:28 +0000</lastBuildDate>
+    <item>
+      <title>Graceful degradation in software: how to design for partial failure</title>
+      <link>https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</link>
+      <description>Graceful degradation lets systems keep serving users when components fail. Here's how Australian dev teams can design for partial failure without starting over.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</guid>
+      <category>Software development</category>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI synthetic data: when it helps and when it backfires</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-synthetic-data-when-it-helps-when-it-backfires</link>
       <description>AI synthetic data solves real privacy and scarcity problems, but misused it quietly corrupts model quality. Here's what Australian teams need to know.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-synthetic-data-when-it-helps-when-it-backfires</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle IT project budget reforecasting</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-budget-reforecasting</link>
+      <description>Budget reforecasting on Australian government IT projects is where political pressure and technical reality collide. Here is how agencies manage it and what goes wrong.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-budget-reforecasting</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
