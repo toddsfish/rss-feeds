@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:56:01 +0000</lastBuildDate>
     <item>
       <title>Graceful degradation in software: how to design for partial failure</title>
       <link>https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</link>
