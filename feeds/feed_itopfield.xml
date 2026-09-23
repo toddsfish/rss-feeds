@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:16:11 +0000</lastBuildDate>
     <item>
       <title>SIEM tuning in Australia: why most deployments generate more noise than signal</title>
       <link>https://itopfield.com.au/cybersecurity/siem-tuning-australia-noise-signal-alert-fatigue</link>
@@ -26,9 +26,17 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Dovetail: how an Australian research platform went global</title>
+      <link>https://itopfield.com.au/australian-companies/dovetail-user-research-platform-australia-global-strategy</link>
+      <description>Dovetail turned a simple user research repository into a global insights platform. Here is how the Sydney-founded company is building its case beyond early adopters.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/dovetail-user-research-platform-australia-global-strategy</guid>
+      <category>Australian companies</category>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Graceful degradation in software: how to design for partial failure</title>
       <link>https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</link>
-      <description>Graceful degradation lets systems keep serving users when components fail. Here's how Australian dev teams can design for partial failure without starting over.</description>
+      <description>Graceful degradation in software: how to design for partial failure</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/graceful-degradation-software-design-partial-failure</guid>
       <category>Software development</category>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
@@ -92,7 +100,7 @@
     <item>
       <title>PS5 Pro upgrade checklist: what to do before you sell your old console</title>
       <link>https://itopfield.com.au/videogames/ps5-pro-upgrade-checklist-what-to-do-before-you-sell</link>
-      <description>Upgrading to the PS5 Pro? Here's exactly what to do before handing over your old console: save data, licences, settings, and more.</description>
+      <description>PS5 Pro upgrade checklist: what to do before you sell your old console</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-pro-upgrade-checklist-what-to-do-before-you-sell</guid>
       <category>videogames</category>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
@@ -116,7 +124,7 @@
     <item>
       <title>Business laptop lid hinges and chassis flex: why they matter</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-lid-hinges-chassis-flex-why-they-matter</link>
-      <description>Lid hinges and chassis flex rarely appear in business laptop specs, yet they predict long-term durability and daily usability. Here's what Australian IT buyers need to know.</description>
+      <description>Business laptop lid hinges and chassis flex: why they matter</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-lid-hinges-chassis-flex-why-they-matter</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
@@ -140,7 +148,7 @@
     <item>
       <title>SaaS renewal negotiations: how to get a better deal</title>
       <link>https://itopfield.com.au/enterprise-software-saas/saas-renewal-negotiations-how-to-get-a-better-deal</link>
-      <description>SaaS renewal negotiations are where Australian IT teams leave the most money on the table. Here's a practical guide to timing, leverage, and what vendors won't volunteer.</description>
+      <description>SaaS renewal negotiations: how to get a better deal</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/saas-renewal-negotiations-how-to-get-a-better-deal</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
@@ -172,7 +180,7 @@
     <item>
       <title>How Australian agencies handle IT project handover to operations</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-handover-to-operations</link>
-      <description>IT project handover to operations is where Australian government projects most often fall apart. Here is how agencies can get the transition right.</description>
+      <description>How Australian agencies handle IT project handover to operations</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-handover-to-operations</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
@@ -180,7 +188,7 @@
     <item>
       <title>Database migration strategies: how to move without breaking production</title>
       <link>https://itopfield.com.au/software-development/database-migration-strategies-how-to-move-without-breaking-production</link>
-      <description>Database migration strategies that actually hold up in production, covering schema changes, zero-downtime patterns, and what Australian dev teams get wrong.</description>
+      <description>Database migration strategies: how to move without breaking production</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/database-migration-strategies-how-to-move-without-breaking-production</guid>
       <category>Software development</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
@@ -196,7 +204,7 @@
     <item>
       <title>Buildkite: the quiet Australian CI/CD company that went global</title>
       <link>https://itopfield.com.au/australian-companies/buildkite-cicd-company-australia-global-strategy</link>
-      <description>Buildkite built a CI/CD platform that competes with the biggest names in DevOps, all from Melbourne. Here's how the company grew, and where it's heading.</description>
+      <description>Buildkite: the quiet Australian CI/CD company that went global</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/buildkite-cicd-company-australia-global-strategy</guid>
       <category>Australian companies</category>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
@@ -284,7 +292,7 @@
     <item>
       <title>PS5 UI tips: hidden features most players never find</title>
       <link>https://itopfield.com.au/videogames/ps5-ui-tips-hidden-features-most-players-never-find</link>
-      <description>The PS5 interface hides a surprising number of useful shortcuts and settings. Here are the features most players miss and exactly how to find them.</description>
+      <description>PS5 UI tips: hidden features most players never find</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-ui-tips-hidden-features-most-players-never-find</guid>
       <category>videogames</category>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
@@ -300,7 +308,7 @@
     <item>
       <title>Business laptop screen brightness: what nits actually mean for your team</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-screen-brightness-nits-explained</link>
-      <description>Screen brightness specs on business laptops are easy to misread. Here is what nit ratings actually mean for outdoor use, glare, and eye fatigue.</description>
+      <description>Business laptop screen brightness: what nits actually mean for your team</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-screen-brightness-nits-explained</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
@@ -308,7 +316,7 @@
     <item>
       <title>SafetyCulture: from digital checklists to an operations platform</title>
       <link>https://itopfield.com.au/australian-companies/safetyculture-operations-platform-strategy-australia</link>
-      <description>SafetyCulture grew from a simple digital inspection tool into a frontline operations platform used by millions globally. Here is how the Townsville-born company did it.</description>
+      <description>SafetyCulture: from digital checklists to an operations platform</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/safetyculture-operations-platform-strategy-australia</guid>
       <category>Australian companies</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
@@ -380,7 +388,7 @@
     <item>
       <title>PS5 Media Remote: is it worth adding to your setup?</title>
       <link>https://itopfield.com.au/videogames/ps5-media-remote-is-it-worth-it</link>
-      <description>The PS5 Media Remote promises a cleaner way to control streaming apps and Blu-ray playback. Here's what it actually does well and where it falls short.</description>
+      <description>PS5 Media Remote: is it worth adding to your setup?</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-media-remote-is-it-worth-it</guid>
       <category>videogames</category>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
@@ -412,7 +420,7 @@
     <item>
       <title>Business laptop charging standards: what USB-C PD actually means</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-charging-standards-usb-c-pd-explained</link>
-      <description>USB-C Power Delivery is now the dominant laptop charging standard, but the spec has real complexity. Here's what Australian IT buyers need to understand.</description>
+      <description>Business laptop charging standards: what USB-C PD actually means</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-charging-standards-usb-c-pd-explained</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
@@ -428,7 +436,7 @@
     <item>
       <title>How Australian agencies handle IT project steering committees</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-steering-committees</link>
-      <description>Steering committees in Australian government IT projects are often poorly structured and underused. Here is how effective agencies set them up and run them.</description>
+      <description>How Australian agencies handle IT project steering committees</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-steering-committees</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
@@ -468,7 +476,7 @@
     <item>
       <title>Carsales: how Australia's auto marketplace built a global data moat</title>
       <link>https://itopfield.com.au/australian-companies/carsales-auto-marketplace-global-data-strategy</link>
-      <description>Carsales turned a local car listings site into a global automotive data business. Here is how the ASX-listed company built its moat and where it is heading next.</description>
+      <description>Carsales: how Australia's auto marketplace built a global data moat</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/carsales-auto-marketplace-global-data-strategy</guid>
       <category>Australian companies</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
@@ -476,7 +484,7 @@
     <item>
       <title>PS5 game sharing: how it works and what the limits are</title>
       <link>https://itopfield.com.au/videogames/ps5-game-sharing-how-it-works-limits</link>
-      <description>PS5 game sharing lets two players access the same digital library, but the rules are stricter than most expect. Here's how it works and where it falls short.</description>
+      <description>PS5 game sharing: how it works and what the limits are</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-game-sharing-how-it-works-limits</guid>
       <category>videogames</category>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
@@ -532,7 +540,7 @@
     <item>
       <title>PS5 save data management: what every player should know</title>
       <link>https://itopfield.com.au/videogames/ps5-save-data-management-what-every-player-should-know</link>
-      <description>PS5 save data management is more complex than most players realise. Here's how cloud saves, USB backups, and PS4 transfers actually work on Sony's console.</description>
+      <description>PS5 save data management: what every player should know</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-save-data-management-what-every-player-should-know</guid>
       <category>videogames</category>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
@@ -548,7 +556,7 @@
     <item>
       <title>Business laptop speakers: do they matter for hybrid work?</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-speakers-hybrid-work-audio-quality</link>
-      <description>Business laptop speakers are routinely ignored in procurement, yet they shape meeting quality daily. Here's what Australian IT buyers need to know about audio specs.</description>
+      <description>Business laptop speakers: do they matter for hybrid work?</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-speakers-hybrid-work-audio-quality</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -556,7 +564,7 @@
     <item>
       <title>Jira Service Management vs Freshservice: which ITSM fits your team?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/jira-service-management-vs-freshservice-itsm-comparison-australian</link>
-      <description>Jira Service Management and Freshservice are the two most-compared ITSM platforms in Australia. Here's what Australian IT teams need to know before choosing.</description>
+      <description>Jira Service Management vs Freshservice: which ITSM fits your team?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/jira-service-management-vs-freshservice-itsm-comparison-australian</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -588,7 +596,7 @@
     <item>
       <title>PS5 5.1 surround sound: what it actually means for your setup</title>
       <link>https://itopfield.com.au/videogames/ps5-surround-sound-51-setup-guide</link>
-      <description>PS5 surround sound settings can be confusing, especially 5.1 vs 3D Audio. Here's what each option actually does and how to get the best from your setup.</description>
+      <description>PS5 5.1 surround sound: what it actually means for your setup</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-surround-sound-51-setup-guide</guid>
       <category>videogames</category>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
@@ -660,7 +668,7 @@
     <item>
       <title>How Australian agencies handle IT project post-implementation reviews</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-post-implementation-review</link>
-      <description>Post-implementation reviews are where Australian government IT projects reveal what they actually delivered. Here is how agencies run them and what goes wrong.</description>
+      <description>How Australian agencies handle IT project post-implementation reviews</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-post-implementation-review</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
@@ -692,7 +700,7 @@
     <item>
       <title>Cloud egress costs in Australia: why your bill keeps climbing</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-egress-costs-australia-why-your-bill-keeps-climbing</link>
-      <description>Cloud egress costs are one of the biggest hidden drivers of Australian cloud bills. Here is what IT teams need to know about data transfer pricing and how to reduce it.</description>
+      <description>Cloud egress costs in Australia: why your bill keeps climbing</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-egress-costs-australia-why-your-bill-keeps-climbing</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
@@ -724,7 +732,7 @@
     <item>
       <title>Computershare: the quiet ASX giant hiding in plain sight</title>
       <link>https://itopfield.com.au/australian-companies/computershare-asx-global-registry-technology-strategy</link>
-      <description>Computershare is one of Australia's most underappreciated ASX tech companies. Here is how its global registry business, fintech pivot, and AI strategy set it apart.</description>
+      <description>Computershare: the quiet ASX giant hiding in plain sight</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/computershare-asx-global-registry-technology-strategy</guid>
       <category>Australian companies</category>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
@@ -732,7 +740,7 @@
     <item>
       <title>PS5 remote play: what it actually does and when to use it</title>
       <link>https://itopfield.com.au/videogames/ps5-remote-play-what-it-does-when-to-use-it</link>
-      <description>PS5 Remote Play lets you stream your console to phones, PCs, and Macs, but it has real limits. Here's how it works and when it's actually worth using.</description>
+      <description>PS5 remote play: what it actually does and when to use it</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-remote-play-what-it-does-when-to-use-it</guid>
       <category>videogames</category>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
@@ -772,7 +780,7 @@
     <item>
       <title>How Australian agencies measure digital service performance</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-digital-service-performance-measurement</link>
-      <description>Australian government agencies are under growing pressure to measure and publish digital service performance. Here is how the frameworks, metrics, and reporting obligations actually work.</description>
+      <description>How Australian agencies measure digital service performance</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-digital-service-performance-measurement</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
@@ -796,7 +804,7 @@
     <item>
       <title>PS5 game library management: how to keep your storage organised</title>
       <link>https://itopfield.com.au/videogames/ps5-game-library-management-how-to-keep-storage-organised</link>
-      <description>PS5 game library management tips for keeping your storage clean, your download queue sane, and your wishlist under control. Practical advice for PS5 owners.</description>
+      <description>PS5 game library management: how to keep your storage organised</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-game-library-management-how-to-keep-storage-organised</guid>
       <category>videogames</category>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -804,7 +812,7 @@
     <item>
       <title>PS5 network settings: what each option actually does</title>
       <link>https://itopfield.com.au/videogames/ps5-network-settings-what-each-option-actually-does</link>
-      <description>PS5 network settings can be confusing, but the right configuration genuinely improves online play and download speeds. Here's what each option actually does.</description>
+      <description>PS5 network settings: what each option actually does</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-network-settings-what-each-option-actually-does</guid>
       <category>videogames</category>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -812,7 +820,7 @@
     <item>
       <title>PS5 party chat and voice features: what actually works</title>
       <link>https://itopfield.com.au/videogames/ps5-party-chat-voice-features-what-actually-works</link>
-      <description>PS5 party chat and voice features confuse a lot of players. Here's a plain-language breakdown of what works, what doesn't, and how to fix common issues.</description>
+      <description>PS5 party chat and voice features: what actually works</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-party-chat-voice-features-what-actually-works</guid>
       <category>videogames</category>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
@@ -820,7 +828,7 @@
     <item>
       <title>PS5 share play: what it does and where it falls short</title>
       <link>https://itopfield.com.au/videogames/ps5-share-play-what-it-does-where-it-falls-short</link>
-      <description>PS5 Share Play lets you hand a controller to a friend online, but the feature has real limits. Here's what actually works and what to expect in 2026.</description>
+      <description>PS5 share play: what it does and where it falls short</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-share-play-what-it-does-where-it-falls-short</guid>
       <category>videogames</category>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
@@ -828,7 +836,7 @@
     <item>
       <title>PS5 external hard drive vs M.2 SSD: which storage option is right for you?</title>
       <link>https://itopfield.com.au/videogames/ps5-external-hard-drive-vs-m2-ssd-storage-options</link>
-      <description>PS5 external hard drive vs M.2 SSD: a clear breakdown of what each option actually does, what it costs, and which one suits your gaming needs.</description>
+      <description>PS5 external hard drive vs M.2 SSD: which storage option is right for you?</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-external-hard-drive-vs-m2-ssd-storage-options</guid>
       <category>videogames</category>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
@@ -860,7 +868,7 @@
     <item>
       <title>PS5 storage upgrades: what actually works and what doesn't</title>
       <link>https://itopfield.com.au/videogames/ps5-storage-upgrades-what-works-and-what-doesnt</link>
-      <description>Upgrading PS5 storage with an M.2 SSD isn't as simple as picking the fastest drive. Here's what Australian gamers need to know before buying.</description>
+      <description>PS5 storage upgrades: what actually works and what doesn't</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-storage-upgrades-what-works-and-what-doesnt</guid>
       <category>videogames</category>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
@@ -900,7 +908,7 @@
     <item>
       <title>PS5 Pro vs PS5: is the upgrade worth it?</title>
       <link>https://itopfield.com.au/videogames/ps5-pro-vs-ps5-is-the-upgrade-worth-it</link>
-      <description>PS5 Pro vs PS5: we break down the real differences in hardware, performance, and price to help you decide if Sony's upgraded console is worth buying.</description>
+      <description>PS5 Pro vs PS5: is the upgrade worth it?</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-pro-vs-ps5-is-the-upgrade-worth-it</guid>
       <category>videogames</category>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
@@ -916,7 +924,7 @@
     <item>
       <title>AI model evaluation: how to choose before you commit</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</link>
-      <description>AI model evaluation is the step most Australian teams skip. Here is a practical framework for comparing models on cost, accuracy, latency, and risk before you commit.</description>
+      <description>AI model evaluation: how to choose before you commit</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-model-evaluation-how-to-choose</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
@@ -972,7 +980,7 @@
     <item>
       <title>Whole-of-government data sharing in Australia: how it works</title>
       <link>https://itopfield.com.au/government-public-sector-it/whole-of-government-data-sharing-australia-how-it-works</link>
-      <description>Whole-of-government data sharing in Australia is reshaping public services, but the rules, risks, and architecture are more complex than they appear. Here's what IT leaders need to know.</description>
+      <description>Whole-of-government data sharing in Australia: how it works</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/whole-of-government-data-sharing-australia-how-it-works</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
@@ -988,7 +996,7 @@
     <item>
       <title>Megaport: how Australia's network-as-a-service pioneer stays relevant</title>
       <link>https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</link>
-      <description>Megaport built a global software-defined networking business from Brisbane. Here is how it keeps its edge as cloud giants and rivals close in.</description>
+      <description>Megaport: how Australia's network-as-a-service pioneer stays relevant</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/megaport-network-as-a-service-australia-strategy</guid>
       <category>Australian companies</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
@@ -1004,7 +1012,7 @@
     <item>
       <title>Private cloud vs public cloud: how to choose for your workload</title>
       <link>https://itopfield.com.au/cloud-infrastructure/private-cloud-vs-public-cloud-how-to-choose</link>
-      <description>Private cloud vs public cloud is one of the most consequential infrastructure decisions Australian IT teams face. Here is how to choose based on workload needs.</description>
+      <description>Private cloud vs public cloud: how to choose for your workload</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/private-cloud-vs-public-cloud-how-to-choose</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
@@ -1044,7 +1052,7 @@
     <item>
       <title>Network segmentation: why it matters for Australian cyber defence</title>
       <link>https://itopfield.com.au/cybersecurity/network-segmentation-australian-cyber-defence</link>
-      <description>Network segmentation limits lateral movement after a breach and is central to Australia's Essential Eight framework. Here is what IT teams need to know.</description>
+      <description>Network segmentation: why it matters for Australian cyber defence</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/network-segmentation-australian-cyber-defence</guid>
       <category>Cybersecurity</category>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
@@ -1076,7 +1084,7 @@
     <item>
       <title>Multi-region cloud strategy for Australian businesses: how to get it right</title>
       <link>https://itopfield.com.au/cloud-infrastructure/multi-region-cloud-strategy-australian-businesses</link>
-      <description>A multi-region cloud strategy reduces risk and improves latency, but the tradeoffs are sharp. Here is what Australian IT teams need to know before committing.</description>
+      <description>Multi-region cloud strategy for Australian businesses: how to get it right</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/multi-region-cloud-strategy-australian-businesses</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
@@ -1084,7 +1092,7 @@
     <item>
       <title>Small language models: the case for going smaller in enterprise AI</title>
       <link>https://itopfield.com.au/ai-machine-learning/small-language-models-enterprise-ai-case-for-going-smaller</link>
-      <description>Small language models offer Australian enterprises speed, cost savings, and on-premises control. Here is when going smaller actually makes sense in production AI.</description>
+      <description>Small language models: the case for going smaller in enterprise AI</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/small-language-models-enterprise-ai-case-for-going-smaller</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
@@ -1132,7 +1140,7 @@
     <item>
       <title>Data centre tiers explained: what Australian IT buyers need to know</title>
       <link>https://itopfield.com.au/cloud-infrastructure/data-centre-tiers-explained-australian-it-buyers</link>
-      <description>Data centre tiers determine uptime, redundancy, and cost. Here is what Australian IT buyers need to know before signing a colocation or cloud contract.</description>
+      <description>Data centre tiers explained: what Australian IT buyers need to know</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/data-centre-tiers-explained-australian-it-buyers</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
@@ -1188,7 +1196,7 @@
     <item>
       <title>Agentic AI in the enterprise: what Australian IT leaders need to know</title>
       <link>https://itopfield.com.au/ai-machine-learning/agentic-ai-enterprise-australian-it-leaders</link>
-      <description>Agentic AI is moving from experiment to enterprise deployment across Australia. Here is what IT leaders need to know before committing to the technology.</description>
+      <description>Agentic AI in the enterprise: what Australian IT leaders need to know</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/agentic-ai-enterprise-australian-it-leaders</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
@@ -1212,7 +1220,7 @@
     <item>
       <title>AI in Australian healthcare: where the real deployments are</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-australian-healthcare-real-deployments</link>
-      <description>AI in Australian healthcare is moving beyond pilots into genuine clinical and operational deployments. Here is where the real use cases are and what IT teams need to know.</description>
+      <description>AI in Australian healthcare: where the real deployments are</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-australian-healthcare-real-deployments</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
@@ -1220,7 +1228,7 @@
     <item>
       <title>Containerisation best practices for Australian dev teams</title>
       <link>https://itopfield.com.au/software-development/containerisation-best-practices-australian-dev-teams</link>
-      <description>Containerisation best practices every Australian dev team should follow, from image hygiene and security scanning to orchestration and CI/CD integration.</description>
+      <description>Containerisation best practices for Australian dev teams</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/containerisation-best-practices-australian-dev-teams</guid>
       <category>Software development</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
@@ -1268,7 +1276,7 @@
     <item>
       <title>How the Australian government is using AI in public services</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-ai-public-services</link>
-      <description>AI is being deployed across Australian federal and state government services. Here is a clear look at where it's being used, the risks, and what oversight looks like now.</description>
+      <description>How the Australian government is using AI in public services</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-ai-public-services</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
@@ -1300,7 +1308,7 @@
     <item>
       <title>MYOB's quiet reinvention: cloud, AI, and the SME battleground</title>
       <link>https://itopfield.com.au/australian-companies/myob-cloud-ai-sme-strategy-australia</link>
-      <description>MYOB is pushing hard into cloud and AI as it battles Xero and new fintech entrants for Australian SME loyalty. Here is what the strategy looks like now.</description>
+      <description>MYOB's quiet reinvention: cloud, AI, and the SME battleground</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/myob-cloud-ai-sme-strategy-australia</guid>
       <category>Australian companies</category>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
@@ -1340,7 +1348,7 @@
     <item>
       <title>Cyber security procurement in Australian government: how agencies buy</title>
       <link>https://itopfield.com.au/government-public-sector-it/cyber-security-procurement-australian-government-how-agencies-buy</link>
-      <description>Cyber security procurement in Australian government follows complex rules. Here is how federal and state agencies buy security services, tools, and talent today.</description>
+      <description>Cyber security procurement in Australian government: how agencies buy</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/cyber-security-procurement-australian-government-how-agencies-buy</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
@@ -1364,7 +1372,7 @@
     <item>
       <title>Observability vs monitoring: what modern dev teams actually need</title>
       <link>https://itopfield.com.au/software-development/observability-vs-monitoring-what-modern-dev-teams-need</link>
-      <description>Observability and monitoring are not the same thing. Here is a practical breakdown of the difference and what Australian dev teams should be investing in now.</description>
+      <description>Observability vs monitoring: what modern dev teams actually need</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/observability-vs-monitoring-what-modern-dev-teams-need</guid>
       <category>Software development</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
@@ -1372,7 +1380,7 @@
     <item>
       <title>Tyro Payments: can Australia's SME fintech find its next gear?</title>
       <link>https://itopfield.com.au/australian-companies/tyro-payments-sme-fintech-strategy-australia</link>
-      <description>Tyro Payments built its name on SME banking and EFTPOS, but competition is intensifying. Here is where Australia's fintech challenger stands now.</description>
+      <description>Tyro Payments: can Australia's SME fintech find its next gear?</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/tyro-payments-sme-fintech-strategy-australia</guid>
       <category>Australian companies</category>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
@@ -1380,7 +1388,7 @@
     <item>
       <title>Data breach response in Australia: what to do in the first 72 hours</title>
       <link>https://itopfield.com.au/cybersecurity/data-breach-response-australia-first-72-hours</link>
-      <description>A data breach in Australia demands rapid action. Here is a practical guide to the first 72 hours, from containment to OAIC notification obligations.</description>
+      <description>Data breach response in Australia: what to do in the first 72 hours</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/data-breach-response-australia-first-72-hours</guid>
       <category>Cybersecurity</category>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
@@ -1428,7 +1436,7 @@
     <item>
       <title>Social engineering attacks in Australia: how they work and how to stop them</title>
       <link>https://itopfield.com.au/cybersecurity/social-engineering-attacks-australia-how-they-work-stop-them</link>
-      <description>Social engineering attacks are the leading cause of data breaches in Australia. Here is how modern tactics work and what your team can do to stop them.</description>
+      <description>Social engineering attacks in Australia: how they work and how to stop them</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/social-engineering-attacks-australia-how-they-work-stop-them</guid>
       <category>Cybersecurity</category>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
@@ -1436,7 +1444,7 @@
     <item>
       <title>WebSockets vs REST vs GraphQL: which API style fits your use case?</title>
       <link>https://itopfield.com.au/software-development/websockets-vs-rest-vs-graphql-api-style-comparison</link>
-      <description>WebSockets, REST, and GraphQL solve different real-time and data-fetching problems. Here is a practical breakdown to help Australian dev teams choose the right API style.</description>
+      <description>WebSockets vs REST vs GraphQL: which API style fits your use case?</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/websockets-vs-rest-vs-graphql-api-style-comparison</guid>
       <category>Software development</category>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
@@ -1444,7 +1452,7 @@
     <item>
       <title>Business laptop ports explained: what your team actually needs</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-ports-explained-what-your-team-actually-needs</link>
-      <description>Business laptop ports are often overlooked until something doesn't plug in. Here's a practical guide to what each port does and how to spec your fleet right.</description>
+      <description>Business laptop ports explained: what your team actually needs</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-ports-explained-what-your-team-actually-needs</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
@@ -1452,7 +1460,7 @@
     <item>
       <title>Zendesk vs Freshdesk: which support platform fits your team?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/zendesk-vs-freshdesk-support-platform-comparison-australian-teams</link>
-      <description>Zendesk and Freshdesk both promise to modernise customer support, but they suit very different teams. Here is a practical comparison for Australian businesses.</description>
+      <description>Zendesk vs Freshdesk: which support platform fits your team?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/zendesk-vs-freshdesk-support-platform-comparison-australian-teams</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
@@ -1468,7 +1476,7 @@
     <item>
       <title>Cloud disaster recovery in Australia: what actually works</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-disaster-recovery-australia-what-actually-works</link>
-      <description>Cloud disaster recovery in Australia requires more than a backup policy. Here is what actually works, from RTO/RPO planning to multi-region architecture.</description>
+      <description>Cloud disaster recovery in Australia: what actually works</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-disaster-recovery-australia-what-actually-works</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
@@ -1484,7 +1492,7 @@
     <item>
       <title>HubSpot vs Salesforce: which CRM actually fits your team?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/hubspot-vs-salesforce-crm-comparison-australian-teams</link>
-      <description>HubSpot vs Salesforce is one of the most common CRM decisions facing Australian businesses. Here is a practical breakdown of which platform fits your team.</description>
+      <description>HubSpot vs Salesforce: which CRM actually fits your team?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/hubspot-vs-salesforce-crm-comparison-australian-teams</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
@@ -1500,7 +1508,7 @@
     <item>
       <title>REA Group: how Australia's property tech giant is staying ahead</title>
       <link>https://itopfield.com.au/australian-companies/rea-group-property-tech-strategy-australia</link>
-      <description>REA Group dominates Australian property tech, but AI, international expansion, and shifting market conditions are reshaping its strategy. Here is what to know.</description>
+      <description>REA Group: how Australia's property tech giant is staying ahead</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/rea-group-property-tech-strategy-australia</guid>
       <category>Australian companies</category>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
@@ -1508,7 +1516,7 @@
     <item>
       <title>Microservices vs monolith: how to choose the right architecture</title>
       <link>https://itopfield.com.au/software-development/microservices-vs-monolith-how-to-choose-right-architecture</link>
-      <description>Microservices vs monolith is one of the most consequential architecture decisions a dev team makes. Here is how to choose the right approach for your project.</description>
+      <description>Microservices vs monolith: how to choose the right architecture</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/microservices-vs-monolith-how-to-choose-right-architecture</guid>
       <category>Software development</category>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
@@ -1532,7 +1540,7 @@
     <item>
       <title>ACSC advisories explained: how to act on them before the window closes</title>
       <link>https://itopfield.com.au/cybersecurity/acsc-advisories-explained-how-to-act</link>
-      <description>ACSC advisories carry real urgency but many Australian IT teams don't know how to respond fast enough. Here is a practical guide to acting on them.</description>
+      <description>ACSC advisories explained: how to act on them before the window closes</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/acsc-advisories-explained-how-to-act</guid>
       <category>Cybersecurity</category>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
@@ -1556,7 +1564,7 @@
     <item>
       <title>Confluence vs Notion: which knowledge base fits your team?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/confluence-vs-notion-knowledge-base-comparison</link>
-      <description>Confluence and Notion both promise to fix knowledge management, but they serve different teams. Here is a practical comparison for Australian IT buyers in 2026.</description>
+      <description>Confluence vs Notion: which knowledge base fits your team?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/confluence-vs-notion-knowledge-base-comparison</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
@@ -1572,7 +1580,7 @@
     <item>
       <title>AI ethics in Australia: what enterprises actually need to do</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-ethics-australia-what-enterprises-need-to-do</link>
-      <description>AI ethics in Australia is shifting from voluntary principle to boardroom obligation. Here is what enterprises need to do to stay ahead of the emerging rules.</description>
+      <description>AI ethics in Australia: what enterprises actually need to do</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-ethics-australia-what-enterprises-need-to-do</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
@@ -1604,7 +1612,7 @@
     <item>
       <title>Large language models in production: what Australian teams get wrong</title>
       <link>https://itopfield.com.au/ai-machine-learning/large-language-models-production-what-australian-teams-get-wrong</link>
-      <description>Large language models in production expose gaps most teams don't anticipate. Here's what Australian IT teams consistently get wrong, and how to fix it.</description>
+      <description>Large language models in production: what Australian teams get wrong</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/large-language-models-production-what-australian-teams-get-wrong</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
@@ -1612,7 +1620,7 @@
     <item>
       <title>TypeScript vs JavaScript: when to make the switch</title>
       <link>https://itopfield.com.au/software-development/typescript-vs-javascript-when-to-make-the-switch</link>
-      <description>TypeScript vs JavaScript: a practical breakdown of the trade-offs, migration costs, and when Australian dev teams should make the move to typed code.</description>
+      <description>TypeScript vs JavaScript: when to make the switch</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/typescript-vs-javascript-when-to-make-the-switch</guid>
       <category>Software development</category>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
@@ -1628,7 +1636,7 @@
     <item>
       <title>GCP in Australia: what you need to know about Google Cloud's local regions</title>
       <link>https://itopfield.com.au/cloud-infrastructure/gcp-australia-google-cloud-local-regions-guide</link>
-      <description>Google Cloud Platform's Australian regions offer low latency, data residency, and growing service depth. Here's what IT teams need to know before committing workloads.</description>
+      <description>GCP in Australia: what you need to know about Google Cloud's local regions</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/gcp-australia-google-cloud-local-regions-guide</guid>
       <category>Cloud &amp; infrastructure</category>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
@@ -1708,7 +1716,7 @@
     <item>
       <title>NBN and 5G in Australia: where the networks stand now</title>
       <link>https://itopfield.com.au/government-public-sector-it/nbn-5g-australia-network-status-2026</link>
-      <description>NBN and 5G are reshaping Australia's connectivity landscape in 2026. Here is where both networks actually stand, and what it means for government IT planning.</description>
+      <description>NBN and 5G in Australia: where the networks stand now</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/nbn-5g-australia-network-status-2026</guid>
       <category>Government &amp; public sector IT</category>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
@@ -1724,7 +1732,7 @@
     <item>
       <title>Docker vs Kubernetes: which container tool fits your project?</title>
       <link>https://itopfield.com.au/software-development/docker-vs-kubernetes-which-container-tool-fits-your-project</link>
-      <description>Docker and Kubernetes both handle containers, but they solve very different problems. Here is how to choose the right tool for your team and project stage.</description>
+      <description>Docker vs Kubernetes: which container tool fits your project?</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/docker-vs-kubernetes-which-container-tool-fits-your-project</guid>
       <category>Software development</category>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
@@ -1740,7 +1748,7 @@
     <item>
       <title>Identity-based attacks in Australia: how they work and how to stop them</title>
       <link>https://itopfield.com.au/cybersecurity/identity-based-attacks-australia-how-they-work-stop-them</link>
-      <description>Identity-based attacks are the leading cause of data breaches in Australia. Here is how credential theft, MFA bypass, and account takeover actually work, and what to do about them.</description>
+      <description>Identity-based attacks in Australia: how they work and how to stop them</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/identity-based-attacks-australia-how-they-work-stop-them</guid>
       <category>Cybersecurity</category>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
@@ -1756,7 +1764,7 @@
     <item>
       <title>Business laptop displays explained: what the specs actually mean</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-displays-explained-what-specs-mean</link>
-      <description>Business laptop display specs are confusing on purpose. Here is a plain-English breakdown of resolution, panel type, brightness, and colour accuracy for IT buyers.</description>
+      <description>Business laptop displays explained: what the specs actually mean</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-displays-explained-what-specs-mean</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
@@ -1764,7 +1772,7 @@
     <item>
       <title>Microsoft 365 Copilot for Australian enterprises: is it ready?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/microsoft-365-copilot-australian-enterprises-review</link>
-      <description>Microsoft 365 Copilot is now in wide deployment across Australian enterprises. Here is an honest look at what it delivers, where it falls short, and what IT teams need to know.</description>
+      <description>Microsoft 365 Copilot for Australian enterprises: is it ready?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/microsoft-365-copilot-australian-enterprises-review</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
@@ -1828,7 +1836,7 @@
     <item>
       <title>Server hardware for Australian businesses: what to buy in 2026</title>
       <link>https://itopfield.com.au/hardware-devices/server-hardware-australian-businesses-what-to-buy-2026</link>
-      <description>Server hardware decisions in 2026 are more complex than ever. Here is a practical guide for Australian businesses navigating on-prem, edge, and hybrid deployments.</description>
+      <description>Server hardware for Australian businesses: what to buy in 2026</description>
       <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/server-hardware-australian-businesses-what-to-buy-2026</guid>
       <category>Hardware &amp; devices</category>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
@@ -1884,7 +1892,7 @@
     <item>
       <title>Zero trust security: what it actually means for Australian IT</title>
       <link>https://itopfield.com.au/cybersecurity/zero-trust-security-australian-it-guide</link>
-      <description>Zero trust security is reshaping how Australian organisations protect networks and data. Here is what the model means in practice and how to get started.</description>
+      <description>Zero trust security: what it actually means for Australian IT</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/zero-trust-security-australian-it-guide</guid>
       <category>Cybersecurity</category>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
@@ -1908,7 +1916,7 @@
     <item>
       <title>Salesforce vs Microsoft Dynamics 365: which CRM fits Australian enterprises?</title>
       <link>https://itopfield.com.au/enterprise-software-saas/salesforce-vs-microsoft-dynamics-365-crm-australian-enterprises</link>
-      <description>Salesforce vs Microsoft Dynamics 365 compared for Australian enterprise needs: pricing, data residency, integrations, and local support. Here's what to know.</description>
+      <description>Salesforce vs Microsoft Dynamics 365: which CRM fits Australian enterprises?</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/salesforce-vs-microsoft-dynamics-365-crm-australian-enterprises</guid>
       <category>Enterprise software &amp; SaaS</category>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
@@ -1956,7 +1964,7 @@
     <item>
       <title>Python vs JavaScript: which language suits your next project?</title>
       <link>https://itopfield.com.au/software-development/python-vs-javascript-which-language-suits-your-next-project</link>
-      <description>Python vs JavaScript: a practical comparison for developers choosing between the two most popular languages in 2026, covering performance, ecosystems, and use cases.</description>
+      <description>Python vs JavaScript: which language suits your next project?</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/python-vs-javascript-which-language-suits-your-next-project</guid>
       <category>Software development</category>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
@@ -1972,7 +1980,7 @@
     <item>
       <title>Notifiable data breaches in Australia: what organisations must do</title>
       <link>https://itopfield.com.au/cybersecurity/notifiable-data-breaches-australia-what-organisations-must-do</link>
-      <description>Australia's Notifiable Data Breaches scheme explained: who it covers, what triggers a notification, and the steps organisations must take to stay compliant.</description>
+      <description>Notifiable data breaches in Australia: what organisations must do</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/notifiable-data-breaches-australia-what-organisations-must-do</guid>
       <category>Cybersecurity</category>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
@@ -1988,7 +1996,7 @@
     <item>
       <title>AI adoption in Australian enterprises: where things stand now</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-adoption-australian-enterprises-where-things-stand</link>
-      <description>AI adoption in Australian enterprises is accelerating but uneven. Here is a clear-eyed look at where local businesses are investing, what is working, and what to watch.</description>
+      <description>AI adoption in Australian enterprises: where things stand now</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-adoption-australian-enterprises-where-things-stand</guid>
       <category>AI &amp; machine learning</category>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
@@ -2020,7 +2028,7 @@
     <item>
       <title>Cybersecurity companies in Australia: who the key players are</title>
       <link>https://itopfield.com.au/software-development/cybersecurity-company-australia-key-players</link>
-      <description>Looking for a cybersecurity company in Australia? This guide covers the key local players, what they offer, and how to find the right fit for your organisation.</description>
+      <description>Cybersecurity companies in Australia: who the key players are</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/cybersecurity-company-australia-key-players</guid>
       <category>Software development</category>
       <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
@@ -2092,7 +2100,7 @@
     <item>
       <title>Cybersecurity services in Australia: how to choose the right provider</title>
       <link>https://itopfield.com.au/software-development/cybersecurity-services-australia-how-to-choose-provider</link>
-      <description>Cybersecurity services in Australia cover a wide range of providers and specialisations. Here's how to evaluate them and find the right fit for your organisation.</description>
+      <description>Cybersecurity services in Australia: how to choose the right provider</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/cybersecurity-services-australia-how-to-choose-provider</guid>
       <category>Software development</category>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
@@ -2132,7 +2140,7 @@
     <item>
       <title>The complete guide to DevSecOps for Australian teams in 2026</title>
       <link>https://itopfield.com.au/software-development/devsecops-guide-australian-teams-2026</link>
-      <description>DevSecOps is becoming essential for Australian dev teams in 2026. This guide covers tools, practices, and local compliance context you need to get started.</description>
+      <description>The complete guide to DevSecOps for Australian teams in 2026</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/devsecops-guide-australian-teams-2026</guid>
       <category>Software development</category>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
@@ -2164,7 +2172,7 @@
     <item>
       <title>ASX tech sector in 2026: the companies shaping Australia's digital economy</title>
       <link>https://itopfield.com.au/australian-companies/asx-tech-sector-2026-companies-shaping-australias-digital-economy</link>
-      <description>A deep dive into the ASX tech sector in 2026: the listed companies, scale-ups, and exits defining Australia's digital economy this year.</description>
+      <description>ASX tech sector in 2026: the companies shaping Australia's digital economy</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/asx-tech-sector-2026-companies-shaping-australias-digital-economy</guid>
       <category>Australian companies</category>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
