@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 20:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:38:33 +0000</lastBuildDate>
     <item>
       <title>Business laptop MIL-SPEC ratings: what they actually test</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-mil-spec-ratings-what-they-actually-test</link>
@@ -23,6 +23,14 @@
       <description>Discovery phases on Australian government IT projects are often rushed or skipped entirely. Here is what good discovery actually looks like and why it matters.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-discovery-phases</guid>
       <category>Government &amp; public sector IT</category>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shadow IT in Australian organisations: what IT teams actually face</title>
+      <link>https://itopfield.com.au/enterprise-software-saas/shadow-it-australian-organisations-what-it-teams-face</link>
+      <description>Shadow IT is spreading across Australian organisations faster than most IT teams realise. Here's what's driving it, what the real risks are, and what to do about it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/shadow-it-australian-organisations-what-it-teams-face</guid>
+      <category>Enterprise software &amp; SaaS</category>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
