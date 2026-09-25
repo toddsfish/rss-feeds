@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 02:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:15:14 +0000</lastBuildDate>
+    <item>
+      <title>Cloud security posture management: what it actually covers</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-security-posture-management-what-it-covers</link>
+      <description>Cloud security posture management (CSPM) tools catch misconfigurations before attackers do. Here's what Australian IT teams need to know about how they work.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-security-posture-management-what-it-covers</guid>
+      <category>Cloud &amp; infrastructure</category>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Business laptop MIL-SPEC ratings: what they actually test</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-mil-spec-ratings-what-they-actually-test</link>
