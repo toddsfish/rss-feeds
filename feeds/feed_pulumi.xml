@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:59:29 +0000</lastBuildDate>
+    <item>
+      <title>AI agents need continuity, not just context</title>
+      <link>https://www.pulumi.com/blog/neo-kopia-workspace-snapshots</link>
+      <description>AI agents need continuity, not just context</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/neo-kopia-workspace-snapshots</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>10 tips to improve your coding agent game</title>
       <link>https://www.pulumi.com/blog/10-tips-to-improve-your-coding-agent-game</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Beyond the Hyperscalers: What Actually Protects You</title>
       <link>https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</link>
-      <description>Beyond the Hyperscalers: What Actually Protects You</description>
+      <description>Three people who have priced leaving AWS spent an hour arguing about cloud sovereignty. Here is the recording, and the advice each of them gave.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -85,13 +92,6 @@
       <description>How teams manage Kubernetes infrastructure as code in 2026: what Terraform's Kubernetes provider does well, where it strains, and how Pulumi compares.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/terraform-kubernetes</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bring Your Terraform Estate Into the Agentic Era</title>
-      <link>https://www.pulumi.com/blog/bring-your-terraform-estate-into-the-agentic-era</link>
-      <description>Pulumi Cloud as a Terraform backend and HCL in Pulumi IaC are now GA, plus native Terraform module support — bring the IaC you already have.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/bring-your-terraform-estate-into-the-agentic-era</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Emulating Terraform on Pulumi's Engine</title>
