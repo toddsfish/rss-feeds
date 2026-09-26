@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:48:36 +0000</lastBuildDate>
     <item>
       <title>AI token costs in practice: what enterprise teams keep missing</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-token-costs-enterprise-what-teams-keep-missing</link>
       <description>AI token costs are quietly blowing enterprise budgets across Australia. Here is what teams consistently overlook and how to bring spending back under control.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-token-costs-enterprise-what-teams-keep-missing</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security vendor consolidation: how to cut tools without cutting protection</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-vendor-consolidation-cut-tools-not-protection</link>
+      <description>Australian IT teams are trimming their security vendor stacks, but the wrong cuts leave real gaps. Here's how to consolidate without weakening your defences.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-vendor-consolidation-cut-tools-not-protection</guid>
+      <category>Cybersecurity</category>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
