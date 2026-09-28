@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:19:30 +0000</lastBuildDate>
     <item>
       <title>Route every Claude Code message to the right model with Jev</title>
       <link>https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev</link>
@@ -17,9 +17,16 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Self-driving infrastructure with Pulumi and Jev</title>
+      <link>https://www.pulumi.com/blog/self-driving-infrastructure-pulumi-jev</link>
+      <description>GeoDeploy pairs TypeSafe Jev's confidence-scored decisions with the Pulumi Automation API to place and scale Kubernetes across AWS, Azure, and Google Cloud.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/self-driving-infrastructure-pulumi-jev</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Change your components, keep your infrastructure</title>
       <link>https://www.pulumi.com/blog/component-state-migrations</link>
-      <description>Evolve reusable Pulumi components with state migrations that preserve existing infrastructure and ship upgrade paths alongside your component code.</description>
+      <description>Change your components, keep your infrastructure</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/component-state-migrations</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -52,13 +59,6 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</title>
-      <link>https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</link>
-      <description>Extend the Pulumi Kubernetes provider with any CustomResourceDefinition using the new --extension flag.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Neo Security: Securing Infrastructure in the Agentic Era</title>
       <link>https://www.pulumi.com/blog/pulumi-neo-security</link>
       <description>Pulumi Neo Security threat models and traces attack paths across your entire cloud estate. Find and fix problems before the bad actors do.</description>
@@ -66,9 +66,16 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</title>
+      <link>https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</link>
+      <description>Extend the Pulumi Kubernetes provider with any CustomResourceDefinition using the new --extension flag.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pulumi Context API: query your infrastructure as a graph</title>
       <link>https://www.pulumi.com/blog/pulumi-context-api</link>
-      <description>Pulumi Context API: query your infrastructure as a graph</description>
+      <description>The Pulumi Context API is now in public preview: query Pulumi-managed and discovered resources, stacks, and their relationships as a graph.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-context-api</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Pulumi now writes encrypted logs for every operation automatically</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/automatic-logging</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terraform and Kubernetes: A Practical Guide for 2026</title>
-      <link>https://www.pulumi.com/blog/terraform-kubernetes</link>
-      <description>How teams manage Kubernetes infrastructure as code in 2026: what Terraform's Kubernetes provider does well, where it strains, and how Pulumi compares.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/terraform-kubernetes</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
