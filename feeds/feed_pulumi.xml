@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:03:56 +0000</lastBuildDate>
+    <item>
+      <title>Route every Claude Code message to the right model with Jev</title>
+      <link>https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev</link>
+      <description>Route every Claude Code message to the right model with Jev</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change your components, keep your infrastructure</title>
+      <link>https://www.pulumi.com/blog/component-state-migrations</link>
+      <description>Evolve reusable Pulumi components with state migrations that preserve existing infrastructure and ship upgrade paths alongside your component code.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/component-state-migrations</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI agents need continuity, not just context</title>
       <link>https://www.pulumi.com/blog/neo-kopia-workspace-snapshots</link>
@@ -19,7 +33,7 @@
     <item>
       <title>10 tips to improve your coding agent game</title>
       <link>https://www.pulumi.com/blog/10-tips-to-improve-your-coding-agent-game</link>
-      <description>10 tips to improve your coding agent game</description>
+      <description>Ten coding agent habits checked against the research behind them, from AGENTS.md drift and /compact to model switching, subagents, and review.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/10-tips-to-improve-your-coding-agent-game</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,20 +106,6 @@
       <description>How teams manage Kubernetes infrastructure as code in 2026: what Terraform's Kubernetes provider does well, where it strains, and how Pulumi compares.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/terraform-kubernetes</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emulating Terraform on Pulumi's Engine</title>
-      <link>https://www.pulumi.com/blog/terraforms-data-model-on-pulumis-engine</link>
-      <description>How we map Terraform's data model onto Pulumi's execution semantics to seamlessly run your Terraform modules against the Pulumi engine.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/terraforms-data-model-on-pulumis-engine</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YOLO Mode Is the Right Default. Your Laptop Is the Wrong Place for It.</title>
-      <link>https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</link>
-      <description>Prompt guardrails fail right when coding agents get dangerous. How Docker Sandboxes make YOLO mode safe, plus a ready-made kit for infrastructure work.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/sandboxing-coding-agents-yolo-mode</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
