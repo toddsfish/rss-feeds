@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:44:16 +0000</lastBuildDate>
     <item>
       <title>How Australian agencies handle IT project escalation paths</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-escalation-paths</link>
@@ -23,6 +23,14 @@
       <description>PS5 spoiler protection is patchy across the platform. Here's how to keep endings, trophies, and story beats hidden until you're ready to experience them.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-spoiler-warnings-which-games-hide-endings-how-to-avoid</guid>
       <category>videogames</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Email header analysis: how to spot a spoofed sender</title>
+      <link>https://itopfield.com.au/cybersecurity/email-header-analysis-how-to-spot-spoofed-sender</link>
+      <description>Email header analysis is one of the most reliable ways to catch spoofed senders before they cause damage. Here's how Australian IT teams read the evidence.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/email-header-analysis-how-to-spot-spoofed-sender</guid>
+      <category>Cybersecurity</category>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
