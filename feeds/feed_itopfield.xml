@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 01:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:35:34 +0000</lastBuildDate>
+    <item>
+      <title>AI model drift: what it is and when to act on it</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-model-drift-what-it-is-when-to-act</link>
+      <description>AI model drift silently degrades production performance long after deployment. Here is what Australian enterprise teams need to know about detecting and acting on it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-model-drift-what-it-is-when-to-act</guid>
+      <category>AI &amp; machine learning</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Australian agencies handle IT project escalation paths</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-escalation-paths</link>
