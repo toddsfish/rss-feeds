@@ -13,7 +13,15 @@
       <link>https://www.anthropic.com/research</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:40:48 +0000</lastBuildDate>
+    <item>
+      <title>Oct 1, 2026ScienceClaude-shaped science</title>
+      <link>https://www.anthropic.com/research/claude-shaped-science</link>
+      <description>Oct 1, 2026ScienceClaude-shaped science</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-shaped-science</guid>
+      <category>Research</category>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sep 30, 2026EconomicsWhat work can robots do?</title>
       <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
@@ -87,12 +95,12 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures</title>
-      <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
-      <description>Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
+      <title>Societal Impacts</title>
+      <link>https://www.anthropic.com/research/team/societal-impacts</link>
+      <description>Societal Impacts</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
       <category>Research</category>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Frontier Red Team</title>
@@ -100,23 +108,7 @@
       <description>Frontier Red Team</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/frontier-red-team</guid>
       <category>Research</category>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpretability</title>
-      <link>https://www.anthropic.com/research/team/interpretability</link>
-      <description>Interpretability</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
-      <category>Research</category>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Societal Impacts</title>
-      <link>https://www.anthropic.com/research/team/societal-impacts</link>
-      <description>Societal Impacts</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
-      <category>Research</category>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Alignment</title>
@@ -124,7 +116,7 @@
       <description>Alignment</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
       <category>Research</category>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Economics</title>
@@ -132,7 +124,15 @@
       <description>Economics</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
       <category>Research</category>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>https://www.anthropic.com/research/team/interpretability</link>
+      <description>Interpretability</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
+      <category>Research</category>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
