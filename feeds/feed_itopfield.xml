@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 02:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:29:16 +0000</lastBuildDate>
+    <item>
+      <title>Business laptop SD card readers: the overlooked spec that still matters</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-sd-card-reader-what-it-means-for-your-team</link>
+      <description>SD card readers on business laptops are often an afterthought in procurement, but the speed, format, and placement vary wildly. Here's what Australian IT buyers need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-sd-card-reader-what-it-means-for-your-team</guid>
+      <category>Hardware &amp; devices</category>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI model drift: what it is and when to act on it</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-model-drift-what-it-is-when-to-act</link>
