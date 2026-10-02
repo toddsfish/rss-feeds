@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:37:59 +0000</lastBuildDate>
     <item>
       <title>Cloud finite state: how to detect and stop configuration drift before it bites</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-configuration-drift-detection-how-to-stop-it</link>
@@ -23,6 +23,14 @@
       <description>The best PS5 party games for local couch co-op play in 2026, covering what actually works with multiple controllers, split-screen, and mixed-skill groups.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-party-games-best-couch-co-op-local-play</guid>
       <category>videogames</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whispir: the rise and fall of Australia's messaging API company</title>
+      <link>https://itopfield.com.au/australian-companies/whispir-messaging-api-australia-rise-fall</link>
+      <description>Whispir built a strong niche in enterprise messaging APIs from Melbourne, then delisted after years of losses. Here's what its story reveals about the ASX tech market.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/whispir-messaging-api-australia-rise-fall</guid>
+      <category>Australian companies</category>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
