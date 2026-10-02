@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:13:01 +0000</lastBuildDate>
     <item>
       <title>Cloud finite state: how to detect and stop configuration drift before it bites</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-configuration-drift-detection-how-to-stop-it</link>
       <description>Cloud configuration drift silently exposes Australian organisations to breaches and compliance failures. Here's how to detect it early and stop it spreading.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-configuration-drift-detection-how-to-stop-it</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PS5 party games: the best couch co-op picks for local play</title>
+      <link>https://itopfield.com.au/videogames/ps5-party-games-best-couch-co-op-local-play</link>
+      <description>The best PS5 party games for local couch co-op play in 2026, covering what actually works with multiple controllers, split-screen, and mixed-skill groups.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-party-games-best-couch-co-op-local-play</guid>
+      <category>videogames</category>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
