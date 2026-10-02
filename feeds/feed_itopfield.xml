@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:08:38 +0000</lastBuildDate>
+    <item>
+      <title>Cloud finite state: how to detect and stop configuration drift before it bites</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-configuration-drift-detection-how-to-stop-it</link>
+      <description>Cloud configuration drift silently exposes Australian organisations to breaches and compliance failures. Here's how to detect it early and stop it spreading.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-configuration-drift-detection-how-to-stop-it</guid>
+      <category>Cloud &amp; infrastructure</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Business laptop SD card readers: the overlooked spec that still matters</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-sd-card-reader-what-it-means-for-your-team</link>
