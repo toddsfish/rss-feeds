@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:27:08 +0000</lastBuildDate>
     <item>
       <title>Cloud warm standby vs hot standby: which DR model fits your workload?</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-warm-standby-vs-hot-standby-dr-model-comparison</link>
       <description>Warm standby and hot standby are two distinct cloud disaster recovery models with very different cost and RTO trade-offs. Here's how to choose for Australian workloads.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-warm-standby-vs-hot-standby-dr-model-comparison</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop eGPU support: what Australian IT buyers need to know</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-egpu-support-australian-it-buyers</link>
+      <description>External GPU enclosures promise desktop-class graphics from a business laptop, but compatibility gaps and Thunderbolt limits trip up Australian buyers. Here's what to check.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-egpu-support-australian-it-buyers</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
