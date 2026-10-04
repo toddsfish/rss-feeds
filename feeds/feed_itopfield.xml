@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 02:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:00:16 +0000</lastBuildDate>
+    <item>
+      <title>Cloud warm standby vs hot standby: which DR model fits your workload?</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-warm-standby-vs-hot-standby-dr-model-comparison</link>
+      <description>Warm standby and hot standby are two distinct cloud disaster recovery models with very different cost and RTO trade-offs. Here's how to choose for Australian workloads.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-warm-standby-vs-hot-standby-dr-model-comparison</guid>
+      <category>Cloud &amp; infrastructure</category>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cyber security asset inventory: why most Australian IT teams get it wrong</title>
       <link>https://itopfield.com.au/cybersecurity/cyber-security-asset-inventory-why-australian-it-teams-get-it-wrong</link>
