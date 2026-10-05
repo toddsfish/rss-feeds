@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:29:58 +0000</lastBuildDate>
     <item>
       <title>How Australian agencies handle IT project knowledge transfer</title>
       <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-knowledge-transfer</link>
       <description>Knowledge transfer on Australian government IT projects is routinely left to the final week. Here is what good practice looks like and why it so rarely happens.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-knowledge-transfer</guid>
       <category>Government &amp; public sector IT</category>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI few-shot prompting: when it works and when it wastes tokens</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-few-shot-prompting-when-it-works-when-it-wastes-tokens</link>
+      <description>Few-shot prompting can sharpen AI outputs dramatically, but used carelessly it burns tokens and adds noise. Here is what Australian teams need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-few-shot-prompting-when-it-works-when-it-wastes-tokens</guid>
+      <category>AI &amp; machine learning</category>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
