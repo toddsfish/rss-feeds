@@ -13,14 +13,14 @@
       <link>https://aaif.io/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:47:35 +0000</lastBuildDate>
     <item>
-      <title>MCP Usage Surged as the Protocol Went Stateless</title>
-      <link>https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</link>
-      <description>MCP tool calls surged this summer. Learn how the stateless July release helped service providers scale to meet surging demand.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</guid>
-      <category>MCP</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Envoy AI Gateway becomes Agent Router and joins AAIF</title>
+      <link>https://aaif.io/blog/agent-router-joins-aaif</link>
+      <description>The open source project, powered by Envoy, that gives developers a single integration for models and tools has a new name and a new home.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/agent-router-joins-aaif</guid>
+      <category>Agent Router</category>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Catch Them Early</title>
@@ -31,20 +31,12 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A2A joins AAIF’s open agentic stack</title>
-      <link>https://aaif.io/blog/a2a-joins-aaif</link>
-      <description>Agent2Agent (A2A), the open standard for inter-agent communication, is joining the Agentic AI Foundation (AAIF) as a hosted project.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/a2a-joins-aaif</guid>
-      <category>Agent2Agent (A2A)</category>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The EU AI Act and the New Rules for Building AI Agents</title>
-      <link>https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</link>
-      <description>What companies need to know about risk, transparency, oversight, and accountability across the agentic stack.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/the-eu-ai-act-and-the-new-rules-for-building-ai-agents</guid>
-      <category>AI Safety &amp; Governance</category>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <title>MCP Usage Surged as the Protocol Went Stateless</title>
+      <link>https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</link>
+      <description>MCP tool calls surged this summer. Learn how the stateless July release helped service providers scale to meet surging demand.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</guid>
+      <category>MCP</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
