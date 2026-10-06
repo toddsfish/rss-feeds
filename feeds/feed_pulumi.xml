@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:21:49 +0000</lastBuildDate>
+    <item>
+      <title>Pulumi Google Cloud Provider Version 10.0.0</title>
+      <link>https://www.pulumi.com/blog/gcp-v10-release</link>
+      <description>Release of the v10 version of the Pulumi Provider for Google Cloud, with a migration guide and an agent skill to help you upgrade.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/gcp-v10-release</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Building Kubernetes PR Previews with Shared Pulumi Components</title>
       <link>https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components</link>
-      <description>A pattern for ephemeral PR preview environments alongside persistent Dev, Stage, and Prod stacks, with lessons from operating them at scale.</description>
+      <description>Building Kubernetes PR Previews with Shared Pulumi Components</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>AI agents need continuity, not just context</title>
       <link>https://www.pulumi.com/blog/neo-kopia-workspace-snapshots</link>
-      <description>AI agents need continuity, not just context</description>
+      <description>Why reliable AI agents need workspace recovery, and how Pulumi Neo uses Kopia-backed snapshots to restore context, files, and in-progress work.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/neo-kopia-workspace-snapshots</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>How we test that Pulumi HCL is an OpenTofu compatible HCL runtime.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Never Miss What Your Infrastructure Is Telling You</title>
-      <link>https://www.pulumi.com/blog/notification-center</link>
-      <description>The Notification Center brings Neo task updates, ESC change requests, and billing alerts into a single real-time inbox in the Pulumi Cloud console.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/notification-center</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
