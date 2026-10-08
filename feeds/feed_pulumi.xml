@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:31:13 +0000</lastBuildDate>
+    <item>
+      <title>Concurrent change requests in Pulumi ESC</title>
+      <link>https://www.pulumi.com/blog/esc-concurrent-change-requests</link>
+      <description>Multiple people can now open change requests on the same Pulumi ESC environment at the same time.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-concurrent-change-requests</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pulumi Google Cloud Provider Version 10.0.0</title>
       <link>https://www.pulumi.com/blog/gcp-v10-release</link>
-      <description>Release of the v10 version of the Pulumi Provider for Google Cloud, with a migration guide and an agent skill to help you upgrade.</description>
+      <description>Pulumi Google Cloud Provider Version 10.0.0</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/gcp-v10-release</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -26,7 +33,7 @@
     <item>
       <title>Route every Claude Code message to the right model with Jev</title>
       <link>https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev</link>
-      <description>Route every Claude Code message to the right model with Jev</description>
+      <description>jev-router asks Jev, a System One model, which Claude model each Claude Code message needs, and routes it there for a fraction of a cent.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/route-every-claude-code-message-to-the-right-model-with-jev</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,13 +99,6 @@
       <description>The Pulumi Context API is now in public preview: query Pulumi-managed and discovered resources, stacks, and their relationships as a graph.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-context-api</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best Kubernetes Infrastructure as Code Tools in 2026</title>
-      <link>https://www.pulumi.com/blog/best-kubernetes-iac-tools-2026</link>
-      <description>The best Kubernetes IaC tools in 2026: Pulumi, Terraform, Helm, Kustomize, Crossplane, Argo CD, Flux, cdk8s, and kro, compared honestly on fit.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/best-kubernetes-iac-tools-2026</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compatibility Testing Pulumi HCL</title>
