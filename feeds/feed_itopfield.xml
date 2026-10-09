@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:07:50 +0000</lastBuildDate>
     <item>
       <title>Rokt: the Australian adtech company rewriting checkout economics</title>
       <link>https://itopfield.com.au/australian-companies/rokt-adtech-checkout-commerce-media-australia</link>
@@ -23,6 +23,14 @@
       <description>SaaS auto-renewal clauses are catching Australian IT teams off guard and inflating budgets. Here's what to watch for and how to protect your organisation.</description>
       <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/saas-contract-auto-renewal-traps-australian-teams</guid>
       <category>Enterprise software &amp; SaaS</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security purple teaming: what it is and when to run one</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-purple-teaming-what-it-is-when-to-run-one</link>
+      <description>Purple teaming blends red team attacks with blue team defence in real time. Here's what Australian IT teams need to know about running one effectively.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-purple-teaming-what-it-is-when-to-run-one</guid>
+      <category>Cybersecurity</category>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
