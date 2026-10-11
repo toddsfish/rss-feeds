@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 19:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:16:31 +0000</lastBuildDate>
     <item>
       <title>PS5 notifications: how to tame them before they take over</title>
       <link>https://itopfield.com.au/videogames/ps5-notifications-how-to-manage-and-customise</link>
@@ -23,6 +23,14 @@
       <description>AI knowledge graphs connect data as relationships rather than rows, powering smarter retrieval, reasoning, and enterprise AI. Here's what Australian teams need to know.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-knowledge-graphs-what-they-are-when-to-use</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop LTE and 5G connectivity: what to know before you buy</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-lte-5g-connectivity-what-to-know-before-you-buy</link>
+      <description>Built-in LTE and 5G on business laptops promise always-on connectivity, but the carrier lock-ins, antenna trade-offs, and cost realities catch buyers off guard.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-lte-5g-connectivity-what-to-know-before-you-buy</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
