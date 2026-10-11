@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 07:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:27:28 +0000</lastBuildDate>
     <item>
       <title>PS5 notifications: how to tame them before they take over</title>
       <link>https://itopfield.com.au/videogames/ps5-notifications-how-to-manage-and-customise</link>
       <description>PS5 notifications pile up fast and interrupt gameplay at the worst moments. Here's how to customise, filter, and silence them on your terms.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-notifications-how-to-manage-and-customise</guid>
       <category>videogames</category>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI knowledge graphs: what they are and when to use them</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-knowledge-graphs-what-they-are-when-to-use</link>
+      <description>AI knowledge graphs connect data as relationships rather than rows, powering smarter retrieval, reasoning, and enterprise AI. Here's what Australian teams need to know.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-knowledge-graphs-what-they-are-when-to-use</guid>
+      <category>AI &amp; machine learning</category>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
