@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:37:31 +0000</lastBuildDate>
     <item>
       <title>Cyber security tabletop exercises for remote teams: what changes</title>
       <link>https://itopfield.com.au/cybersecurity/cyber-security-tabletop-exercises-remote-teams-what-changes</link>
@@ -23,6 +23,14 @@
       <description>Acceptance testing on Australian government IT projects is where delivery reality meets contractual expectation. Here's what good practice looks like and where it breaks down.</description>
       <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-acceptance-testing</guid>
       <category>Government &amp; public sector IT</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SaaS offboarding: what Australian IT teams get wrong when vendors leave</title>
+      <link>https://itopfield.com.au/enterprise-software-saas/saas-offboarding-what-australian-it-teams-get-wrong-when-vendors-leave</link>
+      <description>SaaS offboarding is one of the most neglected disciplines in Australian enterprise IT. Here is what goes wrong and how to protect your data and workflows.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/enterprise-software-saas/saas-offboarding-what-australian-it-teams-get-wrong-when-vendors-leave</guid>
+      <category>Enterprise software &amp; SaaS</category>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
