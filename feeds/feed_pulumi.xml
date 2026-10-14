@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:46:48 +0000</lastBuildDate>
+    <item>
+      <title>Scale your team's use of AWS IAM account access manager with Pulumi</title>
+      <link>https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</link>
+      <description>Manage AWS IAM account access manager (AAM) as code with Pulumi: define IAM roles, applications, and entitlements across your AWS organization in one program.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Concurrent change requests in Pulumi ESC</title>
       <link>https://www.pulumi.com/blog/esc-concurrent-change-requests</link>
-      <description>Multiple people can now open change requests on the same Pulumi ESC environment at the same time.</description>
+      <description>Concurrent change requests in Pulumi ESC</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-concurrent-change-requests</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>Self-driving infrastructure with Pulumi and Jev</title>
       <link>https://www.pulumi.com/blog/self-driving-infrastructure-pulumi-jev</link>
-      <description>Self-driving infrastructure with Pulumi and Jev</description>
+      <description>GeoDeploy pairs TypeSafe Jev's confidence-scored decisions with the Pulumi Automation API to place and scale Kubernetes across AWS, Azure, and Google Cloud.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/self-driving-infrastructure-pulumi-jev</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>The Pulumi Context API is now in public preview: query Pulumi-managed and discovered resources, stacks, and their relationships as a graph.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-context-api</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compatibility Testing Pulumi HCL</title>
-      <link>https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</link>
-      <description>How we test that Pulumi HCL is an OpenTofu compatible HCL runtime.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/compatibility-testing-pulumi-hcl</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
