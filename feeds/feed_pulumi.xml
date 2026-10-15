@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:31:31 +0000</lastBuildDate>
+    <item>
+      <title>Pulumi ESC now issues OIDC tokens for any service</title>
+      <link>https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</link>
+      <description>Pulumi ESC now signs short-lived OIDC tokens for any audience you set, with a stable subject you can pin in each service's trust policy.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Scale your team's use of AWS IAM account access manager with Pulumi</title>
       <link>https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</link>
-      <description>Manage AWS IAM account access manager (AAM) as code with Pulumi: define IAM roles, applications, and entitlements across your AWS organization in one program.</description>
+      <description>Scale your team's use of AWS IAM account access manager with Pulumi</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -33,7 +40,7 @@
     <item>
       <title>Building Kubernetes PR Previews with Shared Pulumi Components</title>
       <link>https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components</link>
-      <description>Building Kubernetes PR Previews with Shared Pulumi Components</description>
+      <description>A pattern for ephemeral PR preview environments alongside persistent Dev, Stage, and Prod stacks, with lessons from operating them at scale.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/building-kubernetes-pr-previews-with-shared-pulumi-components</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Extend the Pulumi Kubernetes provider with any CustomResourceDefinition using the new --extension flag.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/kubernetes-crds-as-provider-extensions</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pulumi Context API: query your infrastructure as a graph</title>
-      <link>https://www.pulumi.com/blog/pulumi-context-api</link>
-      <description>The Pulumi Context API is now in public preview: query Pulumi-managed and discovered resources, stacks, and their relationships as a graph.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-context-api</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
