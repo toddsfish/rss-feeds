@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:52:57 +0000</lastBuildDate>
+    <item>
+      <title>Contract testing: how to stop integration surprises before they hit production</title>
+      <link>https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</link>
+      <description>Contract testing catches API integration failures before they reach production. Here's a practical guide for Australian dev teams on how it works and when to use it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</guid>
+      <category>Software development</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cloud cost allocation: how to stop guessing who spent what</title>
       <link>https://itopfield.com.au/cloud-infrastructure/cloud-cost-allocation-how-to-stop-guessing-who-spent-what</link>
