@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:14:17 +0000</lastBuildDate>
     <item>
       <title>Contract testing: how to stop integration surprises before they hit production</title>
       <link>https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</link>
       <description>Contract testing catches API integration failures before they reach production. Here's a practical guide for Australian dev teams on how it works and when to use it.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</guid>
       <category>Software development</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security incident post-mortems: what most teams skip</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-incident-post-mortems-what-most-teams-skip</link>
+      <description>Cyber security incident post-mortems are where real improvement happens, but most Australian IT teams rush them or skip them entirely. Here's what to fix.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-incident-post-mortems-what-most-teams-skip</guid>
+      <category>Cybersecurity</category>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
