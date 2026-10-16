@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:06:48 +0000</lastBuildDate>
     <item>
       <title>Contract testing: how to stop integration surprises before they hit production</title>
       <link>https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</link>
@@ -23,6 +23,14 @@
       <description>Cyber security incident post-mortems are where real improvement happens, but most Australian IT teams rush them or skip them entirely. Here's what to fix.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-incident-post-mortems-what-most-teams-skip</guid>
       <category>Cybersecurity</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aroa Biosurgery: the NZX-listed biotech quietly winning Australian hospitals</title>
+      <link>https://itopfield.com.au/australian-companies/aroa-biosurgery-nzx-biotech-australian-hospitals-strategy</link>
+      <description>Aroa Biosurgery makes wound-care and soft-tissue technology used in Australian hospitals. Here is how the NZX-listed biotech built a global position from Auckland.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/aroa-biosurgery-nzx-biotech-australian-hospitals-strategy</guid>
+      <category>Australian companies</category>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
