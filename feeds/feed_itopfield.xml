@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:20:04 +0000</lastBuildDate>
     <item>
       <title>PS5 VRR: what it is and whether your TV supports it</title>
       <link>https://itopfield.com.au/videogames/ps5-vrr-what-it-is-tv-support-explained</link>
       <description>PS5 VRR promises smoother gameplay and fewer screen tears, but TV support is patchy. Here's what Variable Refresh Rate actually does and what to check before you rely on it.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-vrr-what-it-is-tv-support-explained</guid>
       <category>videogames</category>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud networking latency in Australia: what the numbers actually mean</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-networking-latency-australia-what-the-numbers-mean</link>
+      <description>Cloud networking latency shapes user experience and architecture decisions for Australian IT teams. Here is what the numbers mean and where teams go wrong.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-networking-latency-australia-what-the-numbers-mean</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
