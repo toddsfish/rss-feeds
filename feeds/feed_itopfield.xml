@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:07:33 +0000</lastBuildDate>
     <item>
       <title>PS5 VRR: what it is and whether your TV supports it</title>
       <link>https://itopfield.com.au/videogames/ps5-vrr-what-it-is-tv-support-explained</link>
@@ -23,6 +23,14 @@
       <description>Cloud networking latency shapes user experience and architecture decisions for Australian IT teams. Here is what the numbers mean and where teams go wrong.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-networking-latency-australia-what-the-numbers-mean</guid>
       <category>Cloud &amp; infrastructure</category>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business laptop NFC: what it is and when it actually matters</title>
+      <link>https://itopfield.com.au/hardware-devices/business-laptop-nfc-what-it-is-when-it-matters</link>
+      <description>NFC on business laptops is one of the least-understood specs in procurement. Here is what it does, which use cases justify it, and when to skip it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/hardware-devices/business-laptop-nfc-what-it-is-when-it-matters</guid>
+      <category>Hardware &amp; devices</category>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
