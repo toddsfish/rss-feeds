@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 00:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:08:50 +0000</lastBuildDate>
+    <item>
+      <title>PS5 VRR: what it is and whether your TV supports it</title>
+      <link>https://itopfield.com.au/videogames/ps5-vrr-what-it-is-tv-support-explained</link>
+      <description>PS5 VRR promises smoother gameplay and fewer screen tears, but TV support is patchy. Here's what Variable Refresh Rate actually does and what to check before you rely on it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-vrr-what-it-is-tv-support-explained</guid>
+      <category>videogames</category>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Contract testing: how to stop integration surprises before they hit production</title>
       <link>https://itopfield.com.au/software-development/contract-testing-stop-integration-surprises-before-production</link>
