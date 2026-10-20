@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:01:59 +0000</lastBuildDate>
+    <item>
+      <title>Assign policy groups by stack and account tags</title>
+      <link>https://www.pulumi.com/blog/assign-policy-groups-by-tags</link>
+      <description>Policy groups can now add stacks and cloud accounts by tag, so new infrastructure gets the right policy coverage automatically as it's created.</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/assign-policy-groups-by-tags</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pulumi ESC now issues OIDC tokens for any service</title>
       <link>https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</link>
-      <description>Pulumi ESC now signs short-lived OIDC tokens for any audience you set, with a stable subject you can pin in each service's trust policy.</description>
+      <description>Pulumi ESC now issues OIDC tokens for any service</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -33,7 +40,7 @@
     <item>
       <title>Pulumi Google Cloud Provider Version 10.0.0</title>
       <link>https://www.pulumi.com/blog/gcp-v10-release</link>
-      <description>Pulumi Google Cloud Provider Version 10.0.0</description>
+      <description>Release of the v10 version of the Pulumi Provider for Google Cloud, with a migration guide and an agent skill to help you upgrade.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/gcp-v10-release</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -92,13 +99,6 @@
       <description>The new `pulumi env setup` command configures OIDC trust for AWS, Azure, and Google Cloud, and creates ESC Environments with the login provider.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-setup-cli</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neo Security: Securing Infrastructure in the Agentic Era</title>
-      <link>https://www.pulumi.com/blog/pulumi-neo-security</link>
-      <description>Pulumi Neo Security threat models and traces attack paths across your entire cloud estate. Find and fix problems before the bad actors do.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/pulumi-neo-security</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pulumi Kubernetes v4.34.0: CRDs as provider extensions</title>
