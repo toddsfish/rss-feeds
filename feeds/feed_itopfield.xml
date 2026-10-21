@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:43:29 +0000</lastBuildDate>
     <item>
       <title>Race conditions in concurrent code: how to find and fix them</title>
       <link>https://itopfield.com.au/software-development/race-conditions-concurrent-code-how-to-find-and-fix</link>
       <description>Race conditions are one of the hardest bugs to reproduce and diagnose in concurrent software. Here's how Australian dev teams can find, fix, and prevent them.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/race-conditions-concurrent-code-how-to-find-and-fix</guid>
       <category>Software development</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archtis: the Australian information security company few people know</title>
+      <link>https://itopfield.com.au/australian-companies/archtis-information-security-australia-strategy</link>
+      <description>Archtis is a Sydney-based information security company protecting classified government and enterprise data. Here is what it does and why it matters now.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/australian-companies/archtis-information-security-australia-strategy</guid>
+      <category>Australian companies</category>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
