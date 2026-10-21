@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:44:44 +0000</lastBuildDate>
     <item>
       <title>Race conditions in concurrent code: how to find and fix them</title>
       <link>https://itopfield.com.au/software-development/race-conditions-concurrent-code-how-to-find-and-fix</link>
