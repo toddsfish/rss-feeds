@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:52:29 +0000</lastBuildDate>
     <item>
       <title>Running Pulumi Neo in a Docker Sandbox: workshop recap</title>
       <link>https://www.pulumi.com/blog/running-pulumi-neo-in-a-docker-sandbox</link>
       <description>Pulumi Neo can take on real infrastructure work once its limits sit outside the prompt. What our Docker workshop taught us about running Neo in a sandbox.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/running-pulumi-neo-in-a-docker-sandbox</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI infrastructure on tap with the Pulumi AICR provider</title>
+      <link>https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</link>
+      <description>AI infrastructure on tap with the Pulumi AICR provider</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Assign policy groups by stack and account tags</title>
@@ -33,7 +40,7 @@
     <item>
       <title>Scale your team's use of AWS IAM account access manager with Pulumi</title>
       <link>https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</link>
-      <description>Scale your team's use of AWS IAM account access manager with Pulumi</description>
+      <description>Manage AWS IAM account access manager (AAM) as code with Pulumi: define IAM roles, applications, and entitlements across your AWS organization in one program.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/scale-your-teams-use-of-aws-iam-account-access-manager-with-pulumi</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Three people who have priced leaving AWS spent an hour arguing about cloud sovereignty. Here is the recording, and the advice each of them gave.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Set Up Cloud OIDC From the Pulumi CLI</title>
-      <link>https://www.pulumi.com/blog/esc-oidc-setup-cli</link>
-      <description>The new `pulumi env setup` command configures OIDC trust for AWS, Azure, and Google Cloud, and creates ESC Environments with the login provider.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-setup-cli</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

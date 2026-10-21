@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:52:26 +0000</lastBuildDate>
     <item>
       <title>Race conditions in concurrent code: how to find and fix them</title>
       <link>https://itopfield.com.au/software-development/race-conditions-concurrent-code-how-to-find-and-fix</link>
@@ -23,6 +23,14 @@
       <description>Archtis is a Sydney-based information security company protecting classified government and enterprise data. Here is what it does and why it matters now.</description>
       <guid isPermaLink="false">https://itopfield.com.au/australian-companies/archtis-information-security-australia-strategy</guid>
       <category>Australian companies</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloud object storage in Australia: what teams keep getting wrong</title>
+      <link>https://itopfield.com.au/cloud-infrastructure/cloud-object-storage-australia-what-teams-get-wrong</link>
+      <description>Cloud object storage is deceptively simple to provision but easy to misconfigure. Here's what Australian IT teams consistently get wrong, and how to fix it.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cloud-infrastructure/cloud-object-storage-australia-what-teams-get-wrong</guid>
+      <category>Cloud &amp; infrastructure</category>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
