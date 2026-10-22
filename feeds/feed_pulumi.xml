@@ -8,20 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:55:48 +0000</lastBuildDate>
+    <item>
+      <title>AI infrastructure on tap with the Pulumi AICR provider</title>
+      <link>https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</link>
+      <description>AI infrastructure on tap with the Pulumi AICR provider</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Running Pulumi Neo in a Docker Sandbox: workshop recap</title>
       <link>https://www.pulumi.com/blog/running-pulumi-neo-in-a-docker-sandbox</link>
       <description>Pulumi Neo can take on real infrastructure work once its limits sit outside the prompt. What our Docker workshop taught us about running Neo in a sandbox.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/running-pulumi-neo-in-a-docker-sandbox</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI infrastructure on tap with the Pulumi AICR provider</title>
-      <link>https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</link>
-      <description>AI infrastructure on tap with the Pulumi AICR provider</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Assign policy groups by stack and account tags</title>
