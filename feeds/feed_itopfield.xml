@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:35:02 +0000</lastBuildDate>
+    <item>
+      <title>How Australian agencies handle IT project contractor onboarding</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-contractor-onboarding</link>
+      <description>Contractor onboarding on Australian government IT projects is slow, inconsistent, and costly. Here's what agencies get wrong and what good practice looks like.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-contractor-onboarding</guid>
+      <category>Government &amp; public sector IT</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Race conditions in concurrent code: how to find and fix them</title>
       <link>https://itopfield.com.au/software-development/race-conditions-concurrent-code-how-to-find-and-fix</link>
