@@ -13,30 +13,38 @@
       <link>https://aaif.io/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:44:46 +0000</lastBuildDate>
     <item>
-      <title>Envoy AI Gateway becomes Agent Router and joins AAIF</title>
-      <link>https://aaif.io/blog/agent-router-joins-aaif</link>
-      <description>The open source project, powered by Envoy, that gives developers a single integration for models and tools has a new name and a new home.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/agent-router-joins-aaif</guid>
-      <category>Agent Router</category>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Training agents for real-world tasks with OpenEnv</title>
+      <link>https://aaif.io/blog/training-agents-for-real-world-tasks-with-openenv</link>
+      <description>Learn how OpenEnv connects task environments to agent training through a shared interface, with practical guidance on rewards, MCP tools, and deployment.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/training-agents-for-real-world-tasks-with-openenv</guid>
+      <category>OpenEnv</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Catch Them Early</title>
-      <link>https://aaif.io/blog/aaif-sandbox-phase</link>
-      <description>The Agentic AI Foundation adds a Sandbox phase to catch early-stage projects before governance becomes expensive to retrofit. Learn about the new lifecycle policy.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/aaif-sandbox-phase</guid>
-      <category>Emerging Tech</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Agent Skills: Sharing Team Expertise Across AI Agents</title>
+      <link>https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</link>
+      <description>Agent Skills is an open standard for packaging reusable instructions and supporting resources that teach AI agents how to perform specific tasks. Originally developed by Anthropic, it gives people a w</description>
+      <guid isPermaLink="false">https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</guid>
+      <category>Agent Skills</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MCP Usage Surged as the Protocol Went Stateless</title>
-      <link>https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</link>
-      <description>MCP tool calls surged this summer. Learn how the stateless July release helped service providers scale to meet surging demand.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/mcp-usage-surged-as-the-protocol-went-stateless</guid>
-      <category>MCP</category>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <title>The Sandbox as an Agent Primitive</title>
+      <link>https://aaif.io/blog/the-sandbox-as-an-agent-primitive</link>
+      <description>Inside OpenSandbox’s approach to separating how agents execute work from where that work runs.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/the-sandbox-as-an-agent-primitive</guid>
+      <category>OpenSandbox</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Open Responses changes for AI developers</title>
+      <link>https://aaif.io/blog/what-open-responses-changes-for-ai-developers</link>
+      <description>AI developers should be able to support models from multiple providers without writing separate code to send requests and handle responses for each one.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/what-open-responses-changes-for-ai-developers</guid>
+      <category>Open Responses</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
