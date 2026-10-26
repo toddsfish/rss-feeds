@@ -1,3 +1,4 @@
+import json
 import re
 from datetime import datetime
 
@@ -5,6 +6,7 @@ import pytz
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
+from anthropic_listing import merge_team_history, parse_team_listing
 from utils import fetch_page, save_rss_feed, setup_feed_links, setup_logging, sort_posts_for_feed
 
 logger = setup_logging()
@@ -31,9 +33,19 @@ def validate_article(article):
     return bool(article.get("date"))
 
 
+def decode_flight_text(value):
+    """Decode a JSON string nested inside the Flight transport JSON string."""
+    for _ in range(2):
+        value = json.loads('"' + value + '"')
+    return value.strip()
+
+
 def parse_engineering_html(html_content):
     """Parse the engineering HTML content and extract article information from embedded JSON."""
     try:
+        current = parse_team_listing(html_content, "engineering")
+        if current is not None:
+            return current
         soup = BeautifulSoup(html_content, "html.parser")
         articles = []
 
@@ -75,15 +87,11 @@ def parse_engineering_html(html_content):
                 # Extract title and summary (they appear AFTER the slug in the data)
                 # Use negative lookbehind to handle escaped quotes correctly
                 title_match = re.search(r'\\"title\\":\\"(.*?)(?<!\\)\\"', search_section)
-                title = title_match.group(1) if title_match else slug.replace("-", " ").title()
-                # Unescape the title using re.sub to handle all escaped characters
-                title = re.sub(r"\\(.)", r"\1", title) if title else title
+                title = decode_flight_text(title_match.group(1)) if title_match else slug.replace("-", " ").title()
 
                 # Extract summary/description
                 summary_match = re.search(r'\\"summary\\":\\"(.*?)(?<!\\)\\"', search_section)
-                description = summary_match.group(1) if summary_match else title
-                # Unescape the description
-                description = re.sub(r"\\(.)", r"\1", description) if description else description
+                description = decode_flight_text(summary_match.group(1)) if summary_match else title
 
                 # Parse the date
                 date = datetime.strptime(published_date, "%Y-%m-%d")
@@ -138,7 +146,7 @@ def generate_rss_feed(articles, feed_name=FEED_NAME):
             fe.link(href=article["link"])
             fe.published(article["date"])
             fe.category(term=article["category"])
-            fe.id(article["link"])
+            fe.id(article.get("guid") or article["link"])
 
         logger.info("Successfully generated RSS feed")
         return fg
@@ -161,6 +169,8 @@ def main(feed_name=FEED_NAME):
             logger.warning("No articles found on the engineering page")
             return False
 
+        articles = merge_team_history(articles, feed_name)
+
         # Generate RSS feed
         feed = generate_rss_feed(articles, feed_name)
 
@@ -176,4 +186,4 @@ def main(feed_name=FEED_NAME):
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(0 if main() else 1)

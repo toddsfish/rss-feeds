@@ -1,0 +1,16 @@
+[
+  {
+    "module": "anthropic_red_blog",
+    "parser": "parse_red_html",
+    "fixture": "anthropic_red.html",
+    "title": "Patterns and problems",
+    "date": "2026-08-13"
+  },
+  {
+    "module": "anthropic_research_blog",
+    "parser": "parse_research_html",
+    "fixture": "anthropic_research.html",
+    "title": "Claude discovers a novel",
+    "date": "2026-09-23"
+  }
+]

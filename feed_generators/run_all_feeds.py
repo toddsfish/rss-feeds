@@ -1,18 +1,48 @@
 import argparse
+import html
 import logging
 import os
 import subprocess
 import sys
+from pathlib import Path
 
 from models import FeedConfig, FeedType, load_feed_registry
+from utils import get_feeds_dir
+from validate_feeds import validate_feed
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
 
+def _report_result(feed_name: str, success: bool, detail: str) -> bool:
+    """Append a per-feed outcome to GitHub's job summary and return its success.
+
+    How:
+    1. Leave local runs unchanged when no GitHub summary path is configured.
+    2. Escape publisher/error text and append a numbered result row.
+    3. Preserve the actual failure status; reporting never converts failure to success.
+    """
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        path = Path(summary)
+        existing = path.read_text() if path.exists() else ""
+        cells = [html.escape(value).replace("|", "&#124;").replace("\n", " ") for value in (feed_name, detail)]
+        number = max(1, sum(line.startswith("| ") for line in existing.splitlines()))
+        with path.open("a") as handle:
+            if not existing:
+                handle.write("## Live feed refresh\n\n| # | Severity | Feed | Result |\n|---|---|---|---|\n")
+            handle.write(f"| {number} | {'✅' if success else '❌'} | {cells[0]} | {cells[1]} |\n")
+    return success
+
+
 def run_feed(feed_name: str, config: FeedConfig, full: bool = False) -> bool:
-    """Run a single feed generator.
+    """Run a generator and require a refreshed, valid subscriber feed.
+
+    How:
+    1. Record the expected output file's modification time.
+    2. Run the registered script and inspect its exit status.
+    3. Reject missing, unchanged, empty, malformed, or duplicate-filled output.
 
     Args:
         feed_name: Registry name of the feed.
@@ -27,14 +57,45 @@ def run_feed(feed_name: str, config: FeedConfig, full: bool = False) -> bool:
     if full:
         cmd.append("--full")
 
+    output = get_feeds_dir() / f"feed_{config.output_name or feed_name}.xml"
+    previous_mtime = output.stat().st_mtime_ns if output.exists() else None
     logger.info(f"Running {feed_name}: {script_path}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+    except subprocess.TimeoutExpired:
+        logger.error("🚨 %s exceeded the 10-minute generation timeout", feed_name)
+        return _report_result(feed_name, False, "Generator exceeded the 10-minute timeout; refresh failed")
     if result.returncode == 0:
+        if not output.exists() or output.stat().st_mtime_ns == previous_mtime:
+            logger.error(
+                "🚨 %s exited without refreshing %s. Generator output:\n%s\n%s",
+                feed_name,
+                output,
+                result.stdout,
+                result.stderr,
+            )
+            return _report_result(feed_name, False, "Generator exited without writing fresh output")
+        validation = validate_feed(output)
+        if validation["status"] in {"EMPTY", "ERROR"}:
+            logger.error("🚨 %s produced an invalid feed: %s", feed_name, validation["message"])
+            return _report_result(feed_name, False, f"Invalid generated XML: {validation['message']}")
         logger.info(f"Successfully ran: {feed_name}")
-        return True
+        deferred = [
+            line.split("Scheduled entry deferred: ", 1)[1]
+            for line in result.stderr.splitlines()
+            if "Scheduled entry deferred: " in line
+        ]
+        for detail in deferred:
+            logger.info("Scheduled entry deferred: %s", detail)
+        detail = f"Refreshed and validated: {validation['message']}"
+        if deferred:
+            detail += f"; {len(deferred)} scheduled entries deferred: " + "; ".join(deferred)
+        return _report_result(feed_name, True, detail)
     else:
         logger.error(f"Error running {feed_name}:\n{result.stderr}")
-        return False
+        errors = [line.strip() for line in result.stderr.splitlines() if "Error" in line or "Exception" in line]
+        detail = errors[-1][:400] if errors else f"Generator exited with status {result.returncode}; see logs"
+        return _report_result(feed_name, False, f"Refresh failed: {detail}")
 
 
 def run_all_feeds(

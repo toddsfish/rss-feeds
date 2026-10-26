@@ -1,14 +1,10 @@
 name: Validate Feeds
 
 on:
-  workflow_run:
-    workflows: ["Run Feeds", "Run Selenium Feeds"]
-    types: [completed]
   workflow_dispatch:
 
 jobs:
   validate:
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -24,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v9.0.0
+        uses: astral-sh/setup-uv@v10.0.1
         with:
           enable-cache: true
 

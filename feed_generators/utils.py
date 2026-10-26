@@ -1,27 +1,26 @@
 """Shared utilities for feed generators."""
 
+import hashlib
 import json
 import logging
+import os
 import re
-import subprocess
-from datetime import datetime, timedelta
+import tempfile
+from datetime import UTC, datetime, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
 import pytz
-import requests
 from feedgen.feed import FeedGenerator
-
-from models import GlobalSettings
+from lxml import etree
 
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
-
-DEFAULT_USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-)
-DEFAULT_HEADERS = {"User-Agent": DEFAULT_USER_AGENT}
+from dynamic_pages import get_chrome_major_version, setup_selenium_driver  # noqa: F401
+from models import GlobalSettings
+from static_pages import DEFAULT_HEADERS, DEFAULT_USER_AGENT, fetch_page  # noqa: F401
 
 # ---------------------------------------------------------------------------
 # Logging
@@ -54,6 +53,7 @@ logger = setup_logging()
 
 # XML 1.0 forbids NULL bytes and most C0/C1 control characters.
 _INVALID_XML_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
+_RSS_ITEM_RE = re.compile(rb"(?m)^[ \t]*<item(?:\s[^>]*)?>.*?</item>[ \t]*(?:\r?\n|$)", re.DOTALL)
 
 
 def sanitize_xml(text: str) -> str:
@@ -98,29 +98,6 @@ def get_cache_file(feed_name: str) -> Path:
 
 
 # ---------------------------------------------------------------------------
-# HTTP
-# ---------------------------------------------------------------------------
-
-
-def fetch_page(url: str, timeout: int = 30, headers: dict | None = None) -> str:
-    """Fetch a page and return its HTML content.
-
-    Args:
-        url: URL to fetch
-        timeout: Request timeout in seconds
-        headers: Optional headers dict. Falls back to DEFAULT_HEADERS.
-
-    Returns:
-        Response text (HTML)
-    """
-    if headers is None:
-        headers = DEFAULT_HEADERS
-    response = requests.get(url, headers=headers, timeout=timeout)
-    response.raise_for_status()
-    return response.text
-
-
-# ---------------------------------------------------------------------------
 # Date helpers
 # ---------------------------------------------------------------------------
 
@@ -132,7 +109,7 @@ def stable_fallback_date(identifier: str) -> datetime:
     identifier always produces the same fallback date, preventing
     cache churn.
     """
-    hash_val = abs(hash(identifier)) % 730
+    hash_val = int.from_bytes(hashlib.sha256(identifier.encode()).digest()[:4], "big") % 730
     epoch = datetime(2023, 1, 1, 0, 0, 0, tzinfo=pytz.UTC)
     return epoch + timedelta(days=hash_val)
 
@@ -209,6 +186,9 @@ def deserialize_entries(entries: list[dict], date_field: str = "date") -> list[d
                 entry_copy[date_field] = datetime.fromisoformat(entry_copy[date_field])
             except ValueError:
                 entry_copy[date_field] = stable_fallback_date(entry_copy.get("link", ""))
+        date = entry_copy.get(date_field)
+        if isinstance(date, datetime) and date.tzinfo is None:
+            entry_copy[date_field] = date.replace(tzinfo=UTC)
         result.append(entry_copy)
     return result
 
@@ -221,6 +201,11 @@ def merge_entries(
 ) -> list[dict]:
     """Merge new entries into cache, deduplicate, and sort.
 
+    How:
+    1. Normalize cached and fresh dates and index entries by identity.
+    2. Refresh metadata while preserving existing subscriber GUIDs.
+    3. Sort the deduplicated records for feedgen output.
+
     Args:
         new_entries: Freshly fetched entries.
         cached_entries: Previously cached entries.
@@ -230,18 +215,13 @@ def merge_entries(
     Returns:
         Merged and sorted list of entries.
     """
-    existing_ids = {e[id_field] for e in cached_entries}
-    merged = list(cached_entries)
-
-    added_count = 0
-    for entry in new_entries:
-        if entry[id_field] not in existing_ids:
-            merged.append(entry)
-            existing_ids.add(entry[id_field])
-            added_count += 1
-
-    logger.info(f"Added {added_count} new entries to cache")
-    return sort_posts_for_feed(merged, date_field=date_field)
+    merged = {entry[id_field]: entry for entry in deserialize_entries(cached_entries, date_field)}
+    for entry in deserialize_entries(new_entries, date_field):
+        previous = merged.get(entry[id_field], {})
+        merged[entry[id_field]] = {**previous, **entry}
+        if previous.get("guid"):
+            merged[entry[id_field]]["guid"] = previous["guid"]
+    return sort_posts_for_feed(list(merged.values()), date_field=date_field)
 
 
 # ---------------------------------------------------------------------------
@@ -273,6 +253,64 @@ def setup_feed_links(fg: FeedGenerator, blog_url: str, feed_name: str) -> None:
     fg.link(href=blog_url, rel="alternate")
 
 
+def _sort_rss_items(xml_bytes: bytes) -> bytes:
+    """Sort dated RSS items newest-first while preserving undated items.
+
+    How:
+    1. Parse the serialized RSS document.
+    2. Separate channel items with valid, missing, and invalid publication dates.
+    3. Sort dated items descending by their parsed RFC 2822 dates.
+    4. Append undated items after dated items in their original relative order.
+    5. Reorder the original item byte blocks so content and formatting remain unchanged.
+
+    Args:
+        xml_bytes: Serialized RSS XML produced by ``FeedGenerator``.
+
+    Returns:
+        Serialized RSS XML with dated items ordered newest-first.
+    """
+    root = etree.fromstring(xml_bytes)
+    channel = root.find("channel")
+    if channel is None:
+        return xml_bytes
+
+    items = channel.findall("item")
+    if len(items) < 2:
+        return xml_bytes
+
+    dated_items: list[tuple[datetime, int, etree._Element]] = []
+    undated_items: list[tuple[int, etree._Element]] = []
+    for index, item in enumerate(items):
+        date_element = item.find("pubDate")
+        date_text = date_element.text.strip() if date_element is not None and date_element.text else ""
+        if not date_text:
+            undated_items.append((index, item))
+            continue
+
+        try:
+            parsed_date = parsedate_to_datetime(date_text)
+            if parsed_date.tzinfo is None:
+                parsed_date = parsed_date.replace(tzinfo=UTC)
+            dated_items.append((parsed_date, index, item))
+        except (TypeError, ValueError):
+            logger.warning("Could not parse RSS item date %r; preserving its relative position", date_text)
+            undated_items.append((index, item))
+
+    ordered_indexes = [index for _, index, _ in sorted(dated_items, key=lambda value: value[0], reverse=True)]
+    ordered_indexes.extend(index for index, _ in undated_items)
+    if ordered_indexes == list(range(len(items))):
+        return xml_bytes
+
+    item_matches = list(_RSS_ITEM_RE.finditer(xml_bytes))
+    if len(item_matches) != len(items):
+        raise ValueError("Could not safely locate all RSS item blocks for reordering")
+
+    first_match = item_matches[0]
+    last_match = item_matches[-1]
+    reordered_items = b"".join(item_matches[index].group(0) for index in ordered_indexes)
+    return xml_bytes[: first_match.start()] + reordered_items + xml_bytes[last_match.end() :]
+
+
 def sort_posts_for_feed(posts: list[dict[str, Any]], date_field: str = "date") -> list[dict[str, Any]]:
     """Sort posts so newest appears first in the final RSS feed.
 
@@ -287,16 +325,72 @@ def sort_posts_for_feed(posts: list[dict[str, Any]], date_field: str = "date") -
     Returns:
         Sorted list with posts ordered for correct feed output
     """
+    posts = deserialize_entries(posts, date_field)
     posts_with_date = [p for p in posts if p.get(date_field) is not None]
     posts_without_date = [p for p in posts if p.get(date_field) is None]
 
-    posts_with_date.sort(key=lambda x: x[date_field])
+    posts_with_date.sort(key=lambda x: (x[date_field], x.get("guid") or x.get("link", "")))
 
     return posts_with_date + posts_without_date
 
 
+def _preserve_unchanged_feed(xml: bytes, previous: bytes) -> bytes:
+    """Retain published bytes when only the generated build timestamp differs.
+
+    How:
+    1. Parse both documents, ignoring indentation but retaining article content.
+    2. Compare the full documents except the channel's lastBuildDate.
+    3. Reuse the previous bytes only for equivalent documents; repair malformed history.
+    """
+    documents = []
+    for content in (xml, previous):
+        try:
+            root = etree.fromstring(content, parser=etree.XMLParser(remove_blank_text=True))
+        except etree.XMLSyntaxError:
+            return xml
+        for timestamp in root.findall("channel/lastBuildDate"):
+            timestamp.getparent().remove(timestamp)
+        documents.append(etree.tostring(root, method="c14n"))
+    return previous if documents[0] == documents[1] else xml
+
+
+def _defer_scheduled_items(channel: etree._Element, feed_name: str) -> bool:
+    """Remove complete, future-dated entries from this publication only.
+
+    How:
+    1. Compare source timestamps against one UTC publication time.
+    2. Leave malformed entries for strict validation rather than hiding them.
+    3. Log each deferral without changing generator entries or cached source dates.
+    """
+    now = datetime.now(UTC)
+    changed = False
+    for item in list(channel.findall("item")):
+        try:
+            published = parsedate_to_datetime(item.findtext("pubDate"))
+        except (TypeError, ValueError):
+            continue
+        if published.tzinfo is None:
+            published = published.replace(tzinfo=UTC)
+        if published > now and all((item.findtext(field) or "").strip() for field in ("title", "link")):
+            logger.info(
+                "Scheduled entry deferred: %s: %s until %s",
+                feed_name,
+                item.findtext("title"),
+                published.isoformat(),
+            )
+            channel.remove(item)
+            changed = True
+    return changed
+
+
 def save_rss_feed(fg: FeedGenerator, feed_name: str) -> Path:
     """Save an RSS feed to the feeds directory.
+
+    How:
+    1. Sort entries, defer scheduled publications, deduplicate identities, and fill missing GUIDs.
+    2. Reject invalid content before touching the published file.
+    3. Preserve published bytes if only lastBuildDate changed, avoiding empty Git commits.
+    4. Atomically replace the file so the runner can verify this invocation wrote it.
 
     Args:
         fg: Configured FeedGenerator instance.
@@ -307,56 +401,39 @@ def save_rss_feed(fg: FeedGenerator, feed_name: str) -> Path:
     """
     feeds_dir = get_feeds_dir()
     output_file = feeds_dir / f"feed_{feed_name}.xml"
-    fg.rss_file(str(output_file), pretty=True)
+    from validate_feeds import validate_xml
+
+    xml = _sort_rss_items(fg.rss_str(pretty=True))
+    tree = etree.fromstring(xml)
+    channel = tree.find("channel")
+    links, guids = set(), set()
+    changed = _defer_scheduled_items(channel, feed_name)
+    for item in list(channel.findall("item")):
+        link, guid = item.findtext("link"), item.findtext("guid")
+        if link in links or (guid and guid in guids):
+            channel.remove(item)
+            changed = True
+            continue
+        links.add(link)
+        guids.add(guid)
+        if not guid and link:
+            etree.SubElement(item, "guid", isPermaLink="false").text = link
+            changed = True
+    if changed:
+        xml = etree.tostring(tree, xml_declaration=True, encoding="utf-8", pretty_print=True)
+    result = validate_xml(xml, output_file.name)
+    if result["status"] in {"ERROR", "EMPTY"}:
+        raise ValueError(result["message"])
+    if output_file.exists():
+        xml = _preserve_unchanged_feed(xml, output_file.read_bytes())
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(dir=feeds_dir, suffix=".tmp", delete=False) as handle:
+            temporary = Path(handle.name)
+            handle.write(xml)
+        os.replace(temporary, output_file)
+    finally:
+        if temporary:
+            temporary.unlink(missing_ok=True)
     logger.info(f"Saved RSS feed to {output_file}")
     return output_file
-
-
-# ---------------------------------------------------------------------------
-# Chrome / Selenium
-# ---------------------------------------------------------------------------
-
-
-def get_chrome_major_version() -> int | None:
-    """Detect the installed Chrome major version.
-
-    Returns the major version number (e.g., 146) or None if detection fails.
-    This is needed because undetected_chromedriver auto-downloads the latest
-    chromedriver, which may not match the installed Chrome version.
-    """
-    chrome_paths = [
-        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-        "google-chrome",
-        "google-chrome-stable",
-    ]
-    for path in chrome_paths:
-        try:
-            result = subprocess.run([path, "--version"], capture_output=True, text=True, timeout=5)
-            match = re.search(r"(\d+)\.", result.stdout)
-            if match:
-                version = int(match.group(1))
-                logger.info(f"Detected Chrome major version: {version}")
-                return version
-        except (FileNotFoundError, subprocess.TimeoutExpired):
-            continue
-    logger.warning("Could not detect Chrome version, using undetected_chromedriver default")
-    return None
-
-
-def setup_selenium_driver():
-    """Set up a headless Selenium WebDriver with undetected-chromedriver.
-
-    Automatically detects the installed Chrome version to avoid
-    chromedriver version mismatches.
-    """
-    import undetected_chromedriver as uc
-
-    options = uc.ChromeOptions()
-    options.add_argument("--headless=new")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument(f"--user-agent={DEFAULT_USER_AGENT}")
-    version = get_chrome_major_version()
-    return uc.Chrome(options=options, version_main=version)

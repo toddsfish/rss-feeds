@@ -1,5 +1,9 @@
 # RSS Feed Generator <!-- omit in toc -->
 
+[![Run Feeds](https://github.com/Olshansk/rss-feeds/actions/workflows/run_feeds.yml/badge.svg?branch=main)](https://github.com/Olshansk/rss-feeds/actions/workflows/run_feeds.yml)
+[![Run Selenium Feeds](https://github.com/Olshansk/rss-feeds/actions/workflows/run_selenium_feeds.yml/badge.svg)](https://github.com/Olshansk/rss-feeds/actions/workflows/run_selenium_feeds.yml)
+[![Offline feed checks](https://github.com/Olshansk/rss-feeds/actions/workflows/test_feed.yml/badge.svg)](https://github.com/Olshansk/rss-feeds/actions/workflows/test_feed.yml)
+
 > [!TIP]
 > This project is maintained by [@oborchers](https://github.com/oborchers) and [@Olshansk](https://github.com/Olshansk). If you gut any value out of it, consider sponsoring us on GitHub!
 
@@ -8,7 +12,8 @@
 
 ## tl;dr Available RSS Feeds <!-- omit in toc -->
 
-Scraped feeds are generated hourly. "Official RSS" rows point to native feeds the blog now publishes directly.
+Enabled scraped feeds are generated hourly. "Official RSS" rows point to native feeds the blog now publishes directly.
+Feeds marked "updates paused" retain their last published XML but do not receive new articles.
 
 | Blog                                                    | Feed                                                                                                       |
 | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -120,3 +125,7 @@ flowchart TB
 - AI tooling for easy contributions 🤖
 - Learn and contribute together 🧑‍🎓
 - Streamlines the use of Claude, Claude Projects, and Claude Sync
+
+See [scheduled task commands and operating instructions](scheduled_tasks/README.md) for CI monitoring, PR inventories, source comparisons, and persistent audit evidence.
+
+See [feed reliability and shared patterns](docs/feed-reliability.md) for parser helpers, regression tests, and live validation.

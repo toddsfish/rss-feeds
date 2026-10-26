@@ -21,6 +21,7 @@ feeds:
     blog_url: https://aaif.io/blog
 
   anthropic_eng:
+    output_name: anthropic_engineering
     script: anthropic_eng_blog.py
     type: requests
     blog_url: https://www.anthropic.com/engineering
@@ -33,7 +34,7 @@ feeds:
   anthropic_red:
     script: anthropic_red_blog.py
     type: requests
-    blog_url: https://red.anthropic.com/
+    blog_url: https://www.anthropic.com/research/team/frontier-red-team
 
   anthropic_research:
     script: anthropic_research_blog.py
@@ -48,7 +49,7 @@ feeds:
   claude:
     script: claude_blog.py
     type: requests
-    blog_url: https://claude.com/blog
+    blog_url: https://claude.com/resources/articles
 
   itopfield:
     script: itopfield_blog.py

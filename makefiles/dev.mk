@@ -13,14 +13,14 @@ dev_setup: ## Install dev dependencies and pre-commit hooks
 dev_lint: ## Check code with ruff (lint + format check)
 	$(call print_info_section,Checking code style)
 	$(Q)uv run ruff check .
-	$(Q)uv run ruff format --check .
+	$(Q)uv run ruff format --check feed_generators/ tests/ scheduled_tasks/
 	$(call print_success,Code style OK)
 
 .PHONY: dev_lint_fix
 dev_lint_fix: ## Auto-fix lint issues and format code
 	$(call print_info_section,Fixing code style)
 	$(Q)uv run ruff check --fix .
-	$(Q)uv run ruff format .
+	$(Q)uv run ruff format feed_generators/ tests/ scheduled_tasks/
 	$(call print_success,Code formatted)
 
 .PHONY: dev_format
@@ -33,7 +33,7 @@ dev_test_feed: ## Run a test feed generator (claude)
 	$(call print_success,Test feed completed)
 
 .PHONY: dev_test_all
-dev_test_all: ## Validate feeds, regenerate non-selenium feeds, then re-validate
+dev_test_all: dev_test_unit ## Validate feeds, regenerate non-selenium feeds, then re-validate
 	$(call print_info_section,Running full test suite)
 	$(call print_info,Validating existing feeds)
 	$(Q)uv run feed_generators/validate_feeds.py
@@ -42,3 +42,7 @@ dev_test_all: ## Validate feeds, regenerate non-selenium feeds, then re-validate
 	$(call print_info,Re-validating feeds)
 	$(Q)uv run feed_generators/validate_feeds.py
 	$(call print_success,All tests passed)
+
+.PHONY: dev_test_unit
+dev_test_unit: ## Run offline source and publication regression tests
+	$(Q)GITHUB_STEP_SUMMARY= PYTHONPATH=feed_generators uv run python -m unittest discover -s tests
