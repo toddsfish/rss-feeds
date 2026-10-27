@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:56:49 +0000</lastBuildDate>
+    <item>
+      <title>Cyber security metrics that actually matter to the board</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-metrics-board-reporting-what-actually-matters</link>
+      <description>Most Australian IT teams report cyber security metrics that boards can't act on. Here's what to measure, how to frame it, and what to leave out.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-metrics-board-reporting-what-actually-matters</guid>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Business laptop IR camera calibration: what IT buyers miss</title>
       <link>https://itopfield.com.au/hardware-devices/business-laptop-ir-camera-calibration-what-it-buyers-miss</link>
