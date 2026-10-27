@@ -13,190 +13,14 @@
       <link>https://www.anthropic.com/research</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:23:29 +0000</lastBuildDate>
-    <item>
-      <title>Investigating unintended model actions in our evaluations and internal use</title>
-      <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
-      <description>Investigating unintended model actions in our evaluations and internal use</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/investigating-unintended-model-actions</guid>
-      <category>Research</category>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An alignment assessment of recent cybersecurity incidents</title>
-      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
-      <description>An alignment assessment of recent cybersecurity incidents</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</guid>
-      <category>Research</category>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How employment is changing at Anthropic</title>
-      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
-      <description>How employment is changing at Anthropic</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/employment-at-anthropic</guid>
-      <category>Research</category>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-      <link>https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</link>
-      <description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</guid>
-      <category>Research</category>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automated researchers can reliably mitigate alignment failures</title>
-      <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
-      <description>Automated researchers can reliably mitigate alignment failures</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
-      <category>Research</category>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Claude is uplifting biomolecular modeling</title>
-      <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
-      <description>How Claude is uplifting biomolecular modeling</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
-      <category>Research</category>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An alignment assessment of the UK AISI cybertesting incident</title>
-      <link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
-      <description>An alignment assessment of the UK AISI cybertesting incident</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/alignment-assessment-ukaisi</guid>
-      <category>Research</category>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning more about Claude's mathematical capabilities</title>
-      <link>https://www.anthropic.com/research/riemann-zeta</link>
-      <description>Learning more about Claude's mathematical capabilities</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
-      <category>Research</category>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI expectations gap</title>
-      <link>https://www.anthropic.com/research/ai-expectations-gap</link>
-      <description>The AI expectations gap</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/ai-expectations-gap</guid>
-      <category>Research</category>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewing the evidence on worker retraining programs</title>
-      <link>https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</link>
-      <description>Reviewing the evidence on worker retraining programs</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</guid>
-      <category>Research</category>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Claude is accelerating protein design and analytical chemistry</title>
-      <link>https://www.anthropic.com/research/Claude-accelerates-protein-design</link>
-      <description>How Claude is accelerating protein design and analytical chemistry</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/Claude-accelerates-protein-design</guid>
-      <category>Research</category>
-      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alignment</title>
-      <link>https://www.anthropic.com/research/team/alignment</link>
-      <description>Alignment</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
-      <category>Research</category>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redesigning source control at Anthropic</title>
-      <link>https://www.anthropic.com/research/redesigning-source-control</link>
-      <description>Redesigning source control at Anthropic</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/redesigning-source-control</guid>
-      <category>Research</category>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Formalizing Fermat's Last Theorem</title>
-      <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
-      <description>Formalizing Fermat's Last Theorem</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
-      <category>Research</category>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Oct 2026 10:47:43 +0000</lastBuildDate>
     <item>
       <title>Societal Impacts</title>
       <link>https://www.anthropic.com/research/team/societal-impacts</link>
       <description>Societal Impacts</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/team/societal-impacts</guid>
       <category>Research</category>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working at the frontier shapes expectations for the future</title>
-      <link>https://www.anthropic.com/research/expectations-for-the-future</link>
-      <description>Working at the frontier shapes expectations for the future</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/expectations-for-the-future</guid>
-      <category>Research</category>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What do you want from AI?</title>
-      <link>https://www.anthropic.com/research/your-thoughts-on-ai</link>
-      <description>What do you want from AI?</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/your-thoughts-on-ai</guid>
-      <category>Research</category>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude-shaped science</title>
-      <link>https://www.anthropic.com/research/claude-shaped-science</link>
-      <description>Claude-shaped science</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/claude-shaped-science</guid>
-      <category>Research</category>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontier Red Team</title>
-      <link>https://www.anthropic.com/research/team/frontier-red-team</link>
-      <description>Frontier Red Team</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/frontier-red-team</guid>
-      <category>Research</category>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What work can robots do?</title>
-      <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
-      <description>What work can robots do?</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/what-work-can-robots-do</guid>
-      <category>Research</category>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing more efficient quantum circuits with Claude</title>
-      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
-      <description>Designing more efficient quantum circuits with Claude</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
-      <category>Research</category>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Economics</title>
-      <link>https://www.anthropic.com/research/team/economics</link>
-      <description>Economics</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
-      <category>Research</category>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interpretability</title>
-      <link>https://www.anthropic.com/research/team/interpretability</link>
-      <description>Interpretability</description>
-      <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
-      <category>Research</category>
-      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Enabling independent research on how people use Claude</title>
@@ -204,7 +28,183 @@
       <description>Enabling independent research on how people use Claude</description>
       <guid isPermaLink="false">https://www.anthropic.com/research/enabling-independent-research</guid>
       <category>Research</category>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
+      <link>https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</link>
+      <description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-discovers-novel-enzyme-system</guid>
+      <category>Research</category>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alignment</title>
+      <link>https://www.anthropic.com/research/team/alignment</link>
+      <description>Alignment</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/alignment</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working at the frontier shapes expectations for the future</title>
+      <link>https://www.anthropic.com/research/expectations-for-the-future</link>
+      <description>Working at the frontier shapes expectations for the future</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/expectations-for-the-future</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontier Red Team</title>
+      <link>https://www.anthropic.com/research/team/frontier-red-team</link>
+      <description>Frontier Red Team</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/frontier-red-team</guid>
+      <category>Research</category>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An alignment assessment of the UK AISI cybertesting incident</title>
+      <link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
+      <description>An alignment assessment of the UK AISI cybertesting incident</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/alignment-assessment-ukaisi</guid>
+      <category>Research</category>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redesigning source control at Anthropic</title>
+      <link>https://www.anthropic.com/research/redesigning-source-control</link>
+      <description>Redesigning source control at Anthropic</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/redesigning-source-control</guid>
+      <category>Research</category>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An alignment assessment of recent cybersecurity incidents</title>
+      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
+      <description>An alignment assessment of recent cybersecurity incidents</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</guid>
+      <category>Research</category>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI expectations gap</title>
+      <link>https://www.anthropic.com/research/ai-expectations-gap</link>
+      <description>The AI expectations gap</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/ai-expectations-gap</guid>
+      <category>Research</category>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formalizing Fermat's Last Theorem</title>
+      <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+      <description>Formalizing Fermat's Last Theorem</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
+      <category>Research</category>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating unintended model actions in our evaluations and internal use</title>
+      <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
+      <description>Investigating unintended model actions in our evaluations and internal use</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/investigating-unintended-model-actions</guid>
+      <category>Research</category>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How employment is changing at Anthropic</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <description>How employment is changing at Anthropic</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/employment-at-anthropic</guid>
+      <category>Research</category>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interpretability</title>
+      <link>https://www.anthropic.com/research/team/interpretability</link>
+      <description>Interpretability</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/interpretability</guid>
+      <category>Research</category>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning more about Claude's mathematical capabilities</title>
+      <link>https://www.anthropic.com/research/riemann-zeta</link>
+      <description>Learning more about Claude's mathematical capabilities</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/riemann-zeta</guid>
+      <category>Research</category>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviewing the evidence on worker retraining programs</title>
+      <link>https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</link>
+      <description>Reviewing the evidence on worker retraining programs</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs</guid>
+      <category>Research</category>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude-shaped science</title>
+      <link>https://www.anthropic.com/research/claude-shaped-science</link>
+      <description>Claude-shaped science</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-shaped-science</guid>
+      <category>Research</category>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What do you want from AI?</title>
+      <link>https://www.anthropic.com/research/your-thoughts-on-ai</link>
+      <description>What do you want from AI?</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/your-thoughts-on-ai</guid>
+      <category>Research</category>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Claude is accelerating protein design and analytical chemistry</title>
+      <link>https://www.anthropic.com/research/Claude-accelerates-protein-design</link>
+      <description>How Claude is accelerating protein design and analytical chemistry</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/Claude-accelerates-protein-design</guid>
+      <category>Research</category>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated researchers can reliably mitigate alignment failures</title>
+      <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
+      <description>Automated researchers can reliably mitigate alignment failures</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
+      <category>Research</category>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Claude is uplifting biomolecular modeling</title>
+      <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
+      <description>How Claude is uplifting biomolecular modeling</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
+      <category>Research</category>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What work can robots do?</title>
+      <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
+      <description>What work can robots do?</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/what-work-can-robots-do</guid>
+      <category>Research</category>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>https://www.anthropic.com/research/team/economics</link>
+      <description>Economics</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/team/economics</guid>
+      <category>Research</category>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing more efficient quantum circuits with Claude</title>
+      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+      <description>Designing more efficient quantum circuits with Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
+      <category>Research</category>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
