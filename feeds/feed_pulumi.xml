@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:03:25 +0000</lastBuildDate>
+    <item>
+      <title>Manage Pulumi ESC change requests from the CLI</title>
+      <link>https://www.pulumi.com/blog/esc-change-requests-cli</link>
+      <description>Manage Pulumi ESC change requests from the CLI</description>
+      <guid isPermaLink="false">https://www.pulumi.com/blog/esc-change-requests-cli</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Running Pulumi Neo in a Docker Sandbox: workshop recap</title>
       <link>https://www.pulumi.com/blog/running-pulumi-neo-in-a-docker-sandbox</link>
@@ -33,7 +40,7 @@
     <item>
       <title>Pulumi ESC now issues OIDC tokens for any service</title>
       <link>https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</link>
-      <description>Pulumi ESC now issues OIDC tokens for any service</description>
+      <description>Pulumi ESC now signs short-lived OIDC tokens for any audience you set, with a stable subject you can pin in each service's trust policy.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-oidc-tokens-for-any-service</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,13 +106,6 @@
       <description>Ten coding agent habits checked against the research behind them, from AGENTS.md drift and /compact to model switching, subagents, and review.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/10-tips-to-improve-your-coding-agent-game</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond the Hyperscalers: What Actually Protects You</title>
-      <link>https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</link>
-      <description>Three people who have priced leaving AWS spent an hour arguing about cloud sovereignty. Here is the recording, and the advice each of them gave.</description>
-      <guid isPermaLink="false">https://www.pulumi.com/blog/beyond-the-hyperscalers-what-actually-protects-you</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
