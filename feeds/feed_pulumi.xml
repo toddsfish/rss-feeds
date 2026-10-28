@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:36:38 +0000</lastBuildDate>
     <item>
       <title>Manage Pulumi ESC change requests from the CLI</title>
       <link>https://www.pulumi.com/blog/esc-change-requests-cli</link>

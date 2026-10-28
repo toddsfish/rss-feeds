@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:36:35 +0000</lastBuildDate>
     <item>
       <title>AI session memory: what it is and why it keeps breaking things</title>
       <link>https://itopfield.com.au/ai-machine-learning/ai-session-memory-what-it-is-why-it-breaks</link>
       <description>AI session memory shapes how models handle multi-turn conversations in enterprise deployments. Here's what it actually is, how it fails, and what to do about it.</description>
       <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-session-memory-what-it-is-why-it-breaks</guid>
       <category>AI &amp; machine learning</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defensive coding habits that actually prevent bugs in production</title>
+      <link>https://itopfield.com.au/software-development/defensive-coding-habits-that-prevent-bugs-in-production</link>
+      <description>Defensive coding is the discipline that keeps bugs from reaching production. Here are the habits Australian dev teams should build into their daily practice.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/defensive-coding-habits-that-prevent-bugs-in-production</guid>
+      <category>Software development</category>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
