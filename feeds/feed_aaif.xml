@@ -13,21 +13,21 @@
       <link>https://aaif.io/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:10:53 +0000</lastBuildDate>
+    <item>
+      <title>What Open Responses changes for AI developers</title>
+      <link>https://aaif.io/blog/what-open-responses-changes-for-ai-developers</link>
+      <description>AI developers should be able to support models from multiple providers without writing separate code to send requests and handle responses for each one.</description>
+      <guid isPermaLink="false">https://aaif.io/blog/what-open-responses-changes-for-ai-developers</guid>
+      <category>Open Responses</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Training agents for real-world tasks with OpenEnv</title>
       <link>https://aaif.io/blog/training-agents-for-real-world-tasks-with-openenv</link>
       <description>Learn how OpenEnv connects task environments to agent training through a shared interface, with practical guidance on rewards, MCP tools, and deployment.</description>
       <guid isPermaLink="false">https://aaif.io/blog/training-agents-for-real-world-tasks-with-openenv</guid>
       <category>OpenEnv</category>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent Skills: Sharing Team Expertise Across AI Agents</title>
-      <link>https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</link>
-      <description>Agent Skills is an open standard for packaging reusable instructions and supporting resources that teach AI agents how to perform specific tasks. Originally developed by Anthropic, it gives people a w</description>
-      <guid isPermaLink="false">https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</guid>
-      <category>Agent Skills</category>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -39,11 +39,11 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Open Responses changes for AI developers</title>
-      <link>https://aaif.io/blog/what-open-responses-changes-for-ai-developers</link>
-      <description>AI developers should be able to support models from multiple providers without writing separate code to send requests and handle responses for each one.</description>
-      <guid isPermaLink="false">https://aaif.io/blog/what-open-responses-changes-for-ai-developers</guid>
-      <category>Open Responses</category>
+      <title>Agent Skills: Sharing Team Expertise Across AI Agents</title>
+      <link>https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</link>
+      <description>Agent Skills is an open standard for packaging reusable instructions and supporting resources that teach AI agents how to perform specific tasks. Originally developed by Anthropic, it gives people a w</description>
+      <guid isPermaLink="false">https://aaif.io/blog/agent-skills-sharing-team-expertise-across-ai-agents</guid>
+      <category>Agent Skills</category>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
