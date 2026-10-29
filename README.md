@@ -20,6 +20,7 @@ Feeds marked "updates paused" retain their last published XML but do not receive
 | [The AAIF Blog](https://aaif.io/blog)                   | [feed_aaif.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_aaif.xml)             |
 | [Bits Lovers](https://www.bitslovers.com/)              | [Official RSS](https://www.bitslovers.com/feed.xml)                                                        |
 | [Brettski's Blog](https://brettski.net)                 | [feed_brettski.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_brettski.xml)     |
+| [Brian Madden's Blog](https://blog.scamall.io)          | [Official RSS](https://blog.scamall.io/feed.xml)                                                           |
 | [ITop Field News](https://itopfield.com.au)             | [feed_itopfield.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_itopfield.xml)   |
 | [Jamie Hurst's Blog](https://jamiehurst.co.uk)          | [feed_jamiehurst.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_jamiehurst.xml) |
 | [Lachlan White's Blog](https://lachlanwhite.com/posts/) | [Official RSS](https://lachlanwhite.com/index.xml)                                                         |
