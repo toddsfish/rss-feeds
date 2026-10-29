@@ -13,7 +13,39 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:52:59 +0000</lastBuildDate>
+    <item>
+      <title>AI for Science expands to foundations and research institutions</title>
+      <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+      <description>We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
+      <category>News</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Early progress on accelerating drug development with Claude</title>
+      <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+      <description>We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/early-progress-drug-development</guid>
+      <category>News</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+      <description>We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+      <category>News</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic files S-1 with the SEC for proposed initial public offering</title>
+      <link>https://www.anthropic.com/news/s1-sec</link>
+      <description>Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/s1-sec</guid>
+      <category>News</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Open call for guest investigators in the life sciences</title>
       <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
