@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:48:06 +0000</lastBuildDate>
     <item>
       <title>PS5 download queue: how to manage it properly</title>
       <link>https://itopfield.com.au/videogames/ps5-download-queue-how-to-manage-it-properly</link>
@@ -23,6 +23,14 @@
       <description>Threat hunting goes beyond automated alerts to actively seek out attackers hiding in your network. Here's how Australian IT teams can start doing it properly.</description>
       <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-threat-hunting-how-to-find-what-tools-missed</guid>
       <category>Cybersecurity</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI chain-of-thought prompting: what it does and when to use it</title>
+      <link>https://itopfield.com.au/ai-machine-learning/ai-chain-of-thought-prompting-what-it-does-when-to-use</link>
+      <description>Chain-of-thought prompting improves AI reasoning on complex tasks, but it's misapplied constantly. Here's when it genuinely helps and when it wastes tokens.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/ai-machine-learning/ai-chain-of-thought-prompting-what-it-does-when-to-use</guid>
+      <category>AI &amp; machine learning</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
