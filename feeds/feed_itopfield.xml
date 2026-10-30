@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:39:58 +0000</lastBuildDate>
     <item>
       <title>PS5 download queue: how to manage it properly</title>
       <link>https://itopfield.com.au/videogames/ps5-download-queue-how-to-manage-it-properly</link>
       <description>The PS5 download queue is more controllable than most players realise. Here's how to prioritise, pause, and schedule downloads so they don't get in the way.</description>
       <guid isPermaLink="false">https://itopfield.com.au/videogames/ps5-download-queue-how-to-manage-it-properly</guid>
       <category>videogames</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security threat hunting: how to find what your tools missed</title>
+      <link>https://itopfield.com.au/cybersecurity/cyber-security-threat-hunting-how-to-find-what-tools-missed</link>
+      <description>Threat hunting goes beyond automated alerts to actively seek out attackers hiding in your network. Here's how Australian IT teams can start doing it properly.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/cybersecurity/cyber-security-threat-hunting-how-to-find-what-tools-missed</guid>
+      <category>Cybersecurity</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
