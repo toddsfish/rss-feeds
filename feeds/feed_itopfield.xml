@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 22:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:17:03 +0000</lastBuildDate>
+    <item>
+      <title>Logging best practices for distributed systems</title>
+      <link>https://itopfield.com.au/software-development/logging-best-practices-distributed-systems</link>
+      <description>Structured logging in distributed systems is harder than it looks. Here are the practical patterns Australian dev teams use to make logs actually useful.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/software-development/logging-best-practices-distributed-systems</guid>
+      <category>Software development</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PS5 trophies not syncing: what's actually going wrong</title>
       <link>https://itopfield.com.au/videogames/ps5-trophies-not-syncing-what-is-going-wrong</link>
