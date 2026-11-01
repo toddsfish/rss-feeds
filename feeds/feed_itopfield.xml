@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:12:07 +0000</lastBuildDate>
     <item>
       <title>Logging best practices for distributed systems</title>
       <link>https://itopfield.com.au/software-development/logging-best-practices-distributed-systems</link>
       <description>Structured logging in distributed systems is harder than it looks. Here are the practical patterns Australian dev teams use to make logs actually useful.</description>
       <guid isPermaLink="false">https://itopfield.com.au/software-development/logging-best-practices-distributed-systems</guid>
       <category>Software development</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Australian agencies handle IT project workforce planning</title>
+      <link>https://itopfield.com.au/government-public-sector-it/australian-government-it-project-workforce-planning</link>
+      <description>Workforce planning on Australian government IT projects is where skill gaps and timeline pressure collide. Here is what good practice looks like and where agencies go wrong.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/government-public-sector-it/australian-government-it-project-workforce-planning</guid>
+      <category>Government &amp; public sector IT</category>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
