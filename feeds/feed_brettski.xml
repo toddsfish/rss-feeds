@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:08:12 +0000</lastBuildDate>
+    <item>
+      <title>Reading List - October 2026</title>
+      <link>https://brettski.net/blog/reading-october-2026.html</link>
+      <description>I'm still struggling with this book. There are some amazingly interesting parts but there are also hugely repetitve chunks where the author just love to write and hasn't made the effort to be concise. Remember the famous quote from (so the Internet says) Pascal: "If I hard more time, I would have written a shorter letter" - it is difficult to write precisely. It takes more time and more effort. Modern society (and AI picks up on this) rewards longer works but shorter can be better if it is done well.</description>
+      <guid isPermaLink="false">https://brettski.net/blog/reading-october-2026.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Repeated Stupid</title>
       <link>https://brettski.net/blog/parking-machine-2026.html</link>
