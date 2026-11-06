@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:51:54 +0000</lastBuildDate>
     <item>
       <title>Google TV, Mini LED and QNED explained: smart TV terms decoded</title>
       <link>https://itopfield.com.au/tv-home-av/google-tv-mini-led-qned-smart-tv-terms-explained</link>
@@ -23,6 +23,14 @@
       <description>Learn how to reset Chromecast and fix the most common Chromecast problems, from Wi-Fi dropouts to casting failures, with step-by-step instructions.</description>
       <guid isPermaLink="false">https://itopfield.com.au/storage-memory/how-to-reset-chromecast-fix-common-problems</guid>
       <category>Storage &amp; memory</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to connect a PS5 controller to PC or Mac</title>
+      <link>https://itopfield.com.au/laptop-care/how-to-connect-ps5-controller-to-pc-or-mac</link>
+      <description>Learn how to connect a PS5 DualSense controller to PC or Mac via USB or Bluetooth, with tips on software, compatibility, and what actually works.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/laptop-care/how-to-connect-ps5-controller-to-pc-or-mac</guid>
+      <category>Laptop care</category>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
