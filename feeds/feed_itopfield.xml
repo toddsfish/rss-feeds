@@ -8,13 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:12:30 +0000</lastBuildDate>
     <item>
       <title>How to check laptop battery health (and why it drains so fast)</title>
       <link>https://itopfield.com.au/storage-memory/how-to-check-laptop-battery-health-why-it-drains-fast</link>
       <description>Learn how to check your laptop battery health on Windows and macOS, understand cycle counts and capacity wear, and find out why your battery drains faster than it should.</description>
       <guid isPermaLink="false">https://itopfield.com.au/storage-memory/how-to-check-laptop-battery-health-why-it-drains-fast</guid>
       <category>Storage &amp; memory</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to calibrate and measure a monitor properly</title>
+      <link>https://itopfield.com.au/laptop-care/how-to-calibrate-and-measure-a-monitor</link>
+      <description>Learn how to calibrate and measure a monitor for accurate colour, contrast, and brightness. A practical guide covering tools, settings, and common mistakes.</description>
+      <guid isPermaLink="false">https://itopfield.com.au/laptop-care/how-to-calibrate-and-measure-a-monitor</guid>
+      <category>Laptop care</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
