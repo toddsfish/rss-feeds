@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:16:57 +0000</lastBuildDate>
     <item>
       <title>Trigger Pulumi Agents from Infrastructure Events</title>
       <link>https://www.pulumi.com/blog/trigger-pulumi-agents-from-infrastructure-events</link>
@@ -68,7 +68,7 @@
     <item>
       <title>Manage Pulumi ESC change requests from the CLI</title>
       <link>https://www.pulumi.com/blog/esc-change-requests-cli</link>
-      <description>The new `pulumi env change-request` commands let you review, approve, and apply Pulumi ESC change requests from the CLI.</description>
+      <description>The new `pulumi env approval` commands let you review, approve, and apply Pulumi ESC change requests from the CLI.</description>
       <guid isPermaLink="false">https://www.pulumi.com/blog/esc-change-requests-cli</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
